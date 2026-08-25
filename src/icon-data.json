@@ -11608,6 +11608,22 @@
 		"libraryId": 110618504660728
 	},
 	{
+		"libraryId": 102896863011780,
+		"id": "galaxy",
+		"title": "Galaxy",
+		"assetId": 125567991951748,
+		"uri": "rbxassetid://125567991951748",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 109295080058957,
+		"id": "galaxy-fill",
+		"title": "GalaxyFill",
+		"assetId": 131736087946834,
+		"uri": "rbxassetid://131736087946834",
+		"contributors": "karsa-mistmere"
+	},
+	{
 		"id": "gallery-horizontal",
 		"title": "GalleryHorizontal",
 		"assetId": 138689653735986,
@@ -15214,6 +15230,22 @@
 		"uri": "rbxassetid://106530804099426",
 		"contributors": "karsa-mistmere, ericfennis",
 		"libraryId": 84856930499127
+	},
+	{
+		"libraryId": 123914002982792,
+		"id": "mail-clock",
+		"title": "MailClock",
+		"assetId": 135607220665599,
+		"uri": "rbxassetid://135607220665599",
+		"contributors": "colebemis, karsa-mistmere, ericfennis"
+	},
+	{
+		"libraryId": 93131361913403,
+		"id": "mail-clock-fill",
+		"title": "MailClockFill",
+		"assetId": 99098391544669,
+		"uri": "rbxassetid://99098391544669",
+		"contributors": "colebemis, karsa-mistmere, ericfennis"
 	},
 	{
 		"id": "mail-fill",
@@ -21776,6 +21808,22 @@
 		"libraryId": 84349241690828
 	},
 	{
+		"libraryId": 79264014070439,
+		"id": "ship-cargo",
+		"title": "ShipCargo",
+		"assetId": 135839261664354,
+		"uri": "rbxassetid://135839261664354",
+		"contributors": "l0uisgrange, karsa-mistmere, jguddas"
+	},
+	{
+		"libraryId": 114226403159818,
+		"id": "ship-cargo-fill",
+		"title": "ShipCargoFill",
+		"assetId": 137073424037483,
+		"uri": "rbxassetid://137073424037483",
+		"contributors": "l0uisgrange, karsa-mistmere, jguddas"
+	},
+	{
 		"id": "ship-fill",
 		"title": "ShipFill",
 		"assetId": 78614672380211,
@@ -25718,6 +25766,22 @@
 		"uri": "rbxassetid://134688181308518",
 		"contributors": "danielbayley, karsa-mistmere, jamiemlaw",
 		"libraryId": 133114723026777
+	},
+	{
+		"libraryId": 82129413796112,
+		"id": "trailer",
+		"title": "Trailer",
+		"assetId": 73066599328762,
+		"uri": "rbxassetid://73066599328762",
+		"contributors": "MadsMadsDk, karsa-mistmere"
+	},
+	{
+		"libraryId": 101056318486166,
+		"id": "trailer-fill",
+		"title": "TrailerFill",
+		"assetId": 127103220489408,
+		"uri": "rbxassetid://127103220489408",
+		"contributors": "MadsMadsDk, karsa-mistmere"
 	},
 	{
 		"id": "train-front",
