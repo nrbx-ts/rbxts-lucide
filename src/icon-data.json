@@ -8000,12 +8000,76 @@
 		"libraryId": 75781188501091
 	},
 	{
+		"libraryId": 113655138887269,
+		"id": "credit-card-check",
+		"title": "CreditCardCheck",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "colebemis, ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 99608132336131,
+		"id": "credit-card-check-fill",
+		"title": "CreditCardCheckFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "colebemis, ericfennis, karsa-mistmere"
+	},
+	{
 		"id": "credit-card-fill",
 		"title": "CreditCardFill",
 		"assetId": 92757349592162,
 		"uri": "rbxassetid://92757349592162",
 		"contributors": "colebemis, karsa-mistmere, ericfennis",
 		"libraryId": 129706462346861
+	},
+	{
+		"libraryId": 127308927658940,
+		"id": "credit-card-minus",
+		"title": "CreditCardMinus",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "colebemis, ericfennis, karsa-mistmere, ameniti-mx"
+	},
+	{
+		"libraryId": 125209281413584,
+		"id": "credit-card-minus-fill",
+		"title": "CreditCardMinusFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "colebemis, ericfennis, karsa-mistmere, ameniti-mx"
+	},
+	{
+		"libraryId": 71117210461853,
+		"id": "credit-card-plus",
+		"title": "CreditCardPlus",
+		"assetId": 92548086485014,
+		"uri": "rbxassetid://92548086485014",
+		"contributors": "colebemis, ericfennis, karsa-mistmere, ameniti-mx"
+	},
+	{
+		"libraryId": 134619944912432,
+		"id": "credit-card-plus-fill",
+		"title": "CreditCardPlusFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "colebemis, ericfennis, karsa-mistmere, ameniti-mx"
+	},
+	{
+		"libraryId": 106209639544524,
+		"id": "credit-card-x",
+		"title": "CreditCardX",
+		"assetId": 72121810140885,
+		"uri": "rbxassetid://72121810140885",
+		"contributors": "colebemis, ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 138991300683405,
+		"id": "credit-card-x-fill",
+		"title": "CreditCardXFill",
+		"assetId": 121525813923540,
+		"uri": "rbxassetid://121525813923540",
+		"contributors": "colebemis, ericfennis, karsa-mistmere"
 	},
 	{
 		"id": "croissant",
@@ -15880,20 +15944,20 @@
 		"libraryId": 83661144314387
 	},
 	{
-		"libraryId": 87923093114102,
 		"id": "message-circle-dashed-check",
 		"title": "MessageCircleDashedCheck",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere, aliyasirnac"
+		"assetId": 132219435684463,
+		"uri": "rbxassetid://132219435684463",
+		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere, aliyasirnac",
+		"libraryId": 87923093114102
 	},
 	{
-		"libraryId": 131284531164739,
 		"id": "message-circle-dashed-check-fill",
 		"title": "MessageCircleDashedCheckFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere, aliyasirnac"
+		"assetId": 105552516059791,
+		"uri": "rbxassetid://105552516059791",
+		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere, aliyasirnac",
+		"libraryId": 131284531164739
 	},
 	{
 		"id": "message-circle-dashed-fill",
