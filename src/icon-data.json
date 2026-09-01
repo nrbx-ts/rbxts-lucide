@@ -8000,20 +8000,20 @@
 		"libraryId": 75781188501091
 	},
 	{
-		"libraryId": 113655138887269,
 		"id": "credit-card-check",
 		"title": "CreditCardCheck",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "colebemis, ericfennis, karsa-mistmere"
+		"assetId": 130323696716143,
+		"uri": "rbxassetid://130323696716143",
+		"contributors": "colebemis, ericfennis, karsa-mistmere",
+		"libraryId": 113655138887269
 	},
 	{
-		"libraryId": 99608132336131,
 		"id": "credit-card-check-fill",
 		"title": "CreditCardCheckFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "colebemis, ericfennis, karsa-mistmere"
+		"assetId": 127329765480542,
+		"uri": "rbxassetid://127329765480542",
+		"contributors": "colebemis, ericfennis, karsa-mistmere",
+		"libraryId": 99608132336131
 	},
 	{
 		"id": "credit-card-fill",
@@ -8024,52 +8024,52 @@
 		"libraryId": 129706462346861
 	},
 	{
-		"libraryId": 127308927658940,
 		"id": "credit-card-minus",
 		"title": "CreditCardMinus",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "colebemis, ericfennis, karsa-mistmere, ameniti-mx"
+		"assetId": 74383416205033,
+		"uri": "rbxassetid://74383416205033",
+		"contributors": "colebemis, ericfennis, karsa-mistmere, ameniti-mx",
+		"libraryId": 127308927658940
 	},
 	{
-		"libraryId": 125209281413584,
 		"id": "credit-card-minus-fill",
 		"title": "CreditCardMinusFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "colebemis, ericfennis, karsa-mistmere, ameniti-mx"
+		"assetId": 83591717456649,
+		"uri": "rbxassetid://83591717456649",
+		"contributors": "colebemis, ericfennis, karsa-mistmere, ameniti-mx",
+		"libraryId": 125209281413584
 	},
 	{
-		"libraryId": 71117210461853,
 		"id": "credit-card-plus",
 		"title": "CreditCardPlus",
 		"assetId": 92548086485014,
 		"uri": "rbxassetid://92548086485014",
-		"contributors": "colebemis, ericfennis, karsa-mistmere, ameniti-mx"
+		"contributors": "colebemis, ericfennis, karsa-mistmere, ameniti-mx",
+		"libraryId": 71117210461853
 	},
 	{
-		"libraryId": 134619944912432,
 		"id": "credit-card-plus-fill",
 		"title": "CreditCardPlusFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "colebemis, ericfennis, karsa-mistmere, ameniti-mx"
+		"assetId": 136349435389459,
+		"uri": "rbxassetid://136349435389459",
+		"contributors": "colebemis, ericfennis, karsa-mistmere, ameniti-mx",
+		"libraryId": 134619944912432
 	},
 	{
-		"libraryId": 106209639544524,
 		"id": "credit-card-x",
 		"title": "CreditCardX",
 		"assetId": 72121810140885,
 		"uri": "rbxassetid://72121810140885",
-		"contributors": "colebemis, ericfennis, karsa-mistmere"
+		"contributors": "colebemis, ericfennis, karsa-mistmere",
+		"libraryId": 106209639544524
 	},
 	{
-		"libraryId": 138991300683405,
 		"id": "credit-card-x-fill",
 		"title": "CreditCardXFill",
 		"assetId": 121525813923540,
 		"uri": "rbxassetid://121525813923540",
-		"contributors": "colebemis, ericfennis, karsa-mistmere"
+		"contributors": "colebemis, ericfennis, karsa-mistmere",
+		"libraryId": 138991300683405
 	},
 	{
 		"id": "croissant",
@@ -27142,6 +27142,22 @@
 		"uri": "rbxassetid://124383739510476",
 		"contributors": "danielbayley",
 		"libraryId": 123852239350304
+	},
+	{
+		"libraryId": 91339718243565,
+		"id": "vector-polygon",
+		"title": "VectorPolygon",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "daboudii, timmy471, karsa-mistmere"
+	},
+	{
+		"libraryId": 133251773525926,
+		"id": "vector-polygon-fill",
+		"title": "VectorPolygonFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "daboudii, timmy471, karsa-mistmere"
 	},
 	{
 		"id": "vector-square",
