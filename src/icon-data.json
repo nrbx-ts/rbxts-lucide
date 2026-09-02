@@ -3736,6 +3736,22 @@
 		"libraryId": 123531510920744
 	},
 	{
+		"libraryId": 112614473692992,
+		"id": "bridge",
+		"title": "Bridge",
+		"assetId": 117961588474294,
+		"uri": "rbxassetid://117961588474294",
+		"contributors": "Nykoula, jamiemlaw"
+	},
+	{
+		"libraryId": 95552108418582,
+		"id": "bridge-fill",
+		"title": "BridgeFill",
+		"assetId": 105808062942326,
+		"uri": "rbxassetid://105808062942326",
+		"contributors": "Nykoula, jamiemlaw"
+	},
+	{
 		"id": "briefcase",
 		"title": "Briefcase",
 		"assetId": 102884449153261,
@@ -4486,6 +4502,22 @@
 		"uri": "rbxassetid://102676907901114",
 		"contributors": "colebemis, lscheibel, Andreto, ericfennis, karsa-mistmere",
 		"libraryId": 97024358262594
+	},
+	{
+		"libraryId": 101796170917278,
+		"id": "can",
+		"title": "Can",
+		"assetId": 87203477924859,
+		"uri": "rbxassetid://87203477924859",
+		"contributors": "l0uisgrange, karsa-mistmere"
+	},
+	{
+		"libraryId": 138736473200260,
+		"id": "can-fill",
+		"title": "CanFill",
+		"assetId": 92291755268292,
+		"uri": "rbxassetid://92291755268292",
+		"contributors": "l0uisgrange, karsa-mistmere"
 	},
 	{
 		"id": "candy",
@@ -15352,6 +15384,22 @@
 		"libraryId": 92524688842814
 	},
 	{
+		"libraryId": 102834650441041,
+		"id": "mail-pen",
+		"title": "MailPen",
+		"assetId": 99418673084589,
+		"uri": "rbxassetid://99418673084589",
+		"contributors": "colebemis, karsa-mistmere, ericfennis, jguddas, jennieboops"
+	},
+	{
+		"libraryId": 81566426604635,
+		"id": "mail-pen-fill",
+		"title": "MailPenFill",
+		"assetId": 98117679022640,
+		"uri": "rbxassetid://98117679022640",
+		"contributors": "colebemis, karsa-mistmere, ericfennis, jguddas, jennieboops"
+	},
+	{
 		"id": "mail-plus",
 		"title": "MailPlus",
 		"assetId": 82515419620939,
@@ -22072,6 +22120,38 @@
 		"libraryId": 95282112490435
 	},
 	{
+		"libraryId": 101368122086144,
+		"id": "shopping-cart-minus",
+		"title": "ShoppingCartMinus",
+		"assetId": 109371703662990,
+		"uri": "rbxassetid://109371703662990",
+		"contributors": "ajay199210, jguddas, ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 73095474831425,
+		"id": "shopping-cart-minus-fill",
+		"title": "ShoppingCartMinusFill",
+		"assetId": 98939329045321,
+		"uri": "rbxassetid://98939329045321",
+		"contributors": "ajay199210, jguddas, ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 139131438228911,
+		"id": "shopping-cart-plus",
+		"title": "ShoppingCartPlus",
+		"assetId": 99144748199697,
+		"uri": "rbxassetid://99144748199697",
+		"contributors": "ajay199210, jguddas, ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 112226270720158,
+		"id": "shopping-cart-plus-fill",
+		"title": "ShoppingCartPlusFill",
+		"assetId": 90039823244005,
+		"uri": "rbxassetid://90039823244005",
+		"contributors": "ajay199210, jguddas, ericfennis, karsa-mistmere"
+	},
+	{
 		"id": "shovel",
 		"title": "Shovel",
 		"assetId": 71624316510066,
@@ -22134,6 +22214,22 @@
 		"uri": "rbxassetid://94155838339477",
 		"contributors": "karsa-mistmere",
 		"libraryId": 137668459421848
+	},
+	{
+		"libraryId": 128701838183427,
+		"id": "shrimp-off",
+		"title": "ShrimpOff",
+		"assetId": 84016653091408,
+		"uri": "rbxassetid://84016653091408",
+		"contributors": "karsa-mistmere, jguddas"
+	},
+	{
+		"libraryId": 89293555912522,
+		"id": "shrimp-off-fill",
+		"title": "ShrimpOffFill",
+		"assetId": 123181034719566,
+		"uri": "rbxassetid://123181034719566",
+		"contributors": "karsa-mistmere, jguddas"
 	},
 	{
 		"id": "shrink",
@@ -27144,20 +27240,20 @@
 		"libraryId": 123852239350304
 	},
 	{
-		"libraryId": 91339718243565,
 		"id": "vector-polygon",
 		"title": "VectorPolygon",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "daboudii, timmy471, karsa-mistmere"
+		"assetId": 76962801789427,
+		"uri": "rbxassetid://76962801789427",
+		"contributors": "daboudii, timmy471, karsa-mistmere",
+		"libraryId": 91339718243565
 	},
 	{
-		"libraryId": 133251773525926,
 		"id": "vector-polygon-fill",
 		"title": "VectorPolygonFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "daboudii, timmy471, karsa-mistmere"
+		"assetId": 73249990053463,
+		"uri": "rbxassetid://73249990053463",
+		"contributors": "daboudii, timmy471, karsa-mistmere",
+		"libraryId": 133251773525926
 	},
 	{
 		"id": "vector-square",
@@ -27830,6 +27926,22 @@
 		"uri": "rbxassetid://111361394993377",
 		"contributors": "karsa-mistmere, ericfennis",
 		"libraryId": 92072281139335
+	},
+	{
+		"libraryId": 127184295763073,
+		"id": "whistle",
+		"title": "Whistle",
+		"assetId": 86323467771524,
+		"uri": "rbxassetid://86323467771524",
+		"contributors": "briz123, UsamaKhan, ajokt123, timmy471, jguddas, karsa-mistmere"
+	},
+	{
+		"libraryId": 89381342385447,
+		"id": "whistle-fill",
+		"title": "WhistleFill",
+		"assetId": 91080616682981,
+		"uri": "rbxassetid://91080616682981",
+		"contributors": "briz123, UsamaKhan, ajokt123, timmy471, jguddas, karsa-mistmere"
 	},
 	{
 		"id": "whole-word",
