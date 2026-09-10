@@ -4712,36 +4712,36 @@
 		"libraryId": 139317068216079
 	},
 	{
-		"libraryId": 95752921260391,
 		"id": "carton",
 		"title": "Carton",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "danielbayley, karsa-mistmere"
+		"assetId": 106857974958608,
+		"uri": "rbxassetid://106857974958608",
+		"contributors": "danielbayley, karsa-mistmere",
+		"libraryId": 95752921260391
 	},
 	{
-		"libraryId": 127487913267219,
 		"id": "carton-fill",
 		"title": "CartonFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "danielbayley, karsa-mistmere"
+		"assetId": 77254546705175,
+		"uri": "rbxassetid://77254546705175",
+		"contributors": "danielbayley, karsa-mistmere",
+		"libraryId": 127487913267219
 	},
 	{
-		"libraryId": 92613553060049,
 		"id": "carton-off",
 		"title": "CartonOff",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "danielbayley, karsa-mistmere"
+		"assetId": 90666418629549,
+		"uri": "rbxassetid://90666418629549",
+		"contributors": "danielbayley, karsa-mistmere",
+		"libraryId": 92613553060049
 	},
 	{
-		"libraryId": 77173884777904,
 		"id": "carton-off-fill",
 		"title": "CartonOffFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "danielbayley, karsa-mistmere"
+		"assetId": 82881101104411,
+		"uri": "rbxassetid://82881101104411",
+		"contributors": "danielbayley, karsa-mistmere",
+		"libraryId": 77173884777904
 	},
 	{
 		"id": "case-lower",
@@ -26582,6 +26582,38 @@
 		"uri": "rbxassetid://114741342038725",
 		"contributors": "danielbayley",
 		"libraryId": 113292521049271
+	},
+	{
+		"libraryId": 126555593835762,
+		"id": "triangles-centerline-dashed-horizontal",
+		"title": "TrianglesCenterlineDashedHorizontal",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 84845075955860,
+		"id": "triangles-centerline-dashed-horizontal-fill",
+		"title": "TrianglesCenterlineDashedHorizontalFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 118237598512211,
+		"id": "triangles-centerline-dashed-vertical",
+		"title": "TrianglesCenterlineDashedVertical",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "ericfennis, karsa-mistmere, jguddas"
+	},
+	{
+		"libraryId": 70472517110435,
+		"id": "triangles-centerline-dashed-vertical-fill",
+		"title": "TrianglesCenterlineDashedVerticalFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "ericfennis, karsa-mistmere, jguddas"
 	},
 	{
 		"id": "trophy",
