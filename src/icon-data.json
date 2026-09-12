@@ -3040,20 +3040,20 @@
 		"libraryId": 90966843609715
 	},
 	{
-		"libraryId": 134229840617161,
 		"id": "book-bookmark",
 		"title": "BookBookmark",
 		"assetId": 83576020388200,
 		"uri": "rbxassetid://83576020388200",
-		"contributors": "danielbayley, karsa-mistmere"
+		"contributors": "danielbayley, karsa-mistmere",
+		"libraryId": 134229840617161
 	},
 	{
-		"libraryId": 116519267434517,
 		"id": "book-bookmark-fill",
 		"title": "BookBookmarkFill",
 		"assetId": 104672356928256,
 		"uri": "rbxassetid://104672356928256",
-		"contributors": "danielbayley, karsa-mistmere"
+		"contributors": "danielbayley, karsa-mistmere",
+		"libraryId": 116519267434517
 	},
 	{
 		"id": "book-check",
@@ -4016,36 +4016,36 @@
 		"libraryId": 83312539783044
 	},
 	{
-		"libraryId": 107145887210248,
 		"id": "building-complex",
 		"title": "BuildingComplex",
 		"assetId": 132895720600192,
 		"uri": "rbxassetid://132895720600192",
-		"contributors": "maxim-s-barabash, ericfennis, karsa-mistmere, jguddas"
+		"contributors": "maxim-s-barabash, ericfennis, karsa-mistmere, jguddas",
+		"libraryId": 107145887210248
 	},
 	{
-		"libraryId": 73077908446571,
 		"id": "building-complex-fill",
 		"title": "BuildingComplexFill",
 		"assetId": 129879856874516,
 		"uri": "rbxassetid://129879856874516",
-		"contributors": "maxim-s-barabash, ericfennis, karsa-mistmere, jguddas"
+		"contributors": "maxim-s-barabash, ericfennis, karsa-mistmere, jguddas",
+		"libraryId": 73077908446571
 	},
 	{
-		"libraryId": 140272892485829,
 		"id": "building-complex-plus",
 		"title": "BuildingComplexPlus",
 		"assetId": 104211942866572,
 		"uri": "rbxassetid://104211942866572",
-		"contributors": "maxim-s-barabash, ericfennis, karsa-mistmere, jguddas, tylerkade"
+		"contributors": "maxim-s-barabash, ericfennis, karsa-mistmere, jguddas, tylerkade",
+		"libraryId": 140272892485829
 	},
 	{
-		"libraryId": 130519056193084,
 		"id": "building-complex-plus-fill",
 		"title": "BuildingComplexPlusFill",
 		"assetId": 114888884694552,
 		"uri": "rbxassetid://114888884694552",
-		"contributors": "maxim-s-barabash, ericfennis, karsa-mistmere, jguddas, tylerkade"
+		"contributors": "maxim-s-barabash, ericfennis, karsa-mistmere, jguddas, tylerkade",
+		"libraryId": 130519056193084
 	},
 	{
 		"id": "building-fill",
@@ -4256,20 +4256,20 @@
 		"libraryId": 127302354969573
 	},
 	{
-		"libraryId": 97749198685865,
 		"id": "calendar-chevrons-right",
 		"title": "CalendarChevronsRight",
 		"assetId": 73016500582654,
 		"uri": "rbxassetid://73016500582654",
-		"contributors": "karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"contributors": "karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 97749198685865
 	},
 	{
-		"libraryId": 93545959165238,
 		"id": "calendar-chevrons-right-fill",
 		"title": "CalendarChevronsRightFill",
 		"assetId": 91689768406066,
 		"uri": "rbxassetid://91689768406066",
-		"contributors": "karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"contributors": "karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 93545959165238
 	},
 	{
 		"id": "calendar-clock",
@@ -6566,6 +6566,54 @@
 		"uri": "rbxassetid://131434992259830",
 		"contributors": "it-is-not, ericfennis, danielbayley, torfmuer",
 		"libraryId": 85691890608228
+	},
+	{
+		"libraryId": 76709752069118,
+		"id": "clef-alto",
+		"title": "ClefAlto",
+		"assetId": 76363736945539,
+		"uri": "rbxassetid://76363736945539",
+		"contributors": "rrod497"
+	},
+	{
+		"libraryId": 87288361220509,
+		"id": "clef-alto-fill",
+		"title": "ClefAltoFill",
+		"assetId": 85325934180315,
+		"uri": "rbxassetid://85325934180315",
+		"contributors": "rrod497"
+	},
+	{
+		"libraryId": 133616938627023,
+		"id": "clef-bass",
+		"title": "ClefBass",
+		"assetId": 87220302724787,
+		"uri": "rbxassetid://87220302724787",
+		"contributors": "rrod497"
+	},
+	{
+		"libraryId": 76053664984067,
+		"id": "clef-bass-fill",
+		"title": "ClefBassFill",
+		"assetId": 132466688986539,
+		"uri": "rbxassetid://132466688986539",
+		"contributors": "rrod497"
+	},
+	{
+		"libraryId": 81728689310068,
+		"id": "clef-treble",
+		"title": "ClefTreble",
+		"assetId": 128731376256631,
+		"uri": "rbxassetid://128731376256631",
+		"contributors": "rrod497"
+	},
+	{
+		"libraryId": 102622779644106,
+		"id": "clef-treble-fill",
+		"title": "ClefTrebleFill",
+		"assetId": 123894896162977,
+		"uri": "rbxassetid://123894896162977",
+		"contributors": "rrod497"
 	},
 	{
 		"id": "clipboard",
@@ -12528,6 +12576,22 @@
 		"libraryId": 73865717878265
 	},
 	{
+		"libraryId": 139020884568838,
+		"id": "globe-code",
+		"title": "GlobeCode",
+		"assetId": 90845243398298,
+		"uri": "rbxassetid://90845243398298",
+		"contributors": "colebemis, csandman, ericfennis, AleksejDix"
+	},
+	{
+		"libraryId": 88127086943100,
+		"id": "globe-code-fill",
+		"title": "GlobeCodeFill",
+		"assetId": 138323155943121,
+		"uri": "rbxassetid://138323155943121",
+		"contributors": "colebemis, csandman, ericfennis, AleksejDix"
+	},
+	{
 		"id": "globe-fill",
 		"title": "GlobeFill",
 		"assetId": 99766696370669,
@@ -13568,20 +13632,20 @@
 		"libraryId": 100999310393507
 	},
 	{
-		"libraryId": 80441129583109,
 		"id": "hourglass-cog",
 		"title": "HourglassCog",
 		"assetId": 103149533668924,
 		"uri": "rbxassetid://103149533668924",
-		"contributors": "rrod497"
+		"contributors": "rrod497",
+		"libraryId": 80441129583109
 	},
 	{
-		"libraryId": 107468042648446,
 		"id": "hourglass-cog-fill",
 		"title": "HourglassCogFill",
 		"assetId": 73197952857437,
 		"uri": "rbxassetid://73197952857437",
-		"contributors": "rrod497"
+		"contributors": "rrod497",
+		"libraryId": 107468042648446
 	},
 	{
 		"id": "hourglass-fill",
@@ -13672,20 +13736,20 @@
 		"libraryId": 89846478718880
 	},
 	{
-		"libraryId": 105608372417218,
 		"id": "houses",
 		"title": "Houses",
 		"assetId": 81106765686880,
 		"uri": "rbxassetid://81106765686880",
-		"contributors": "danielbayley, jguddas"
+		"contributors": "danielbayley, jguddas",
+		"libraryId": 105608372417218
 	},
 	{
-		"libraryId": 80493620461129,
 		"id": "houses-fill",
 		"title": "HousesFill",
 		"assetId": 104654698345510,
 		"uri": "rbxassetid://104654698345510",
-		"contributors": "danielbayley, jguddas"
+		"contributors": "danielbayley, jguddas",
+		"libraryId": 80493620461129
 	},
 	{
 		"id": "ice-cream-bowl",
@@ -14040,20 +14104,20 @@
 		"libraryId": 86845815980056
 	},
 	{
-		"libraryId": 74798609248418,
 		"id": "iv-bag",
 		"title": "IvBag",
 		"assetId": 92867721654889,
 		"uri": "rbxassetid://92867721654889",
-		"contributors": "karsa-mistmere"
+		"contributors": "karsa-mistmere",
+		"libraryId": 74798609248418
 	},
 	{
-		"libraryId": 123910128747259,
 		"id": "iv-bag-fill",
 		"title": "IvBagFill",
 		"assetId": 71788219608504,
 		"uri": "rbxassetid://71788219608504",
-		"contributors": "karsa-mistmere"
+		"contributors": "karsa-mistmere",
+		"libraryId": 123910128747259
 	},
 	{
 		"id": "japanese-yen",
@@ -14568,36 +14632,36 @@
 		"libraryId": 110803086428377
 	},
 	{
-		"libraryId": 134421899519588,
 		"id": "layout-arrow-down",
 		"title": "LayoutArrowDown",
 		"assetId": 93359189859582,
 		"uri": "rbxassetid://93359189859582",
-		"contributors": "samuelalake"
+		"contributors": "samuelalake",
+		"libraryId": 134421899519588
 	},
 	{
-		"libraryId": 101112704313595,
 		"id": "layout-arrow-down-fill",
 		"title": "LayoutArrowDownFill",
 		"assetId": 115869963464729,
 		"uri": "rbxassetid://115869963464729",
-		"contributors": "samuelalake"
+		"contributors": "samuelalake",
+		"libraryId": 101112704313595
 	},
 	{
-		"libraryId": 121275672124746,
 		"id": "layout-arrow-right",
 		"title": "LayoutArrowRight",
 		"assetId": 128624354153630,
 		"uri": "rbxassetid://128624354153630",
-		"contributors": "samuelalake"
+		"contributors": "samuelalake",
+		"libraryId": 121275672124746
 	},
 	{
-		"libraryId": 123898956106499,
 		"id": "layout-arrow-right-fill",
 		"title": "LayoutArrowRightFill",
 		"assetId": 82727654584826,
 		"uri": "rbxassetid://82727654584826",
-		"contributors": "samuelalake"
+		"contributors": "samuelalake",
+		"libraryId": 123898956106499
 	},
 	{
 		"id": "layout-dashboard",
@@ -16776,20 +16840,20 @@
 		"libraryId": 126291851857152
 	},
 	{
-		"libraryId": 119638729367449,
 		"id": "messages-circle",
 		"title": "MessagesCircle",
 		"assetId": 75931764011242,
 		"uri": "rbxassetid://75931764011242",
-		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere, Mirazstudio-offical"
+		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere, Mirazstudio-offical",
+		"libraryId": 119638729367449
 	},
 	{
-		"libraryId": 108736860436535,
 		"id": "messages-circle-fill",
 		"title": "MessagesCircleFill",
 		"assetId": 113812217119832,
 		"uri": "rbxassetid://113812217119832",
-		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere, Mirazstudio-offical"
+		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere, Mirazstudio-offical",
+		"libraryId": 108736860436535
 	},
 	{
 		"id": "messages-square",
@@ -17592,36 +17656,36 @@
 		"libraryId": 116612884922300
 	},
 	{
-		"libraryId": 84805250499319,
 		"id": "mouth",
 		"title": "Mouth",
 		"assetId": 108490406534132,
 		"uri": "rbxassetid://108490406534132",
-		"contributors": "juliansolimando, karsa-mistmere"
+		"contributors": "juliansolimando, karsa-mistmere",
+		"libraryId": 84805250499319
 	},
 	{
-		"libraryId": 111886400456895,
 		"id": "mouth-fill",
 		"title": "MouthFill",
 		"assetId": 122372858132896,
 		"uri": "rbxassetid://122372858132896",
-		"contributors": "juliansolimando, karsa-mistmere"
+		"contributors": "juliansolimando, karsa-mistmere",
+		"libraryId": 111886400456895
 	},
 	{
-		"libraryId": 85659857735557,
 		"id": "mouth-off",
 		"title": "MouthOff",
 		"assetId": 73917662857033,
 		"uri": "rbxassetid://73917662857033",
-		"contributors": "juliansolimando, karsa-mistmere"
+		"contributors": "juliansolimando, karsa-mistmere",
+		"libraryId": 85659857735557
 	},
 	{
-		"libraryId": 101164888029914,
 		"id": "mouth-off-fill",
 		"title": "MouthOffFill",
 		"assetId": 135821580476768,
 		"uri": "rbxassetid://135821580476768",
-		"contributors": "juliansolimando, karsa-mistmere"
+		"contributors": "juliansolimando, karsa-mistmere",
+		"libraryId": 101164888029914
 	},
 	{
 		"id": "move",
@@ -18048,20 +18112,20 @@
 		"libraryId": 89240874759090
 	},
 	{
-		"libraryId": 88854204988865,
 		"id": "notebook-dot",
 		"title": "NotebookDot",
 		"assetId": 129609206693877,
 		"uri": "rbxassetid://129609206693877",
-		"contributors": "elenakovelskikh"
+		"contributors": "elenakovelskikh",
+		"libraryId": 88854204988865
 	},
 	{
-		"libraryId": 71841582119938,
 		"id": "notebook-dot-fill",
 		"title": "NotebookDotFill",
 		"assetId": 109537330463593,
 		"uri": "rbxassetid://109537330463593",
-		"contributors": "elenakovelskikh"
+		"contributors": "elenakovelskikh",
+		"libraryId": 71841582119938
 	},
 	{
 		"id": "notebook-fill",
@@ -18952,20 +19016,20 @@
 		"libraryId": 105290655301598
 	},
 	{
-		"libraryId": 97060940532321,
 		"id": "park",
 		"title": "Park",
 		"assetId": 135520936470984,
 		"uri": "rbxassetid://135520936470984",
-		"contributors": "skajosborn, jguddas"
+		"contributors": "skajosborn, jguddas",
+		"libraryId": 97060940532321
 	},
 	{
-		"libraryId": 90544291563855,
 		"id": "park-fill",
 		"title": "ParkFill",
 		"assetId": 76864706544534,
 		"uri": "rbxassetid://76864706544534",
-		"contributors": "skajosborn, jguddas"
+		"contributors": "skajosborn, jguddas",
+		"libraryId": 90544291563855
 	},
 	{
 		"id": "parking-meter",
@@ -19672,20 +19736,20 @@
 		"libraryId": 74111830788819
 	},
 	{
-		"libraryId": 107116689033915,
 		"id": "plant-pot",
 		"title": "PlantPot",
 		"assetId": 114662498000338,
 		"uri": "rbxassetid://114662498000338",
-		"contributors": "karsa-mistmere"
+		"contributors": "karsa-mistmere",
+		"libraryId": 107116689033915
 	},
 	{
-		"libraryId": 75598382505536,
 		"id": "plant-pot-fill",
 		"title": "PlantPotFill",
 		"assetId": 98116326637593,
 		"uri": "rbxassetid://98116326637593",
-		"contributors": "karsa-mistmere"
+		"contributors": "karsa-mistmere",
+		"libraryId": 75598382505536
 	},
 	{
 		"id": "play",
@@ -23664,20 +23728,20 @@
 		"libraryId": 134279217857202
 	},
 	{
-		"libraryId": 120203797337488,
 		"id": "square-bookmark",
 		"title": "SquareBookmark",
 		"assetId": 139276754624517,
 		"uri": "rbxassetid://139276754624517",
-		"contributors": "ericfennis, csandman, mittalyashu, karsa-mistmere"
+		"contributors": "ericfennis, csandman, mittalyashu, karsa-mistmere",
+		"libraryId": 120203797337488
 	},
 	{
-		"libraryId": 127698610398048,
 		"id": "square-bookmark-fill",
 		"title": "SquareBookmarkFill",
 		"assetId": 98728288783319,
 		"uri": "rbxassetid://98728288783319",
-		"contributors": "ericfennis, csandman, mittalyashu, karsa-mistmere"
+		"contributors": "ericfennis, csandman, mittalyashu, karsa-mistmere",
+		"libraryId": 127698610398048
 	},
 	{
 		"id": "square-bottom-dashed-scissors",
@@ -26376,36 +26440,36 @@
 		"libraryId": 78728798365702
 	},
 	{
-		"libraryId": 89892892644218,
 		"id": "toothbrush",
 		"title": "Toothbrush",
 		"assetId": 99812877637544,
 		"uri": "rbxassetid://99812877637544",
-		"contributors": "jamiemlaw, karsa-mistmere"
+		"contributors": "jamiemlaw, karsa-mistmere",
+		"libraryId": 89892892644218
 	},
 	{
-		"libraryId": 82077543799409,
 		"id": "toothbrush-fill",
 		"title": "ToothbrushFill",
 		"assetId": 108722703672900,
 		"uri": "rbxassetid://108722703672900",
-		"contributors": "jamiemlaw, karsa-mistmere"
+		"contributors": "jamiemlaw, karsa-mistmere",
+		"libraryId": 82077543799409
 	},
 	{
-		"libraryId": 71912648296443,
 		"id": "toothbrush-sparkles",
 		"title": "ToothbrushSparkles",
 		"assetId": 93773536125604,
 		"uri": "rbxassetid://93773536125604",
-		"contributors": "jamiemlaw, karsa-mistmere, jguddas"
+		"contributors": "jamiemlaw, karsa-mistmere, jguddas",
+		"libraryId": 71912648296443
 	},
 	{
-		"libraryId": 135054431392244,
 		"id": "toothbrush-sparkles-fill",
 		"title": "ToothbrushSparklesFill",
 		"assetId": 130301674922879,
 		"uri": "rbxassetid://130301674922879",
-		"contributors": "jamiemlaw, karsa-mistmere, jguddas"
+		"contributors": "jamiemlaw, karsa-mistmere, jguddas",
+		"libraryId": 135054431392244
 	},
 	{
 		"id": "tornado",
