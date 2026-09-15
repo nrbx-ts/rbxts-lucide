@@ -6568,52 +6568,52 @@
 		"libraryId": 85691890608228
 	},
 	{
-		"libraryId": 76709752069118,
 		"id": "clef-alto",
 		"title": "ClefAlto",
 		"assetId": 76363736945539,
 		"uri": "rbxassetid://76363736945539",
-		"contributors": "rrod497"
+		"contributors": "rrod497",
+		"libraryId": 76709752069118
 	},
 	{
-		"libraryId": 87288361220509,
 		"id": "clef-alto-fill",
 		"title": "ClefAltoFill",
 		"assetId": 85325934180315,
 		"uri": "rbxassetid://85325934180315",
-		"contributors": "rrod497"
+		"contributors": "rrod497",
+		"libraryId": 87288361220509
 	},
 	{
-		"libraryId": 133616938627023,
 		"id": "clef-bass",
 		"title": "ClefBass",
 		"assetId": 87220302724787,
 		"uri": "rbxassetid://87220302724787",
-		"contributors": "rrod497"
+		"contributors": "rrod497",
+		"libraryId": 133616938627023
 	},
 	{
-		"libraryId": 76053664984067,
 		"id": "clef-bass-fill",
 		"title": "ClefBassFill",
 		"assetId": 132466688986539,
 		"uri": "rbxassetid://132466688986539",
-		"contributors": "rrod497"
+		"contributors": "rrod497",
+		"libraryId": 76053664984067
 	},
 	{
-		"libraryId": 81728689310068,
 		"id": "clef-treble",
 		"title": "ClefTreble",
 		"assetId": 128731376256631,
 		"uri": "rbxassetid://128731376256631",
-		"contributors": "rrod497"
+		"contributors": "rrod497",
+		"libraryId": 81728689310068
 	},
 	{
-		"libraryId": 102622779644106,
 		"id": "clef-treble-fill",
 		"title": "ClefTrebleFill",
 		"assetId": 123894896162977,
 		"uri": "rbxassetid://123894896162977",
-		"contributors": "rrod497"
+		"contributors": "rrod497",
+		"libraryId": 102622779644106
 	},
 	{
 		"id": "clipboard",
@@ -8392,6 +8392,22 @@
 		"libraryId": 109399326590863
 	},
 	{
+		"libraryId": 101766120252755,
+		"id": "cupcake",
+		"title": "Cupcake",
+		"assetId": 70911485423129,
+		"uri": "rbxassetid://70911485423129",
+		"contributors": "AnnaSasDev, briz123, ajokt123, rrod497, karsa-mistmere"
+	},
+	{
+		"libraryId": 76761634881216,
+		"id": "cupcake-fill",
+		"title": "CupcakeFill",
+		"assetId": 103368378429787,
+		"uri": "rbxassetid://103368378429787",
+		"contributors": "AnnaSasDev, briz123, ajokt123, rrod497, karsa-mistmere"
+	},
+	{
 		"id": "currency",
 		"title": "Currency",
 		"assetId": 101338754849992,
@@ -9094,6 +9110,22 @@
 		"uri": "rbxassetid://135799761775418",
 		"contributors": "karsa-mistmere, lukedukeus",
 		"libraryId": 71201953535614
+	},
+	{
+		"libraryId": 78627006290403,
+		"id": "door-closed-package",
+		"title": "DoorClosedPackage",
+		"assetId": 118986189932402,
+		"uri": "rbxassetid://118986189932402",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 137703172163642,
+		"id": "door-closed-package-fill",
+		"title": "DoorClosedPackageFill",
+		"assetId": 89559996607763,
+		"uri": "rbxassetid://89559996607763",
+		"contributors": "karsa-mistmere"
 	},
 	{
 		"id": "door-open",
@@ -9910,6 +9942,22 @@
 		"uri": "rbxassetid://96553554247084",
 		"contributors": "colebemis, karsa-mistmere",
 		"libraryId": 83058113570991
+	},
+	{
+		"libraryId": 132325981896728,
+		"id": "faucet",
+		"title": "Faucet",
+		"assetId": 135661919947662,
+		"uri": "rbxassetid://135661919947662",
+		"contributors": "danielbayley, karsa-mistmere"
+	},
+	{
+		"libraryId": 129983091629894,
+		"id": "faucet-fill",
+		"title": "FaucetFill",
+		"assetId": 94392823345049,
+		"uri": "rbxassetid://94392823345049",
+		"contributors": "danielbayley, karsa-mistmere"
 	},
 	{
 		"id": "feather",
@@ -12576,20 +12624,20 @@
 		"libraryId": 73865717878265
 	},
 	{
-		"libraryId": 139020884568838,
 		"id": "globe-code",
 		"title": "GlobeCode",
 		"assetId": 90845243398298,
 		"uri": "rbxassetid://90845243398298",
-		"contributors": "colebemis, csandman, ericfennis, AleksejDix"
+		"contributors": "colebemis, csandman, ericfennis, AleksejDix",
+		"libraryId": 139020884568838
 	},
 	{
-		"libraryId": 88127086943100,
 		"id": "globe-code-fill",
 		"title": "GlobeCodeFill",
 		"assetId": 138323155943121,
 		"uri": "rbxassetid://138323155943121",
-		"contributors": "colebemis, csandman, ericfennis, AleksejDix"
+		"contributors": "colebemis, csandman, ericfennis, AleksejDix",
+		"libraryId": 88127086943100
 	},
 	{
 		"id": "globe-fill",
@@ -14278,6 +14326,22 @@
 		"uri": "rbxassetid://120318285509352",
 		"contributors": "Diottodev, karsa-mistmere",
 		"libraryId": 79009503351013
+	},
+	{
+		"libraryId": 108697494349340,
+		"id": "lambda",
+		"title": "Lambda",
+		"assetId": 122145431682562,
+		"uri": "rbxassetid://122145431682562",
+		"contributors": "karsa-mistmere, kaleidosium, UbaidUllah9962"
+	},
+	{
+		"libraryId": 129729365332415,
+		"id": "lambda-fill",
+		"title": "LambdaFill",
+		"assetId": 100929520189943,
+		"uri": "rbxassetid://100929520189943",
+		"contributors": "karsa-mistmere, kaleidosium, UbaidUllah9962"
 	},
 	{
 		"id": "lamp",
@@ -17288,6 +17352,22 @@
 		"libraryId": 135840154033866
 	},
 	{
+		"libraryId": 83741805784245,
+		"id": "monitor-pc",
+		"title": "MonitorPc",
+		"assetId": 123544572683220,
+		"uri": "rbxassetid://123544572683220",
+		"contributors": "colebemis, ericfennis, danielbayley, jguddas, karsa-mistmere"
+	},
+	{
+		"libraryId": 96688604396380,
+		"id": "monitor-pc-fill",
+		"title": "MonitorPcFill",
+		"assetId": 76767808865409,
+		"uri": "rbxassetid://76767808865409",
+		"contributors": "colebemis, ericfennis, danielbayley, jguddas, karsa-mistmere"
+	},
+	{
 		"id": "monitor-play",
 		"title": "MonitorPlay",
 		"assetId": 105143668328881,
@@ -18038,6 +18118,22 @@
 		"uri": "rbxassetid://103558137151062",
 		"contributors": "karsa-mistmere, ericfennis",
 		"libraryId": 118601532607878
+	},
+	{
+		"libraryId": 111076667172104,
+		"id": "nepali-rupee",
+		"title": "NepaliRupee",
+		"assetId": 101562304823281,
+		"uri": "rbxassetid://101562304823281",
+		"contributors": "sarajdhakal"
+	},
+	{
+		"libraryId": 92317387229840,
+		"id": "nepali-rupee-fill",
+		"title": "NepaliRupeeFill",
+		"assetId": 81334938042690,
+		"uri": "rbxassetid://81334938042690",
+		"contributors": "sarajdhakal"
 	},
 	{
 		"id": "network",
@@ -21152,6 +21248,22 @@
 		"libraryId": 92729809207697
 	},
 	{
+		"libraryId": 98878977078794,
+		"id": "rotate-cw-clock",
+		"title": "RotateCwClock",
+		"assetId": 116103070816128,
+		"uri": "rbxassetid://116103070816128",
+		"contributors": "ericfennis, danielbayley, jguddas, karsa-mistmere, gkkconan"
+	},
+	{
+		"libraryId": 119108662072443,
+		"id": "rotate-cw-clock-fill",
+		"title": "RotateCwClockFill",
+		"assetId": 102310810259333,
+		"uri": "rbxassetid://102310810259333",
+		"contributors": "ericfennis, danielbayley, jguddas, karsa-mistmere, gkkconan"
+	},
+	{
 		"id": "rotate-cw-fading-clock",
 		"title": "RotateCwFadingClock",
 		"assetId": 109176151513701,
@@ -24030,6 +24142,38 @@
 		"uri": "rbxassetid://93102204265978",
 		"contributors": "llaenowyd, mishkaio, ericfennis, karsa-mistmere, chessurisme, danielbayley, colebemis, juanpablofernandez",
 		"libraryId": 72618710771212
+	},
+	{
+		"libraryId": 126625473585288,
+		"id": "square-dashed-x",
+		"title": "SquareDashedX",
+		"assetId": 112181454721647,
+		"uri": "rbxassetid://112181454721647",
+		"contributors": "llaenowyd, mishkaio, ericfennis, karsa-mistmere, jguddas, chessurisme, ethanhazel"
+	},
+	{
+		"libraryId": 103647715491891,
+		"id": "square-dashed-x-corner",
+		"title": "SquareDashedXCorner",
+		"assetId": 76675816768501,
+		"uri": "rbxassetid://76675816768501",
+		"contributors": "llaenowyd, mishkaio, ericfennis, karsa-mistmere, jguddas, chessurisme, ethanhazel"
+	},
+	{
+		"libraryId": 86600823191450,
+		"id": "square-dashed-x-corner-fill",
+		"title": "SquareDashedXCornerFill",
+		"assetId": 88573281565537,
+		"uri": "rbxassetid://88573281565537",
+		"contributors": "llaenowyd, mishkaio, ericfennis, karsa-mistmere, jguddas, chessurisme, ethanhazel"
+	},
+	{
+		"libraryId": 126712110693408,
+		"id": "square-dashed-x-fill",
+		"title": "SquareDashedXFill",
+		"assetId": 101121076139662,
+		"uri": "rbxassetid://101121076139662",
+		"contributors": "llaenowyd, mishkaio, ericfennis, karsa-mistmere, jguddas, chessurisme, ethanhazel"
 	},
 	{
 		"id": "square-dimensions",
@@ -27014,6 +27158,22 @@
 		"uri": "rbxassetid://86591650280881",
 		"contributors": "colebemis, ahtohbi4, ericfennis, Andreto, csandman, karsa-mistmere, danielbayley, jordan808",
 		"libraryId": 134818737034739
+	},
+	{
+		"libraryId": 109129148920520,
+		"id": "tube-lotion",
+		"title": "TubeLotion",
+		"assetId": 138491123191153,
+		"uri": "rbxassetid://138491123191153",
+		"contributors": "AlecRust, karsa-mistmere, rrod497, jguddas"
+	},
+	{
+		"libraryId": 139519645400338,
+		"id": "tube-lotion-fill",
+		"title": "TubeLotionFill",
+		"assetId": 126469550323800,
+		"uri": "rbxassetid://126469550323800",
+		"contributors": "AlecRust, karsa-mistmere, rrod497, jguddas"
 	},
 	{
 		"id": "turkish-lira",
