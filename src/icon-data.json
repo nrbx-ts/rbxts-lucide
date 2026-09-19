@@ -3832,20 +3832,20 @@
 		"libraryId": 78281661372973
 	},
 	{
-		"libraryId": 86789541416316,
 		"id": "briefcase-plus",
 		"title": "BriefcasePlus",
 		"assetId": 99618715709928,
 		"uri": "rbxassetid://99618715709928",
-		"contributors": "colebemis, csandman, ericfennis, tylerkade, jguddas"
+		"contributors": "colebemis, csandman, ericfennis, tylerkade, jguddas",
+		"libraryId": 86789541416316
 	},
 	{
-		"libraryId": 105040211778678,
 		"id": "briefcase-plus-fill",
 		"title": "BriefcasePlusFill",
 		"assetId": 101358174496630,
 		"uri": "rbxassetid://101358174496630",
-		"contributors": "colebemis, csandman, ericfennis, tylerkade, jguddas"
+		"contributors": "colebemis, csandman, ericfennis, tylerkade, jguddas",
+		"libraryId": 105040211778678
 	},
 	{
 		"id": "bring-to-front",
@@ -15048,36 +15048,36 @@
 		"libraryId": 128671993006759
 	},
 	{
-		"libraryId": 95820603221907,
 		"id": "line-dot-bottom-vertical",
 		"title": "LineDotBottomVertical",
 		"assetId": 105359645123510,
 		"uri": "rbxassetid://105359645123510",
-		"contributors": "nathan-de-pachtere"
+		"contributors": "nathan-de-pachtere",
+		"libraryId": 95820603221907
 	},
 	{
-		"libraryId": 114833993542503,
 		"id": "line-dot-bottom-vertical-fill",
 		"title": "LineDotBottomVerticalFill",
 		"assetId": 127340545336673,
 		"uri": "rbxassetid://127340545336673",
-		"contributors": "nathan-de-pachtere"
+		"contributors": "nathan-de-pachtere",
+		"libraryId": 114833993542503
 	},
 	{
-		"libraryId": 76970749164413,
 		"id": "line-dot-left-horizontal",
 		"title": "LineDotLeftHorizontal",
 		"assetId": 121762641394148,
 		"uri": "rbxassetid://121762641394148",
-		"contributors": "nathan-de-pachtere"
+		"contributors": "nathan-de-pachtere",
+		"libraryId": 76970749164413
 	},
 	{
-		"libraryId": 103730355954703,
 		"id": "line-dot-left-horizontal-fill",
 		"title": "LineDotLeftHorizontalFill",
 		"assetId": 112972211080372,
 		"uri": "rbxassetid://112972211080372",
-		"contributors": "nathan-de-pachtere"
+		"contributors": "nathan-de-pachtere",
+		"libraryId": 103730355954703
 	},
 	{
 		"id": "line-dot-right-horizontal",
@@ -15096,20 +15096,20 @@
 		"libraryId": 126111281429282
 	},
 	{
-		"libraryId": 111463244592253,
 		"id": "line-dot-top-vertical",
 		"title": "LineDotTopVertical",
 		"assetId": 111211603620969,
 		"uri": "rbxassetid://111211603620969",
-		"contributors": "nathan-de-pachtere"
+		"contributors": "nathan-de-pachtere",
+		"libraryId": 111463244592253
 	},
 	{
-		"libraryId": 89508355177517,
 		"id": "line-dot-top-vertical-fill",
 		"title": "LineDotTopVerticalFill",
 		"assetId": 113658063852002,
 		"uri": "rbxassetid://113658063852002",
-		"contributors": "nathan-de-pachtere"
+		"contributors": "nathan-de-pachtere",
+		"libraryId": 89508355177517
 	},
 	{
 		"id": "line-squiggle",
@@ -24176,20 +24176,20 @@
 		"libraryId": 85763310666352
 	},
 	{
-		"libraryId": 73293694951491,
 		"id": "square-dashed-plus",
 		"title": "SquareDashedPlus",
 		"assetId": 115595954723421,
 		"uri": "rbxassetid://115595954723421",
-		"contributors": "llaenowyd, mishkaio, ericfennis, karsa-mistmere, chessurisme, colebemis, psjdev"
+		"contributors": "llaenowyd, mishkaio, ericfennis, karsa-mistmere, chessurisme, colebemis, psjdev",
+		"libraryId": 73293694951491
 	},
 	{
-		"libraryId": 86478861611717,
 		"id": "square-dashed-plus-fill",
 		"title": "SquareDashedPlusFill",
 		"assetId": 89072075141549,
 		"uri": "rbxassetid://89072075141549",
-		"contributors": "llaenowyd, mishkaio, ericfennis, karsa-mistmere, chessurisme, colebemis, psjdev"
+		"contributors": "llaenowyd, mishkaio, ericfennis, karsa-mistmere, chessurisme, colebemis, psjdev",
+		"libraryId": 86478861611717
 	},
 	{
 		"id": "square-dashed-text",
@@ -24712,20 +24712,20 @@
 		"libraryId": 113469918569464
 	},
 	{
-		"libraryId": 72886254913450,
 		"id": "square-sparkles",
 		"title": "SquareSparkles",
 		"assetId": 76663506317149,
 		"uri": "rbxassetid://76663506317149",
-		"contributors": "colebemis, karsa-mistmere, ericfennis, nananecy"
+		"contributors": "colebemis, karsa-mistmere, ericfennis, nananecy",
+		"libraryId": 72886254913450
 	},
 	{
-		"libraryId": 139457372049679,
 		"id": "square-sparkles-fill",
 		"title": "SquareSparklesFill",
 		"assetId": 73613520220213,
 		"uri": "rbxassetid://73613520220213",
-		"contributors": "colebemis, karsa-mistmere, ericfennis, nananecy"
+		"contributors": "colebemis, karsa-mistmere, ericfennis, nananecy",
+		"libraryId": 139457372049679
 	},
 	{
 		"id": "square-split-horizontal",
