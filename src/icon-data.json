@@ -2112,6 +2112,22 @@
 		"libraryId": 132548302111122
 	},
 	{
+		"libraryId": 135084671856037,
+		"id": "bangladeshi-taka",
+		"title": "BangladeshiTaka",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "TanvirMahin24, karsa-mistmere"
+	},
+	{
+		"libraryId": 136971923247098,
+		"id": "bangladeshi-taka-fill",
+		"title": "BangladeshiTakaFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "TanvirMahin24, karsa-mistmere"
+	},
+	{
 		"id": "banknote",
 		"title": "Banknote",
 		"assetId": 107997424163412,
@@ -13728,6 +13744,22 @@
 		"libraryId": 108291818176664
 	},
 	{
+		"libraryId": 78849619217321,
+		"id": "house-cog",
+		"title": "HouseCog",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "jguddas, karsa-mistmere, danielbayley, UsamaKhan, ajaxjiang96"
+	},
+	{
+		"libraryId": 114954210038881,
+		"id": "house-cog-fill",
+		"title": "HouseCogFill",
+		"assetId": 100182720974427,
+		"uri": "rbxassetid://100182720974427",
+		"contributors": "jguddas, karsa-mistmere, danielbayley, UsamaKhan, ajaxjiang96"
+	},
+	{
 		"id": "house-fill",
 		"title": "HouseFill",
 		"assetId": 86622991340705,
@@ -14934,6 +14966,22 @@
 		"uri": "rbxassetid://85913675730624",
 		"contributors": "Muhammad-Aqib-Bashir, jamiemlaw, karsa-mistmere",
 		"libraryId": 109578578947609
+	},
+	{
+		"libraryId": 89075283913407,
+		"id": "letters",
+		"title": "Letters",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 94285394517793,
+		"id": "letters-fill",
+		"title": "LettersFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "karsa-mistmere"
 	},
 	{
 		"id": "library",
