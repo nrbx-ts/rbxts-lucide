@@ -13,7 +13,6 @@
 		"prebuild": "tsx scripts/generate-icons.ts",
 		"prepublishOnly": "npm run build"
 	},
-	"keywords": [],
 	"author": "ninjaninja140",
 	"license": "MIT",
 	"description": "A auto-updating roblox-ts package for using Lucide icons in Roblox.",
