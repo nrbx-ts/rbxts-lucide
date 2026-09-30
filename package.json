@@ -1,6 +1,6 @@
 {
 	"name": "@nrbx/lucide",
-	"version": "1.1.28",
+	"version": "1.1.29",
 	"main": "out/init.luau",
 	"scripts": {
 		"generate-pngs": "tsx scripts/generate-pngs.ts lucide/icons img",
@@ -48,5 +48,14 @@
 		"@rbxts/react": "*"
 	},
 	"packageManager": "yarn@4.17.0",
-	"keywords": ["rbxts", "nrbx", "lucide", "lucide-icons", "roblox-icons", "roblox-ts", "icons", "icon-library"]
+	"keywords": [
+		"rbxts",
+		"nrbx",
+		"lucide",
+		"lucide-icons",
+		"roblox-icons",
+		"roblox-ts",
+		"icons",
+		"icon-library"
+	]
 }

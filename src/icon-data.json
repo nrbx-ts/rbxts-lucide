@@ -2112,20 +2112,20 @@
 		"libraryId": 132548302111122
 	},
 	{
-		"libraryId": 135084671856037,
 		"id": "bangladeshi-taka",
 		"title": "BangladeshiTaka",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "TanvirMahin24, karsa-mistmere"
+		"assetId": 103431239614265,
+		"uri": "rbxassetid://103431239614265",
+		"contributors": "TanvirMahin24, karsa-mistmere",
+		"libraryId": 135084671856037
 	},
 	{
-		"libraryId": 136971923247098,
 		"id": "bangladeshi-taka-fill",
 		"title": "BangladeshiTakaFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "TanvirMahin24, karsa-mistmere"
+		"assetId": 79922206304569,
+		"uri": "rbxassetid://79922206304569",
+		"contributors": "TanvirMahin24, karsa-mistmere",
+		"libraryId": 136971923247098
 	},
 	{
 		"id": "banknote",
@@ -13744,20 +13744,20 @@
 		"libraryId": 108291818176664
 	},
 	{
-		"libraryId": 78849619217321,
 		"id": "house-cog",
 		"title": "HouseCog",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "jguddas, karsa-mistmere, danielbayley, UsamaKhan, ajaxjiang96"
+		"assetId": 74904262306660,
+		"uri": "rbxassetid://74904262306660",
+		"contributors": "jguddas, karsa-mistmere, danielbayley, UsamaKhan, ajaxjiang96",
+		"libraryId": 78849619217321
 	},
 	{
-		"libraryId": 114954210038881,
 		"id": "house-cog-fill",
 		"title": "HouseCogFill",
 		"assetId": 100182720974427,
 		"uri": "rbxassetid://100182720974427",
-		"contributors": "jguddas, karsa-mistmere, danielbayley, UsamaKhan, ajaxjiang96"
+		"contributors": "jguddas, karsa-mistmere, danielbayley, UsamaKhan, ajaxjiang96",
+		"libraryId": 114954210038881
 	},
 	{
 		"id": "house-fill",
@@ -14968,20 +14968,20 @@
 		"libraryId": 109578578947609
 	},
 	{
-		"libraryId": 89075283913407,
 		"id": "letters",
 		"title": "Letters",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "karsa-mistmere"
+		"assetId": 72374207935812,
+		"uri": "rbxassetid://72374207935812",
+		"contributors": "karsa-mistmere",
+		"libraryId": 89075283913407
 	},
 	{
-		"libraryId": 94285394517793,
 		"id": "letters-fill",
 		"title": "LettersFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "karsa-mistmere"
+		"assetId": 95382058621381,
+		"uri": "rbxassetid://95382058621381",
+		"contributors": "karsa-mistmere",
+		"libraryId": 94285394517793
 	},
 	{
 		"id": "library",
@@ -20270,6 +20270,22 @@
 		"uri": "rbxassetid://132090809390398",
 		"contributors": "colebemis, csandman, ericfennis",
 		"libraryId": 113213467337754
+	},
+	{
+		"libraryId": 82663586370865,
+		"id": "printer-3d",
+		"title": "Printer3d",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "Azuzula, karsa-mistmere, jguddas"
+	},
+	{
+		"libraryId": 117307003327818,
+		"id": "printer-3d-fill",
+		"title": "Printer3dFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "Azuzula, karsa-mistmere, jguddas"
 	},
 	{
 		"id": "printer-check",
