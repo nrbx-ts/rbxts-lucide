@@ -848,20 +848,20 @@
 		"libraryId": 71852886819922
 	},
 	{
-		"libraryId": 122680943517031,
 		"id": "armenian-dram",
 		"title": "ArmenianDram",
 		"assetId": 124656335436529,
 		"uri": "rbxassetid://124656335436529",
-		"contributors": "Elawphant"
+		"contributors": "Elawphant",
+		"libraryId": 122680943517031
 	},
 	{
-		"libraryId": 73698821554176,
 		"id": "armenian-dram-fill",
 		"title": "ArmenianDramFill",
 		"assetId": 134643547660693,
 		"uri": "rbxassetid://134643547660693",
-		"contributors": "Elawphant"
+		"contributors": "Elawphant",
+		"libraryId": 73698821554176
 	},
 	{
 		"id": "arrow-big-down",
@@ -9136,20 +9136,20 @@
 		"libraryId": 112129927133750
 	},
 	{
-		"libraryId": 94895115612852,
 		"id": "door-closed-cog",
 		"title": "DoorClosedCog",
 		"assetId": 91670005810117,
 		"uri": "rbxassetid://91670005810117",
-		"contributors": "karsa-mistmere, lukedukeus, danielbayley, jguddas, UsamaKhan, ajaxjiang96"
+		"contributors": "karsa-mistmere, lukedukeus, danielbayley, jguddas, UsamaKhan, ajaxjiang96",
+		"libraryId": 94895115612852
 	},
 	{
-		"libraryId": 105559442685844,
 		"id": "door-closed-cog-fill",
 		"title": "DoorClosedCogFill",
 		"assetId": 71150673268160,
 		"uri": "rbxassetid://71150673268160",
-		"contributors": "karsa-mistmere, lukedukeus, danielbayley, jguddas, UsamaKhan, ajaxjiang96"
+		"contributors": "karsa-mistmere, lukedukeus, danielbayley, jguddas, UsamaKhan, ajaxjiang96",
+		"libraryId": 105559442685844
 	},
 	{
 		"id": "door-closed-fill",
@@ -14312,20 +14312,20 @@
 		"libraryId": 95653579009065
 	},
 	{
-		"libraryId": 110644934889094,
 		"id": "kazakh-tenge",
 		"title": "KazakhTenge",
 		"assetId": 123885542055784,
 		"uri": "rbxassetid://123885542055784",
-		"contributors": "hkayrad"
+		"contributors": "hkayrad",
+		"libraryId": 110644934889094
 	},
 	{
-		"libraryId": 102749487038823,
 		"id": "kazakh-tenge-fill",
 		"title": "KazakhTengeFill",
 		"assetId": 116432183308695,
 		"uri": "rbxassetid://116432183308695",
-		"contributors": "hkayrad"
+		"contributors": "hkayrad",
+		"libraryId": 102749487038823
 	},
 	{
 		"id": "key",
@@ -14864,20 +14864,20 @@
 		"libraryId": 128503242459398
 	},
 	{
-		"libraryId": 122926456417453,
 		"id": "layout-grid-circles",
 		"title": "LayoutGridCircles",
 		"assetId": 82637112084615,
 		"uri": "rbxassetid://82637112084615",
-		"contributors": "zenoamaro, ericfennis, csandman, mittalyashu, danielbayley, karsa-mistmere"
+		"contributors": "zenoamaro, ericfennis, csandman, mittalyashu, danielbayley, karsa-mistmere",
+		"libraryId": 122926456417453
 	},
 	{
-		"libraryId": 80891053924121,
 		"id": "layout-grid-circles-fill",
 		"title": "LayoutGridCirclesFill",
 		"assetId": 84938240204329,
 		"uri": "rbxassetid://84938240204329",
-		"contributors": "zenoamaro, ericfennis, csandman, mittalyashu, danielbayley, karsa-mistmere"
+		"contributors": "zenoamaro, ericfennis, csandman, mittalyashu, danielbayley, karsa-mistmere",
+		"libraryId": 80891053924121
 	},
 	{
 		"id": "layout-grid-fill",
@@ -21608,20 +21608,20 @@
 		"libraryId": 117646233209011
 	},
 	{
-		"libraryId": 96791377421526,
 		"id": "rugby-ball",
 		"title": "RugbyBall",
 		"assetId": 107603968320561,
 		"uri": "rbxassetid://107603968320561",
-		"contributors": "dev-mralph, karsa-mistmere"
+		"contributors": "dev-mralph, karsa-mistmere",
+		"libraryId": 96791377421526
 	},
 	{
-		"libraryId": 98179630898235,
 		"id": "rugby-ball-fill",
 		"title": "RugbyBallFill",
 		"assetId": 131575528991184,
 		"uri": "rbxassetid://131575528991184",
-		"contributors": "dev-mralph, karsa-mistmere"
+		"contributors": "dev-mralph, karsa-mistmere",
+		"libraryId": 98179630898235
 	},
 	{
 		"id": "ruler",
@@ -26304,36 +26304,36 @@
 		"libraryId": 109325735948788
 	},
 	{
-		"libraryId": 118016499770273,
 		"id": "text-align-justify-center",
 		"title": "TextAlignJustifyCenter",
 		"assetId": 80084111813387,
 		"uri": "rbxassetid://80084111813387",
-		"contributors": "HectorZaGa, colebemis, ericfennis, karsa-mistmere"
+		"contributors": "HectorZaGa, colebemis, ericfennis, karsa-mistmere",
+		"libraryId": 118016499770273
 	},
 	{
-		"libraryId": 71011385399067,
 		"id": "text-align-justify-center-fill",
 		"title": "TextAlignJustifyCenterFill",
 		"assetId": 112309824261757,
 		"uri": "rbxassetid://112309824261757",
-		"contributors": "HectorZaGa, colebemis, ericfennis, karsa-mistmere"
+		"contributors": "HectorZaGa, colebemis, ericfennis, karsa-mistmere",
+		"libraryId": 71011385399067
 	},
 	{
-		"libraryId": 119136753916278,
 		"id": "text-align-justify-end",
 		"title": "TextAlignJustifyEnd",
 		"assetId": 133298604767166,
 		"uri": "rbxassetid://133298604767166",
-		"contributors": "HectorZaGa, colebemis, ericfennis, karsa-mistmere"
+		"contributors": "HectorZaGa, colebemis, ericfennis, karsa-mistmere",
+		"libraryId": 119136753916278
 	},
 	{
-		"libraryId": 106323730376700,
 		"id": "text-align-justify-end-fill",
 		"title": "TextAlignJustifyEndFill",
 		"assetId": 79709744513587,
 		"uri": "rbxassetid://79709744513587",
-		"contributors": "HectorZaGa, colebemis, ericfennis, karsa-mistmere"
+		"contributors": "HectorZaGa, colebemis, ericfennis, karsa-mistmere",
+		"libraryId": 106323730376700
 	},
 	{
 		"id": "text-align-justify-fill",
@@ -26344,20 +26344,20 @@
 		"libraryId": 135545440754968
 	},
 	{
-		"libraryId": 89492404744999,
 		"id": "text-align-justify-start",
 		"title": "TextAlignJustifyStart",
 		"assetId": 133677015843615,
 		"uri": "rbxassetid://133677015843615",
-		"contributors": "HectorZaGa, colebemis, ericfennis, karsa-mistmere"
+		"contributors": "HectorZaGa, colebemis, ericfennis, karsa-mistmere",
+		"libraryId": 89492404744999
 	},
 	{
-		"libraryId": 109729319166086,
 		"id": "text-align-justify-start-fill",
 		"title": "TextAlignJustifyStartFill",
 		"assetId": 135058242831518,
 		"uri": "rbxassetid://135058242831518",
-		"contributors": "HectorZaGa, colebemis, ericfennis, karsa-mistmere"
+		"contributors": "HectorZaGa, colebemis, ericfennis, karsa-mistmere",
+		"libraryId": 109729319166086
 	},
 	{
 		"id": "text-align-start",
@@ -29264,20 +29264,20 @@
 		"libraryId": 121563917576033
 	},
 	{
-		"libraryId": 94841732359561,
 		"id": "wind-arrow-up",
 		"title": "WindArrowUp",
 		"assetId": 132613844815595,
 		"uri": "rbxassetid://132613844815595",
-		"contributors": "colebemis, csandman, ericfennis, jamiemlaw, jamesgpearce"
+		"contributors": "colebemis, csandman, ericfennis, jamiemlaw, jamesgpearce",
+		"libraryId": 94841732359561
 	},
 	{
-		"libraryId": 80819462595819,
 		"id": "wind-arrow-up-fill",
 		"title": "WindArrowUpFill",
 		"assetId": 104231543570488,
 		"uri": "rbxassetid://104231543570488",
-		"contributors": "colebemis, csandman, ericfennis, jamiemlaw, jamesgpearce"
+		"contributors": "colebemis, csandman, ericfennis, jamiemlaw, jamesgpearce",
+		"libraryId": 80819462595819
 	},
 	{
 		"id": "wind-fill",
