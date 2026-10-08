@@ -12968,6 +12968,22 @@
 		"libraryId": 105175374335839
 	},
 	{
+		"libraryId": 110042353864736,
+		"id": "groceries",
+		"title": "Groceries",
+		"assetId": 132283579010067,
+		"uri": "rbxassetid://132283579010067",
+		"contributors": "kemie, rrod497"
+	},
+	{
+		"libraryId": 114498937978992,
+		"id": "groceries-fill",
+		"title": "GroceriesFill",
+		"assetId": 118312478271554,
+		"uri": "rbxassetid://118312478271554",
+		"contributors": "kemie, rrod497"
+	},
+	{
 		"id": "group",
 		"title": "Group",
 		"assetId": 124837686279791,
@@ -13702,6 +13718,22 @@
 		"uri": "rbxassetid://91337412866747",
 		"contributors": "lscheibel, Andreto, ericfennis",
 		"libraryId": 71121624639851
+	},
+	{
+		"libraryId": 115655695912129,
+		"id": "hiking-stick",
+		"title": "HikingStick",
+		"assetId": 105941177370176,
+		"uri": "rbxassetid://105941177370176",
+		"contributors": "kamilasw, karsa-mistmere"
+	},
+	{
+		"libraryId": 71484150010661,
+		"id": "hiking-stick-fill",
+		"title": "HikingStickFill",
+		"assetId": 101132842457785,
+		"uri": "rbxassetid://101132842457785",
+		"contributors": "kamilasw, karsa-mistmere"
 	},
 	{
 		"id": "hospital",
@@ -22118,6 +22150,22 @@
 		"uri": "rbxassetid://98382773882424",
 		"contributors": "Ahmed-Dghaies, karsa-mistmere",
 		"libraryId": 125020605326902
+	},
+	{
+		"libraryId": 70480340629080,
+		"id": "scratch-blocks",
+		"title": "ScratchBlocks",
+		"assetId": 95575588698832,
+		"uri": "rbxassetid://95575588698832",
+		"contributors": "mc20000-01, karsa-mistmere"
+	},
+	{
+		"libraryId": 140000553902690,
+		"id": "scratch-blocks-fill",
+		"title": "ScratchBlocksFill",
+		"assetId": 93073422050917,
+		"uri": "rbxassetid://93073422050917",
+		"contributors": "mc20000-01, karsa-mistmere"
 	},
 	{
 		"id": "screen-share",
