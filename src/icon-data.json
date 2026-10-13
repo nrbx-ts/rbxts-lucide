@@ -13208,20 +13208,20 @@
 		"libraryId": 90074077515287
 	},
 	{
-		"libraryId": 97907937462981,
 		"id": "handle-bottom-right",
 		"title": "HandleBottomRight",
 		"assetId": 112193022278627,
 		"uri": "rbxassetid://112193022278627",
-		"contributors": "ocavue"
+		"contributors": "ocavue",
+		"libraryId": 97907937462981
 	},
 	{
-		"libraryId": 138750157222312,
 		"id": "handle-bottom-right-fill",
 		"title": "HandleBottomRightFill",
 		"assetId": 114576466134672,
 		"uri": "rbxassetid://114576466134672",
-		"contributors": "ocavue"
+		"contributors": "ocavue",
+		"libraryId": 138750157222312
 	},
 	{
 		"id": "handshake",
@@ -16064,20 +16064,20 @@
 		"libraryId": 93131361913403
 	},
 	{
-		"libraryId": 93109822941443,
 		"id": "mail-dot",
 		"title": "MailDot",
 		"assetId": 104995106483781,
 		"uri": "rbxassetid://104995106483781",
-		"contributors": "colebemis, karsa-mistmere, ericfennis, jguddas, elenakovelskikh"
+		"contributors": "colebemis, karsa-mistmere, ericfennis, jguddas, elenakovelskikh",
+		"libraryId": 93109822941443
 	},
 	{
-		"libraryId": 112375795239794,
 		"id": "mail-dot-fill",
 		"title": "MailDotFill",
 		"assetId": 122802397552129,
 		"uri": "rbxassetid://122802397552129",
-		"contributors": "colebemis, karsa-mistmere, ericfennis, jguddas, elenakovelskikh"
+		"contributors": "colebemis, karsa-mistmere, ericfennis, jguddas, elenakovelskikh",
+		"libraryId": 112375795239794
 	},
 	{
 		"id": "mail-fill",
@@ -16854,6 +16854,22 @@
 		"uri": "rbxassetid://74591858517566",
 		"contributors": "danielbayley, jguddas, karsa-mistmere",
 		"libraryId": 111290644634880
+	},
+	{
+		"libraryId": 92342871852244,
+		"id": "message-circle-text",
+		"title": "MessageCircleText",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere"
+	},
+	{
+		"libraryId": 82972202888720,
+		"id": "message-circle-text-fill",
+		"title": "MessageCircleTextFill",
+		"assetId": 124107114540958,
+		"uri": "rbxassetid://124107114540958",
+		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere"
 	},
 	{
 		"id": "message-circle-warning",
@@ -19752,20 +19768,20 @@
 		"libraryId": 78713424629017
 	},
 	{
-		"libraryId": 89200574503976,
 		"id": "phone-log",
 		"title": "PhoneLog",
 		"assetId": 75135459108844,
 		"uri": "rbxassetid://75135459108844",
-		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, jamiemlaw, Levi-Bensley"
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, jamiemlaw, Levi-Bensley",
+		"libraryId": 89200574503976
 	},
 	{
-		"libraryId": 93776871422356,
 		"id": "phone-log-fill",
 		"title": "PhoneLogFill",
 		"assetId": 87814065925557,
 		"uri": "rbxassetid://87814065925557",
-		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, jamiemlaw, Levi-Bensley"
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, jamiemlaw, Levi-Bensley",
+		"libraryId": 93776871422356
 	},
 	{
 		"id": "phone-missed",
@@ -22264,20 +22280,20 @@
 		"libraryId": 126699064390202
 	},
 	{
-		"libraryId": 139093635939473,
 		"id": "screw",
 		"title": "Screw",
 		"assetId": 93429639811114,
 		"uri": "rbxassetid://93429639811114",
-		"contributors": "rrod497, edik17, karsa-mistmere"
+		"contributors": "rrod497, edik17, karsa-mistmere",
+		"libraryId": 139093635939473
 	},
 	{
-		"libraryId": 131362072735084,
 		"id": "screw-fill",
 		"title": "ScrewFill",
 		"assetId": 120173867512635,
 		"uri": "rbxassetid://120173867512635",
-		"contributors": "rrod497, edik17, karsa-mistmere"
+		"contributors": "rrod497, edik17, karsa-mistmere",
+		"libraryId": 131362072735084
 	},
 	{
 		"id": "scroll",
@@ -22550,6 +22566,22 @@
 		"uri": "rbxassetid://78393859652595",
 		"contributors": "colebemis, ericfennis",
 		"libraryId": 132454529107984
+	},
+	{
+		"libraryId": 131597118291942,
+		"id": "server-nas",
+		"title": "ServerNas",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "benhaube"
+	},
+	{
+		"libraryId": 92638556229819,
+		"id": "server-nas-fill",
+		"title": "ServerNasFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "benhaube"
 	},
 	{
 		"id": "server-off",
@@ -22840,20 +22872,20 @@
 		"libraryId": 117911820087397
 	},
 	{
-		"libraryId": 87543185901950,
 		"id": "shield-house",
 		"title": "ShieldHouse",
 		"assetId": 85677557319167,
 		"uri": "rbxassetid://85677557319167",
-		"contributors": "benhaube"
+		"contributors": "benhaube",
+		"libraryId": 87543185901950
 	},
 	{
-		"libraryId": 127474476960556,
 		"id": "shield-house-fill",
 		"title": "ShieldHouseFill",
 		"assetId": 128175814845564,
 		"uri": "rbxassetid://128175814845564",
-		"contributors": "benhaube"
+		"contributors": "benhaube",
+		"libraryId": 127474476960556
 	},
 	{
 		"id": "shield-keyhole",
@@ -28296,20 +28328,20 @@
 		"libraryId": 71906856047003
 	},
 	{
-		"libraryId": 109458922353167,
 		"id": "user-round-star",
 		"title": "UserRoundStar",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere"
+		"assetId": 139614435599075,
+		"uri": "rbxassetid://139614435599075",
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere",
+		"libraryId": 109458922353167
 	},
 	{
-		"libraryId": 95766700765602,
 		"id": "user-round-star-fill",
 		"title": "UserRoundStarFill",
 		"assetId": 72264225963987,
 		"uri": "rbxassetid://72264225963987",
-		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere"
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere",
+		"libraryId": 95766700765602
 	},
 	{
 		"id": "user-round-x",
@@ -29320,20 +29352,20 @@
 		"libraryId": 96158021532548
 	},
 	{
-		"libraryId": 111274613900283,
 		"id": "wifi-lock",
 		"title": "WifiLock",
 		"assetId": 131741738236065,
 		"uri": "rbxassetid://131741738236065",
-		"contributors": "benhaube, colebemis, csandman, ericfennis, jguddas"
+		"contributors": "benhaube, colebemis, csandman, ericfennis, jguddas",
+		"libraryId": 111274613900283
 	},
 	{
-		"libraryId": 90108803830139,
 		"id": "wifi-lock-fill",
 		"title": "WifiLockFill",
 		"assetId": 94282268213998,
 		"uri": "rbxassetid://94282268213998",
-		"contributors": "benhaube, colebemis, csandman, ericfennis, jguddas"
+		"contributors": "benhaube, colebemis, csandman, ericfennis, jguddas",
+		"libraryId": 90108803830139
 	},
 	{
 		"id": "wifi-low",
