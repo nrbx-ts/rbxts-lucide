@@ -2504,20 +2504,20 @@
 		"libraryId": 99468749684308
 	},
 	{
-		"libraryId": 114996051529586,
 		"id": "belarusian-ruble",
 		"title": "BelarusianRuble",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "js-best"
+		"assetId": 132280230439332,
+		"uri": "rbxassetid://132280230439332",
+		"contributors": "js-best",
+		"libraryId": 114996051529586
 	},
 	{
-		"libraryId": 110656671850005,
 		"id": "belarusian-ruble-fill",
 		"title": "BelarusianRubleFill",
 		"assetId": 76093904075276,
 		"uri": "rbxassetid://76093904075276",
-		"contributors": "js-best"
+		"contributors": "js-best",
+		"libraryId": 110656671850005
 	},
 	{
 		"id": "bell",
@@ -4320,20 +4320,20 @@
 		"libraryId": 127302354969573
 	},
 	{
-		"libraryId": 95452071529316,
 		"id": "calendar-chevrons-left",
 		"title": "CalendarChevronsLeft",
 		"assetId": 88896029626786,
 		"uri": "rbxassetid://88896029626786",
-		"contributors": "karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"contributors": "karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 95452071529316
 	},
 	{
-		"libraryId": 140437606442030,
 		"id": "calendar-chevrons-left-fill",
 		"title": "CalendarChevronsLeftFill",
 		"assetId": 132933979344712,
 		"uri": "rbxassetid://132933979344712",
-		"contributors": "karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"contributors": "karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 140437606442030
 	},
 	{
 		"id": "calendar-chevrons-right",
@@ -6240,20 +6240,20 @@
 		"libraryId": 117410589188820
 	},
 	{
-		"libraryId": 104630027942605,
 		"id": "circle-fading-play",
 		"title": "CircleFadingPlay",
 		"assetId": 86090537202638,
 		"uri": "rbxassetid://86090537202638",
-		"contributors": "tatianatsiguleva, jordan808, jguddas, colebemis, karsa-mistmere"
+		"contributors": "tatianatsiguleva, jordan808, jguddas, colebemis, karsa-mistmere",
+		"libraryId": 104630027942605
 	},
 	{
-		"libraryId": 127895019666210,
 		"id": "circle-fading-play-fill",
 		"title": "CircleFadingPlayFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "tatianatsiguleva, jordan808, jguddas, colebemis, karsa-mistmere"
+		"assetId": 103752098781448,
+		"uri": "rbxassetid://103752098781448",
+		"contributors": "tatianatsiguleva, jordan808, jguddas, colebemis, karsa-mistmere",
+		"libraryId": 127895019666210
 	},
 	{
 		"id": "circle-fading-plus",
@@ -8256,20 +8256,20 @@
 		"libraryId": 94668023329746
 	},
 	{
-		"libraryId": 136273055374018,
 		"id": "cpu-ai",
 		"title": "CpuAi",
 		"assetId": 114008726524394,
 		"uri": "rbxassetid://114008726524394",
-		"contributors": "colebemis, karsa-mistmere, ericfennis, jguddas, signalgridco"
+		"contributors": "colebemis, karsa-mistmere, ericfennis, jguddas, signalgridco",
+		"libraryId": 136273055374018
 	},
 	{
-		"libraryId": 74921233912922,
 		"id": "cpu-ai-fill",
 		"title": "CpuAiFill",
 		"assetId": 121041107874995,
 		"uri": "rbxassetid://121041107874995",
-		"contributors": "colebemis, karsa-mistmere, ericfennis, jguddas, signalgridco"
+		"contributors": "colebemis, karsa-mistmere, ericfennis, jguddas, signalgridco",
+		"libraryId": 74921233912922
 	},
 	{
 		"id": "cpu-fill",
@@ -11928,36 +11928,36 @@
 		"libraryId": 81495491784837
 	},
 	{
-		"libraryId": 92662059298703,
 		"id": "folder-user",
 		"title": "FolderUser",
 		"assetId": 96965735471773,
 		"uri": "rbxassetid://96965735471773",
-		"contributors": "rrod497, colebemis, csandman, ericfennis, karsa-mistmere, danielbayley, jguddas"
+		"contributors": "rrod497, colebemis, csandman, ericfennis, karsa-mistmere, danielbayley, jguddas",
+		"libraryId": 92662059298703
 	},
 	{
-		"libraryId": 94133993361491,
 		"id": "folder-user-fill",
 		"title": "FolderUserFill",
 		"assetId": 75898205067300,
 		"uri": "rbxassetid://75898205067300",
-		"contributors": "rrod497, colebemis, csandman, ericfennis, karsa-mistmere, danielbayley, jguddas"
+		"contributors": "rrod497, colebemis, csandman, ericfennis, karsa-mistmere, danielbayley, jguddas",
+		"libraryId": 94133993361491
 	},
 	{
-		"libraryId": 131429564345203,
 		"id": "folder-users",
 		"title": "FolderUsers",
 		"assetId": 79154313034276,
 		"uri": "rbxassetid://79154313034276",
-		"contributors": "rrod497, colebemis, csandman, ericfennis, karsa-mistmere, danielbayley, jguddas"
+		"contributors": "rrod497, colebemis, csandman, ericfennis, karsa-mistmere, danielbayley, jguddas",
+		"libraryId": 131429564345203
 	},
 	{
-		"libraryId": 115054955599509,
 		"id": "folder-users-fill",
 		"title": "FolderUsersFill",
 		"assetId": 96191707924446,
 		"uri": "rbxassetid://96191707924446",
-		"contributors": "rrod497, colebemis, csandman, ericfennis, karsa-mistmere, danielbayley, jguddas"
+		"contributors": "rrod497, colebemis, csandman, ericfennis, karsa-mistmere, danielbayley, jguddas",
+		"libraryId": 115054955599509
 	},
 	{
 		"id": "folder-x",
@@ -12920,20 +12920,20 @@
 		"libraryId": 77700927740571
 	},
 	{
-		"libraryId": 99582243642793,
 		"id": "graph-star",
 		"title": "GraphStar",
 		"assetId": 89090512049630,
 		"uri": "rbxassetid://89090512049630",
-		"contributors": "karsa-mistmere"
+		"contributors": "karsa-mistmere",
+		"libraryId": 99582243642793
 	},
 	{
-		"libraryId": 123739765042982,
 		"id": "graph-star-fill",
 		"title": "GraphStarFill",
 		"assetId": 87092123485492,
 		"uri": "rbxassetid://87092123485492",
-		"contributors": "karsa-mistmere"
+		"contributors": "karsa-mistmere",
+		"libraryId": 123739765042982
 	},
 	{
 		"id": "grid-2x2",
@@ -13120,20 +13120,20 @@
 		"libraryId": 98558430549016
 	},
 	{
-		"libraryId": 130864073618367,
 		"id": "guitar-electric",
 		"title": "GuitarElectric",
 		"assetId": 119418394427705,
 		"uri": "rbxassetid://119418394427705",
-		"contributors": "danielbayley, jguddas, rrod497"
+		"contributors": "danielbayley, jguddas, rrod497",
+		"libraryId": 130864073618367
 	},
 	{
-		"libraryId": 114719616764520,
 		"id": "guitar-electric-fill",
 		"title": "GuitarElectricFill",
 		"assetId": 104927080672085,
 		"uri": "rbxassetid://104927080672085",
-		"contributors": "danielbayley, jguddas, rrod497"
+		"contributors": "danielbayley, jguddas, rrod497",
+		"libraryId": 114719616764520
 	},
 	{
 		"id": "guitar-fill",
@@ -19784,20 +19784,20 @@
 		"libraryId": 109272412202527
 	},
 	{
-		"libraryId": 101955593949621,
 		"id": "perfume-bottle",
 		"title": "PerfumeBottle",
 		"assetId": 137048958540469,
 		"uri": "rbxassetid://137048958540469",
-		"contributors": "rrod497"
+		"contributors": "rrod497",
+		"libraryId": 101955593949621
 	},
 	{
-		"libraryId": 86219390044186,
 		"id": "perfume-bottle-fill",
 		"title": "PerfumeBottleFill",
 		"assetId": 89506513511447,
 		"uri": "rbxassetid://89506513511447",
-		"contributors": "rrod497"
+		"contributors": "rrod497",
+		"libraryId": 86219390044186
 	},
 	{
 		"id": "person-standing",
@@ -28576,20 +28576,20 @@
 		"libraryId": 134487310523181
 	},
 	{
-		"libraryId": 95277008274155,
 		"id": "users-collaboration",
 		"title": "UsersCollaboration",
 		"assetId": 107149631021899,
 		"uri": "rbxassetid://107149631021899",
-		"contributors": "rrod497, karsa-mistmere"
+		"contributors": "rrod497, karsa-mistmere",
+		"libraryId": 95277008274155
 	},
 	{
-		"libraryId": 118388683126772,
 		"id": "users-collaboration-fill",
 		"title": "UsersCollaborationFill",
 		"assetId": 75812482202295,
 		"uri": "rbxassetid://75812482202295",
-		"contributors": "rrod497, karsa-mistmere"
+		"contributors": "rrod497, karsa-mistmere",
+		"libraryId": 118388683126772
 	},
 	{
 		"id": "users-fill",
@@ -28608,20 +28608,20 @@
 		"libraryId": 83586477785143
 	},
 	{
-		"libraryId": 125275651654394,
 		"id": "users-round-collaboration",
 		"title": "UsersRoundCollaboration",
 		"assetId": 101395912124965,
 		"uri": "rbxassetid://101395912124965",
-		"contributors": "rrod497, karsa-mistmere"
+		"contributors": "rrod497, karsa-mistmere",
+		"libraryId": 125275651654394
 	},
 	{
-		"libraryId": 124241660101038,
 		"id": "users-round-collaboration-fill",
 		"title": "UsersRoundCollaborationFill",
 		"assetId": 115489533718854,
 		"uri": "rbxassetid://115489533718854",
-		"contributors": "rrod497, karsa-mistmere"
+		"contributors": "rrod497, karsa-mistmere",
+		"libraryId": 124241660101038
 	},
 	{
 		"id": "users-round-fill",
