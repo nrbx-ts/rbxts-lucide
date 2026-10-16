@@ -5032,6 +5032,22 @@
 		"libraryId": 89076892816085
 	},
 	{
+		"libraryId": 87943490118419,
+		"id": "certificate",
+		"title": "Certificate",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "rrod497"
+	},
+	{
+		"libraryId": 91878214892802,
+		"id": "certificate-fill",
+		"title": "CertificateFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "rrod497"
+	},
+	{
 		"id": "chart-area",
 		"title": "ChartArea",
 		"assetId": 70612510777585,
@@ -9608,6 +9624,38 @@
 		"libraryId": 128515345584460
 	},
 	{
+		"libraryId": 127997338624742,
+		"id": "eighth-note",
+		"title": "EighthNote",
+		"assetId": 128216099711437,
+		"uri": "rbxassetid://128216099711437",
+		"contributors": "it-is-not, danielbayley, karsa-mistmere, jamiemlaw"
+	},
+	{
+		"libraryId": 117876962223279,
+		"id": "eighth-note-fill",
+		"title": "EighthNoteFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "it-is-not, danielbayley, karsa-mistmere, jamiemlaw"
+	},
+	{
+		"libraryId": 136027518355200,
+		"id": "eighth-notes",
+		"title": "EighthNotes",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "colebemis, csandman, mittalyashu, ericfennis, jamiemlaw"
+	},
+	{
+		"libraryId": 130687742552748,
+		"id": "eighth-notes-fill",
+		"title": "EighthNotesFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "colebemis, csandman, mittalyashu, ericfennis, jamiemlaw"
+	},
+	{
 		"id": "eject",
 		"title": "Eject",
 		"assetId": 115790253480026,
@@ -13142,6 +13190,22 @@
 		"uri": "rbxassetid://98661602508069",
 		"contributors": "danielbayley, jguddas",
 		"libraryId": 73746046211232
+	},
+	{
+		"libraryId": 73736068798203,
+		"id": "half-note",
+		"title": "HalfNote",
+		"assetId": 101333182059862,
+		"uri": "rbxassetid://101333182059862",
+		"contributors": "it-is-not, danielbayley, karsa-mistmere"
+	},
+	{
+		"libraryId": 114519222223745,
+		"id": "half-note-fill",
+		"title": "HalfNoteFill",
+		"assetId": 136998248594870,
+		"uri": "rbxassetid://136998248594870",
+		"contributors": "it-is-not, danielbayley, karsa-mistmere"
 	},
 	{
 		"id": "ham",
@@ -23590,6 +23654,22 @@
 		"uri": "rbxassetid://128730106400929",
 		"contributors": "karsa-mistmere",
 		"libraryId": 103521349821650
+	},
+	{
+		"libraryId": 129657675060066,
+		"id": "sixteenth-notes",
+		"title": "SixteenthNotes",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "it-is-not, karsa-mistmere, jamiemlaw"
+	},
+	{
+		"libraryId": 103307591796365,
+		"id": "sixteenth-notes-fill",
+		"title": "SixteenthNotesFill",
+		"assetId": 88154978346186,
+		"uri": "rbxassetid://88154978346186",
+		"contributors": "it-is-not, karsa-mistmere, jamiemlaw"
 	},
 	{
 		"id": "skip-back",
