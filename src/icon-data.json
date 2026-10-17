@@ -5032,20 +5032,20 @@
 		"libraryId": 89076892816085
 	},
 	{
-		"libraryId": 87943490118419,
 		"id": "certificate",
 		"title": "Certificate",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "rrod497"
+		"assetId": 82404202380807,
+		"uri": "rbxassetid://82404202380807",
+		"contributors": "rrod497",
+		"libraryId": 87943490118419
 	},
 	{
-		"libraryId": 91878214892802,
 		"id": "certificate-fill",
 		"title": "CertificateFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "rrod497"
+		"assetId": 122269325285650,
+		"uri": "rbxassetid://122269325285650",
+		"contributors": "rrod497",
+		"libraryId": 91878214892802
 	},
 	{
 		"id": "chart-area",
@@ -9624,36 +9624,36 @@
 		"libraryId": 128515345584460
 	},
 	{
-		"libraryId": 127997338624742,
 		"id": "eighth-note",
 		"title": "EighthNote",
 		"assetId": 128216099711437,
 		"uri": "rbxassetid://128216099711437",
-		"contributors": "it-is-not, danielbayley, karsa-mistmere, jamiemlaw"
+		"contributors": "it-is-not, danielbayley, karsa-mistmere, jamiemlaw",
+		"libraryId": 127997338624742
 	},
 	{
-		"libraryId": 117876962223279,
 		"id": "eighth-note-fill",
 		"title": "EighthNoteFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "it-is-not, danielbayley, karsa-mistmere, jamiemlaw"
+		"assetId": 111346659447577,
+		"uri": "rbxassetid://111346659447577",
+		"contributors": "it-is-not, danielbayley, karsa-mistmere, jamiemlaw",
+		"libraryId": 117876962223279
 	},
 	{
-		"libraryId": 136027518355200,
 		"id": "eighth-notes",
 		"title": "EighthNotes",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "colebemis, csandman, mittalyashu, ericfennis, jamiemlaw"
+		"assetId": 100971300271597,
+		"uri": "rbxassetid://100971300271597",
+		"contributors": "colebemis, csandman, mittalyashu, ericfennis, jamiemlaw",
+		"libraryId": 136027518355200
 	},
 	{
-		"libraryId": 130687742552748,
 		"id": "eighth-notes-fill",
 		"title": "EighthNotesFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "colebemis, csandman, mittalyashu, ericfennis, jamiemlaw"
+		"assetId": 73502620149206,
+		"uri": "rbxassetid://73502620149206",
+		"contributors": "colebemis, csandman, mittalyashu, ericfennis, jamiemlaw",
+		"libraryId": 130687742552748
 	},
 	{
 		"id": "eject",
@@ -13192,20 +13192,20 @@
 		"libraryId": 73746046211232
 	},
 	{
-		"libraryId": 73736068798203,
 		"id": "half-note",
 		"title": "HalfNote",
 		"assetId": 101333182059862,
 		"uri": "rbxassetid://101333182059862",
-		"contributors": "it-is-not, danielbayley, karsa-mistmere"
+		"contributors": "it-is-not, danielbayley, karsa-mistmere",
+		"libraryId": 73736068798203
 	},
 	{
-		"libraryId": 114519222223745,
 		"id": "half-note-fill",
 		"title": "HalfNoteFill",
 		"assetId": 136998248594870,
 		"uri": "rbxassetid://136998248594870",
-		"contributors": "it-is-not, danielbayley, karsa-mistmere"
+		"contributors": "it-is-not, danielbayley, karsa-mistmere",
+		"libraryId": 114519222223745
 	},
 	{
 		"id": "ham",
@@ -23656,20 +23656,20 @@
 		"libraryId": 103521349821650
 	},
 	{
-		"libraryId": 129657675060066,
 		"id": "sixteenth-notes",
 		"title": "SixteenthNotes",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "it-is-not, karsa-mistmere, jamiemlaw"
+		"assetId": 107701940923578,
+		"uri": "rbxassetid://107701940923578",
+		"contributors": "it-is-not, karsa-mistmere, jamiemlaw",
+		"libraryId": 129657675060066
 	},
 	{
-		"libraryId": 103307591796365,
 		"id": "sixteenth-notes-fill",
 		"title": "SixteenthNotesFill",
 		"assetId": 88154978346186,
 		"uri": "rbxassetid://88154978346186",
-		"contributors": "it-is-not, karsa-mistmere, jamiemlaw"
+		"contributors": "it-is-not, karsa-mistmere, jamiemlaw",
+		"libraryId": 103307591796365
 	},
 	{
 		"id": "skip-back",
