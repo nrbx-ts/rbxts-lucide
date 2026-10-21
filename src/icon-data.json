@@ -1680,20 +1680,20 @@
 		"libraryId": 122440794367300
 	},
 	{
-		"libraryId": 77158784277970,
 		"id": "avocado",
 		"title": "Avocado",
 		"assetId": 82065002765976,
 		"uri": "rbxassetid://82065002765976",
-		"contributors": "danielbayley, devkamani9313, karsa-mistmere"
+		"contributors": "danielbayley, devkamani9313, karsa-mistmere",
+		"libraryId": 77158784277970
 	},
 	{
-		"libraryId": 125369812432940,
 		"id": "avocado-fill",
 		"title": "AvocadoFill",
 		"assetId": 124002754767005,
 		"uri": "rbxassetid://124002754767005",
-		"contributors": "danielbayley, devkamani9313, karsa-mistmere"
+		"contributors": "danielbayley, devkamani9313, karsa-mistmere",
+		"libraryId": 125369812432940
 	},
 	{
 		"id": "award",
@@ -1776,20 +1776,20 @@
 		"libraryId": 72755263297882
 	},
 	{
-		"libraryId": 110182043254355,
 		"id": "bacon",
 		"title": "Bacon",
 		"assetId": 96415249277005,
 		"uri": "rbxassetid://96415249277005",
-		"contributors": "danielbayley, devkamani9313, karsa-mistmere"
+		"contributors": "danielbayley, devkamani9313, karsa-mistmere",
+		"libraryId": 110182043254355
 	},
 	{
-		"libraryId": 126999018954331,
 		"id": "bacon-fill",
 		"title": "BaconFill",
 		"assetId": 81131794117816,
 		"uri": "rbxassetid://81131794117816",
-		"contributors": "danielbayley, devkamani9313, karsa-mistmere"
+		"contributors": "danielbayley, devkamani9313, karsa-mistmere",
+		"libraryId": 126999018954331
 	},
 	{
 		"id": "badge",
@@ -3784,20 +3784,20 @@
 		"libraryId": 79222297298771
 	},
 	{
-		"libraryId": 140191495674042,
 		"id": "brain-off",
 		"title": "BrainOff",
 		"assetId": 99508590861400,
 		"uri": "rbxassetid://99508590861400",
-		"contributors": "karsa-mistmere, jguddas, it-is-not, jamiemlaw, ej52"
+		"contributors": "karsa-mistmere, jguddas, it-is-not, jamiemlaw, ej52",
+		"libraryId": 140191495674042
 	},
 	{
-		"libraryId": 79730558747058,
 		"id": "brain-off-fill",
 		"title": "BrainOffFill",
 		"assetId": 110355360565404,
 		"uri": "rbxassetid://110355360565404",
-		"contributors": "karsa-mistmere, jguddas, it-is-not, jamiemlaw, ej52"
+		"contributors": "karsa-mistmere, jguddas, it-is-not, jamiemlaw, ej52",
+		"libraryId": 79730558747058
 	},
 	{
 		"id": "brick-wall",
@@ -6142,6 +6142,70 @@
 		"uri": "rbxassetid://138062681601630",
 		"contributors": "danielbayley",
 		"libraryId": 106613608712904
+	},
+	{
+		"libraryId": 78607671867283,
+		"id": "circle-chevrons-down",
+		"title": "CircleChevronsDown",
+		"assetId": 111468712720716,
+		"uri": "rbxassetid://111468712720716",
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+	},
+	{
+		"libraryId": 136807647463743,
+		"id": "circle-chevrons-down-fill",
+		"title": "CircleChevronsDownFill",
+		"assetId": 90474434690430,
+		"uri": "rbxassetid://90474434690430",
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+	},
+	{
+		"libraryId": 75700903773762,
+		"id": "circle-chevrons-left",
+		"title": "CircleChevronsLeft",
+		"assetId": 118641980285187,
+		"uri": "rbxassetid://118641980285187",
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+	},
+	{
+		"libraryId": 133964996021318,
+		"id": "circle-chevrons-left-fill",
+		"title": "CircleChevronsLeftFill",
+		"assetId": 119197017175576,
+		"uri": "rbxassetid://119197017175576",
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+	},
+	{
+		"libraryId": 79098362594450,
+		"id": "circle-chevrons-right",
+		"title": "CircleChevronsRight",
+		"assetId": 110122932923238,
+		"uri": "rbxassetid://110122932923238",
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+	},
+	{
+		"libraryId": 88752872823224,
+		"id": "circle-chevrons-right-fill",
+		"title": "CircleChevronsRightFill",
+		"assetId": 120607309819479,
+		"uri": "rbxassetid://120607309819479",
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+	},
+	{
+		"libraryId": 134641606392321,
+		"id": "circle-chevrons-up",
+		"title": "CircleChevronsUp",
+		"assetId": 117211640332895,
+		"uri": "rbxassetid://117211640332895",
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+	},
+	{
+		"libraryId": 86377067330679,
+		"id": "circle-chevrons-up-fill",
+		"title": "CircleChevronsUpFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
 	},
 	{
 		"id": "circle-dashed",
@@ -13016,20 +13080,20 @@
 		"libraryId": 77700927740571
 	},
 	{
-		"libraryId": 97649615891247,
 		"id": "graph-hub",
 		"title": "GraphHub",
 		"assetId": 99816283339175,
 		"uri": "rbxassetid://99816283339175",
-		"contributors": "Carlito-la-banane"
+		"contributors": "Carlito-la-banane",
+		"libraryId": 97649615891247
 	},
 	{
-		"libraryId": 113976264821240,
 		"id": "graph-hub-fill",
 		"title": "GraphHubFill",
 		"assetId": 113134785088884,
 		"uri": "rbxassetid://113134785088884",
-		"contributors": "Carlito-la-banane"
+		"contributors": "Carlito-la-banane",
+		"libraryId": 113976264821240
 	},
 	{
 		"id": "graph-star",
@@ -15352,20 +15416,20 @@
 		"libraryId": 74979642937990
 	},
 	{
-		"libraryId": 121326951427834,
 		"id": "letter-spacing",
 		"title": "LetterSpacing",
 		"assetId": 118715110640678,
 		"uri": "rbxassetid://118715110640678",
-		"contributors": "madebyoz"
+		"contributors": "madebyoz",
+		"libraryId": 121326951427834
 	},
 	{
-		"libraryId": 76669076610068,
 		"id": "letter-spacing-fill",
 		"title": "LetterSpacingFill",
 		"assetId": 94618584412892,
 		"uri": "rbxassetid://94618584412892",
-		"contributors": "madebyoz"
+		"contributors": "madebyoz",
+		"libraryId": 76669076610068
 	},
 	{
 		"id": "letters",
@@ -15560,20 +15624,20 @@
 		"libraryId": 89508355177517
 	},
 	{
-		"libraryId": 111940348982467,
 		"id": "line-height",
 		"title": "LineHeight",
 		"assetId": 72618960945352,
 		"uri": "rbxassetid://72618960945352",
-		"contributors": "madebyoz"
+		"contributors": "madebyoz",
+		"libraryId": 111940348982467
 	},
 	{
-		"libraryId": 134760007906816,
 		"id": "line-height-fill",
 		"title": "LineHeightFill",
 		"assetId": 125031519113374,
 		"uri": "rbxassetid://125031519113374",
-		"contributors": "madebyoz"
+		"contributors": "madebyoz",
+		"libraryId": 134760007906816
 	},
 	{
 		"id": "line-squiggle",
@@ -23928,20 +23992,20 @@
 		"libraryId": 130325819978530
 	},
 	{
-		"libraryId": 129016133672631,
 		"id": "smartphone-user-round",
 		"title": "SmartphoneUserRound",
 		"assetId": 73170393414692,
 		"uri": "rbxassetid://73170393414692",
-		"contributors": "hitanshu-machhi, colebemis, csandman, ericfennis, karsa-mistmere, jguddas, mittalyashu"
+		"contributors": "hitanshu-machhi, colebemis, csandman, ericfennis, karsa-mistmere, jguddas, mittalyashu",
+		"libraryId": 129016133672631
 	},
 	{
-		"libraryId": 79915721466579,
 		"id": "smartphone-user-round-fill",
 		"title": "SmartphoneUserRoundFill",
 		"assetId": 112031251413407,
 		"uri": "rbxassetid://112031251413407",
-		"contributors": "hitanshu-machhi, colebemis, csandman, ericfennis, karsa-mistmere, jguddas, mittalyashu"
+		"contributors": "hitanshu-machhi, colebemis, csandman, ericfennis, karsa-mistmere, jguddas, mittalyashu",
+		"libraryId": 79915721466579
 	},
 	{
 		"id": "snail",
@@ -27352,20 +27416,20 @@
 		"libraryId": 86836256635522
 	},
 	{
-		"libraryId": 95515252247649,
 		"id": "tombstone",
 		"title": "Tombstone",
 		"assetId": 134733901173263,
 		"uri": "rbxassetid://134733901173263",
-		"contributors": "jguddas, ryck"
+		"contributors": "jguddas, ryck",
+		"libraryId": 95515252247649
 	},
 	{
-		"libraryId": 86029083519422,
 		"id": "tombstone-fill",
 		"title": "TombstoneFill",
 		"assetId": 81629439039145,
 		"uri": "rbxassetid://81629439039145",
-		"contributors": "jguddas, ryck"
+		"contributors": "jguddas, ryck",
+		"libraryId": 86029083519422
 	},
 	{
 		"id": "tool-case",
