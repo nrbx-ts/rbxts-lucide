@@ -6144,68 +6144,68 @@
 		"libraryId": 106613608712904
 	},
 	{
-		"libraryId": 78607671867283,
 		"id": "circle-chevrons-down",
 		"title": "CircleChevronsDown",
 		"assetId": 111468712720716,
 		"uri": "rbxassetid://111468712720716",
-		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 78607671867283
 	},
 	{
-		"libraryId": 136807647463743,
 		"id": "circle-chevrons-down-fill",
 		"title": "CircleChevronsDownFill",
 		"assetId": 90474434690430,
 		"uri": "rbxassetid://90474434690430",
-		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 136807647463743
 	},
 	{
-		"libraryId": 75700903773762,
 		"id": "circle-chevrons-left",
 		"title": "CircleChevronsLeft",
 		"assetId": 118641980285187,
 		"uri": "rbxassetid://118641980285187",
-		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 75700903773762
 	},
 	{
-		"libraryId": 133964996021318,
 		"id": "circle-chevrons-left-fill",
 		"title": "CircleChevronsLeftFill",
 		"assetId": 119197017175576,
 		"uri": "rbxassetid://119197017175576",
-		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 133964996021318
 	},
 	{
-		"libraryId": 79098362594450,
 		"id": "circle-chevrons-right",
 		"title": "CircleChevronsRight",
 		"assetId": 110122932923238,
 		"uri": "rbxassetid://110122932923238",
-		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 79098362594450
 	},
 	{
-		"libraryId": 88752872823224,
 		"id": "circle-chevrons-right-fill",
 		"title": "CircleChevronsRightFill",
 		"assetId": 120607309819479,
 		"uri": "rbxassetid://120607309819479",
-		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 88752872823224
 	},
 	{
-		"libraryId": 134641606392321,
 		"id": "circle-chevrons-up",
 		"title": "CircleChevronsUp",
 		"assetId": 117211640332895,
 		"uri": "rbxassetid://117211640332895",
-		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 134641606392321
 	},
 	{
-		"libraryId": 86377067330679,
 		"id": "circle-chevrons-up-fill",
 		"title": "CircleChevronsUpFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"assetId": 139718307965848,
+		"uri": "rbxassetid://139718307965848",
+		"contributors": "ypotti, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 86377067330679
 	},
 	{
 		"id": "circle-dashed",
