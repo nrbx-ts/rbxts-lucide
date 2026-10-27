@@ -1744,6 +1744,22 @@
 		"libraryId": 76210095100397
 	},
 	{
+		"libraryId": 89387335714690,
+		"id": "azerbaijani-manat",
+		"title": "AzerbaijaniManat",
+		"assetId": 135998552499476,
+		"uri": "rbxassetid://135998552499476",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 113320600803368,
+		"id": "azerbaijani-manat-fill",
+		"title": "AzerbaijaniManatFill",
+		"assetId": 125896518705961,
+		"uri": "rbxassetid://125896518705961",
+		"contributors": "karsa-mistmere"
+	},
+	{
 		"id": "baby",
 		"title": "Baby",
 		"assetId": 87716717780310,
@@ -2094,6 +2110,22 @@
 		"uri": "rbxassetid://131729424364322",
 		"contributors": "karsa-mistmere, ericfennis",
 		"libraryId": 137567420673387
+	},
+	{
+		"libraryId": 97916542993006,
+		"id": "ball-wave",
+		"title": "BallWave",
+		"assetId": 89450893998235,
+		"uri": "rbxassetid://89450893998235",
+		"contributors": "karsa-mistmere, ericfennis, felipeajzanetti, jguddas"
+	},
+	{
+		"libraryId": 128615015723341,
+		"id": "ball-wave-fill",
+		"title": "BallWaveFill",
+		"assetId": 96251259672665,
+		"uri": "rbxassetid://96251259672665",
+		"contributors": "karsa-mistmere, ericfennis, felipeajzanetti, jguddas"
 	},
 	{
 		"id": "balloon",
@@ -9832,6 +9864,22 @@
 		"libraryId": 74236939785979
 	},
 	{
+		"libraryId": 92439554431861,
+		"id": "emirati-dirham",
+		"title": "EmiratiDirham",
+		"assetId": 77111904625903,
+		"uri": "rbxassetid://77111904625903",
+		"contributors": "karsa-mistmere, DrashtiC07"
+	},
+	{
+		"libraryId": 131805143256928,
+		"id": "emirati-dirham-fill",
+		"title": "EmiratiDirhamFill",
+		"assetId": 119391079108027,
+		"uri": "rbxassetid://119391079108027",
+		"contributors": "karsa-mistmere, DrashtiC07"
+	},
+	{
 		"id": "engine",
 		"title": "Engine",
 		"assetId": 79837665261878,
@@ -14072,6 +14120,22 @@
 		"libraryId": 71484150010661
 	},
 	{
+		"libraryId": 88737821973231,
+		"id": "hockey-stick",
+		"title": "HockeyStick",
+		"assetId": 126826377237239,
+		"uri": "rbxassetid://126826377237239",
+		"contributors": "joffx, karsa-mistmere"
+	},
+	{
+		"libraryId": 119041009175139,
+		"id": "hockey-stick-fill",
+		"title": "HockeyStickFill",
+		"assetId": 138490574735387,
+		"uri": "rbxassetid://138490574735387",
+		"contributors": "joffx, karsa-mistmere"
+	},
+	{
 		"id": "hospital",
 		"title": "Hospital",
 		"assetId": 124116185988029,
@@ -14086,6 +14150,22 @@
 		"uri": "rbxassetid://103036230980533",
 		"contributors": "ericfennis, karsa-mistmere",
 		"libraryId": 83222183167494
+	},
+	{
+		"libraryId": 105044976491864,
+		"id": "hot-air-balloon",
+		"title": "HotAirBalloon",
+		"assetId": 72793330258696,
+		"uri": "rbxassetid://72793330258696",
+		"contributors": "roygommer, jamiemlaw"
+	},
+	{
+		"libraryId": 95549498195391,
+		"id": "hot-air-balloon-fill",
+		"title": "HotAirBalloonFill",
+		"assetId": 135196017112205,
+		"uri": "rbxassetid://135196017112205",
+		"contributors": "roygommer, jamiemlaw"
 	},
 	{
 		"id": "hotel",
