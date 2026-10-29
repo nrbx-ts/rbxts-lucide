@@ -792,36 +792,36 @@
 		"libraryId": 96208400837873
 	},
 	{
-		"libraryId": 90101334901870,
 		"id": "archive-arrow-down",
 		"title": "ArchiveArrowDown",
 		"assetId": 126662188382449,
 		"uri": "rbxassetid://126662188382449",
-		"contributors": "karsa-mistmere, ericfennis, danielbayley, bduffany"
+		"contributors": "karsa-mistmere, ericfennis, danielbayley, bduffany",
+		"libraryId": 90101334901870
 	},
 	{
-		"libraryId": 132755791594053,
 		"id": "archive-arrow-down-fill",
 		"title": "ArchiveArrowDownFill",
 		"assetId": 136206243202821,
 		"uri": "rbxassetid://136206243202821",
-		"contributors": "karsa-mistmere, ericfennis, danielbayley, bduffany"
+		"contributors": "karsa-mistmere, ericfennis, danielbayley, bduffany",
+		"libraryId": 132755791594053
 	},
 	{
-		"libraryId": 71114455003874,
 		"id": "archive-arrow-up",
 		"title": "ArchiveArrowUp",
 		"assetId": 140727113188915,
 		"uri": "rbxassetid://140727113188915",
-		"contributors": "karsa-mistmere, ericfennis, danielbayley"
+		"contributors": "karsa-mistmere, ericfennis, danielbayley",
+		"libraryId": 71114455003874
 	},
 	{
-		"libraryId": 93009478519667,
 		"id": "archive-arrow-up-fill",
 		"title": "ArchiveArrowUpFill",
 		"assetId": 106457940646873,
 		"uri": "rbxassetid://106457940646873",
-		"contributors": "karsa-mistmere, ericfennis, danielbayley"
+		"contributors": "karsa-mistmere, ericfennis, danielbayley",
+		"libraryId": 93009478519667
 	},
 	{
 		"id": "archive-fill",
@@ -3768,20 +3768,20 @@
 		"libraryId": 103777588576592
 	},
 	{
-		"libraryId": 140155164879283,
 		"id": "boxes-linked",
 		"title": "BoxesLinked",
 		"assetId": 85928973005934,
 		"uri": "rbxassetid://85928973005934",
-		"contributors": "ericfennis"
+		"contributors": "ericfennis",
+		"libraryId": 140155164879283
 	},
 	{
-		"libraryId": 139493147890379,
 		"id": "boxes-linked-fill",
 		"title": "BoxesLinkedFill",
 		"assetId": 113756379938173,
 		"uri": "rbxassetid://113756379938173",
-		"contributors": "ericfennis"
+		"contributors": "ericfennis",
+		"libraryId": 139493147890379
 	},
 	{
 		"id": "braces",
@@ -4400,36 +4400,36 @@
 		"libraryId": 131541840070421
 	},
 	{
-		"libraryId": 93026867263887,
 		"id": "calendar-arrow-left",
 		"title": "CalendarArrowLeft",
 		"assetId": 126469091663020,
 		"uri": "rbxassetid://126469091663020",
-		"contributors": "ryck, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"contributors": "ryck, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 93026867263887
 	},
 	{
-		"libraryId": 123318314565812,
 		"id": "calendar-arrow-left-fill",
 		"title": "CalendarArrowLeftFill",
 		"assetId": 127132861106297,
 		"uri": "rbxassetid://127132861106297",
-		"contributors": "ryck, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"contributors": "ryck, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 123318314565812
 	},
 	{
-		"libraryId": 108387783583769,
 		"id": "calendar-arrow-right",
 		"title": "CalendarArrowRight",
 		"assetId": 135007596569365,
 		"uri": "rbxassetid://135007596569365",
-		"contributors": "ryck, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"contributors": "ryck, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 108387783583769
 	},
 	{
-		"libraryId": 125850541070440,
 		"id": "calendar-arrow-right-fill",
 		"title": "CalendarArrowRightFill",
 		"assetId": 97231598376146,
 		"uri": "rbxassetid://97231598376146",
-		"contributors": "ryck, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert"
+		"contributors": "ryck, karsa-mistmere, ericfennis, jguddas, colebemis, AlexandrePhilibert",
+		"libraryId": 125850541070440
 	},
 	{
 		"id": "calendar-arrow-up",
@@ -5544,36 +5544,36 @@
 		"libraryId": 96473185444078
 	},
 	{
-		"libraryId": 86060803414529,
 		"id": "chart-quadrant",
 		"title": "ChartQuadrant",
 		"assetId": 130501536810687,
 		"uri": "rbxassetid://130501536810687",
-		"contributors": "danielbayley, ericfennis, nito"
+		"contributors": "danielbayley, ericfennis, nito",
+		"libraryId": 86060803414529
 	},
 	{
-		"libraryId": 81577816265994,
 		"id": "chart-quadrant-fill",
 		"title": "ChartQuadrantFill",
 		"assetId": 98666530758862,
 		"uri": "rbxassetid://98666530758862",
-		"contributors": "danielbayley, ericfennis, nito"
+		"contributors": "danielbayley, ericfennis, nito",
+		"libraryId": 81577816265994
 	},
 	{
-		"libraryId": 110070513413309,
 		"id": "chart-radar",
 		"title": "ChartRadar",
 		"assetId": 108670971770474,
 		"uri": "rbxassetid://108670971770474",
-		"contributors": "danielbayley, jguddas, nito, karsa-mistmere, congemcd, ericfennis"
+		"contributors": "danielbayley, jguddas, nito, karsa-mistmere, congemcd, ericfennis",
+		"libraryId": 110070513413309
 	},
 	{
-		"libraryId": 114507456563129,
 		"id": "chart-radar-fill",
 		"title": "ChartRadarFill",
 		"assetId": 136511623065883,
 		"uri": "rbxassetid://136511623065883",
-		"contributors": "danielbayley, jguddas, nito, karsa-mistmere, congemcd, ericfennis"
+		"contributors": "danielbayley, jguddas, nito, karsa-mistmere, congemcd, ericfennis",
+		"libraryId": 114507456563129
 	},
 	{
 		"id": "chart-scatter",
@@ -6566,6 +6566,438 @@
 		"uri": "rbxassetid://79076753160420",
 		"contributors": "danielbayley",
 		"libraryId": 99379742381153
+	},
+	{
+		"libraryId": 71811338214841,
+		"id": "circle-letter-a",
+		"title": "CircleLetterA",
+		"assetId": 136877877606746,
+		"uri": "rbxassetid://136877877606746",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 84152411042712,
+		"id": "circle-letter-a-fill",
+		"title": "CircleLetterAFill",
+		"assetId": 111487675356877,
+		"uri": "rbxassetid://111487675356877",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 118136125957861,
+		"id": "circle-letter-b",
+		"title": "CircleLetterB",
+		"assetId": 121004561066918,
+		"uri": "rbxassetid://121004561066918",
+		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere"
+	},
+	{
+		"libraryId": 129278421190160,
+		"id": "circle-letter-b-fill",
+		"title": "CircleLetterBFill",
+		"assetId": 105746633233250,
+		"uri": "rbxassetid://105746633233250",
+		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere"
+	},
+	{
+		"libraryId": 139986097957842,
+		"id": "circle-letter-c",
+		"title": "CircleLetterC",
+		"assetId": 75239944342548,
+		"uri": "rbxassetid://75239944342548",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 78266178091080,
+		"id": "circle-letter-c-fill",
+		"title": "CircleLetterCFill",
+		"assetId": 117112427955765,
+		"uri": "rbxassetid://117112427955765",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 127258293809030,
+		"id": "circle-letter-d",
+		"title": "CircleLetterD",
+		"assetId": 81210491476865,
+		"uri": "rbxassetid://81210491476865",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 122014022230869,
+		"id": "circle-letter-d-fill",
+		"title": "CircleLetterDFill",
+		"assetId": 136300630050931,
+		"uri": "rbxassetid://136300630050931",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 83013614280455,
+		"id": "circle-letter-e",
+		"title": "CircleLetterE",
+		"assetId": 128307343799293,
+		"uri": "rbxassetid://128307343799293",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 73896596826622,
+		"id": "circle-letter-e-fill",
+		"title": "CircleLetterEFill",
+		"assetId": 76283283997417,
+		"uri": "rbxassetid://76283283997417",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 94123933629187,
+		"id": "circle-letter-f",
+		"title": "CircleLetterF",
+		"assetId": 135423012819515,
+		"uri": "rbxassetid://135423012819515",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 79021409365865,
+		"id": "circle-letter-f-fill",
+		"title": "CircleLetterFFill",
+		"assetId": 88936357379252,
+		"uri": "rbxassetid://88936357379252",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 90822651693451,
+		"id": "circle-letter-g",
+		"title": "CircleLetterG",
+		"assetId": 100006795357904,
+		"uri": "rbxassetid://100006795357904",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 134185686864436,
+		"id": "circle-letter-g-fill",
+		"title": "CircleLetterGFill",
+		"assetId": 95287625456935,
+		"uri": "rbxassetid://95287625456935",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 89566999491142,
+		"id": "circle-letter-h",
+		"title": "CircleLetterH",
+		"assetId": 109428898895744,
+		"uri": "rbxassetid://109428898895744",
+		"contributors": "ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 126741861301276,
+		"id": "circle-letter-h-fill",
+		"title": "CircleLetterHFill",
+		"assetId": 71288889965476,
+		"uri": "rbxassetid://71288889965476",
+		"contributors": "ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 123231731825847,
+		"id": "circle-letter-i",
+		"title": "CircleLetterI",
+		"assetId": 93683045950407,
+		"uri": "rbxassetid://93683045950407",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 100979890547581,
+		"id": "circle-letter-i-fill",
+		"title": "CircleLetterIFill",
+		"assetId": 116777500285145,
+		"uri": "rbxassetid://116777500285145",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 110356540572766,
+		"id": "circle-letter-j",
+		"title": "CircleLetterJ",
+		"assetId": 111965776413734,
+		"uri": "rbxassetid://111965776413734",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 77799762024500,
+		"id": "circle-letter-j-fill",
+		"title": "CircleLetterJFill",
+		"assetId": 100963426189321,
+		"uri": "rbxassetid://100963426189321",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 109539991158964,
+		"id": "circle-letter-k",
+		"title": "CircleLetterK",
+		"assetId": 120073840988492,
+		"uri": "rbxassetid://120073840988492",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 107186604607563,
+		"id": "circle-letter-k-fill",
+		"title": "CircleLetterKFill",
+		"assetId": 100277814427623,
+		"uri": "rbxassetid://100277814427623",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 126494439300979,
+		"id": "circle-letter-l",
+		"title": "CircleLetterL",
+		"assetId": 88005730726058,
+		"uri": "rbxassetid://88005730726058",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 78968284232511,
+		"id": "circle-letter-l-fill",
+		"title": "CircleLetterLFill",
+		"assetId": 81097329375771,
+		"uri": "rbxassetid://81097329375771",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 137722355515900,
+		"id": "circle-letter-m",
+		"title": "CircleLetterM",
+		"assetId": 140601716673252,
+		"uri": "rbxassetid://140601716673252",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 131815729610486,
+		"id": "circle-letter-m-fill",
+		"title": "CircleLetterMFill",
+		"assetId": 130089981421568,
+		"uri": "rbxassetid://130089981421568",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 123649415139077,
+		"id": "circle-letter-n",
+		"title": "CircleLetterN",
+		"assetId": 134041739360051,
+		"uri": "rbxassetid://134041739360051",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 77848125899640,
+		"id": "circle-letter-n-fill",
+		"title": "CircleLetterNFill",
+		"assetId": 116496849100080,
+		"uri": "rbxassetid://116496849100080",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 139102850769264,
+		"id": "circle-letter-o",
+		"title": "CircleLetterO",
+		"assetId": 81456144614663,
+		"uri": "rbxassetid://81456144614663",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 108954260466520,
+		"id": "circle-letter-o-fill",
+		"title": "CircleLetterOFill",
+		"assetId": 106468394726604,
+		"uri": "rbxassetid://106468394726604",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 99778299104638,
+		"id": "circle-letter-p",
+		"title": "CircleLetterP",
+		"assetId": 131563467963654,
+		"uri": "rbxassetid://131563467963654",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 103857432201339,
+		"id": "circle-letter-p-fill",
+		"title": "CircleLetterPFill",
+		"assetId": 130902713673418,
+		"uri": "rbxassetid://130902713673418",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 114453630478704,
+		"id": "circle-letter-p-off",
+		"title": "CircleLetterPOff",
+		"assetId": 121106096280442,
+		"uri": "rbxassetid://121106096280442",
+		"contributors": "karsa-mistmere, jguddas, ericfennis"
+	},
+	{
+		"libraryId": 113768829921545,
+		"id": "circle-letter-p-off-fill",
+		"title": "CircleLetterPOffFill",
+		"assetId": 89047776500218,
+		"uri": "rbxassetid://89047776500218",
+		"contributors": "karsa-mistmere, jguddas, ericfennis"
+	},
+	{
+		"libraryId": 89677417025656,
+		"id": "circle-letter-q",
+		"title": "CircleLetterQ",
+		"assetId": 130121865660224,
+		"uri": "rbxassetid://130121865660224",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 85209240408213,
+		"id": "circle-letter-q-fill",
+		"title": "CircleLetterQFill",
+		"assetId": 127227218215193,
+		"uri": "rbxassetid://127227218215193",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 99379132645230,
+		"id": "circle-letter-r",
+		"title": "CircleLetterR",
+		"assetId": 76002674479238,
+		"uri": "rbxassetid://76002674479238",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 114089986717734,
+		"id": "circle-letter-r-fill",
+		"title": "CircleLetterRFill",
+		"assetId": 133156492189001,
+		"uri": "rbxassetid://133156492189001",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 122476713064978,
+		"id": "circle-letter-s",
+		"title": "CircleLetterS",
+		"assetId": 109980505497388,
+		"uri": "rbxassetid://109980505497388",
+		"contributors": "ericfennis, johnletey, csandman, karsa-mistmere"
+	},
+	{
+		"libraryId": 72627978552346,
+		"id": "circle-letter-s-fill",
+		"title": "CircleLetterSFill",
+		"assetId": 125402355772718,
+		"uri": "rbxassetid://125402355772718",
+		"contributors": "ericfennis, johnletey, csandman, karsa-mistmere"
+	},
+	{
+		"libraryId": 82923807316103,
+		"id": "circle-letter-t",
+		"title": "CircleLetterT",
+		"assetId": 87708213488349,
+		"uri": "rbxassetid://87708213488349",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 121389453873489,
+		"id": "circle-letter-t-fill",
+		"title": "CircleLetterTFill",
+		"assetId": 85080960391281,
+		"uri": "rbxassetid://85080960391281",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 120627625711046,
+		"id": "circle-letter-u",
+		"title": "CircleLetterU",
+		"assetId": 127797698898669,
+		"uri": "rbxassetid://127797698898669",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 78421328212238,
+		"id": "circle-letter-u-fill",
+		"title": "CircleLetterUFill",
+		"assetId": 72228018833103,
+		"uri": "rbxassetid://72228018833103",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 92937554622459,
+		"id": "circle-letter-v",
+		"title": "CircleLetterV",
+		"assetId": 122585142247058,
+		"uri": "rbxassetid://122585142247058",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 124224467068257,
+		"id": "circle-letter-v-fill",
+		"title": "CircleLetterVFill",
+		"assetId": 113268167702317,
+		"uri": "rbxassetid://113268167702317",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 71985427300961,
+		"id": "circle-letter-w",
+		"title": "CircleLetterW",
+		"assetId": 71353271471772,
+		"uri": "rbxassetid://71353271471772",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 74756392034319,
+		"id": "circle-letter-w-fill",
+		"title": "CircleLetterWFill",
+		"assetId": 94662476643387,
+		"uri": "rbxassetid://94662476643387",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 137262162501950,
+		"id": "circle-letter-x",
+		"title": "CircleLetterX",
+		"assetId": 129880851413067,
+		"uri": "rbxassetid://129880851413067",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 96142438347644,
+		"id": "circle-letter-x-fill",
+		"title": "CircleLetterXFill",
+		"assetId": 113595067288196,
+		"uri": "rbxassetid://113595067288196",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 129773124837616,
+		"id": "circle-letter-y",
+		"title": "CircleLetterY",
+		"assetId": 104336063791464,
+		"uri": "rbxassetid://104336063791464",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 83108684240524,
+		"id": "circle-letter-y-fill",
+		"title": "CircleLetterYFill",
+		"assetId": 139417927787614,
+		"uri": "rbxassetid://139417927787614",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 71725272045683,
+		"id": "circle-letter-z",
+		"title": "CircleLetterZ",
+		"assetId": 127586118933900,
+		"uri": "rbxassetid://127586118933900",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 129983909175762,
+		"id": "circle-letter-z-fill",
+		"title": "CircleLetterZFill",
+		"assetId": 132874565958173,
+		"uri": "rbxassetid://132874565958173",
+		"contributors": "karsa-mistmere"
 	},
 	{
 		"id": "circle-minus",
@@ -8912,20 +9344,20 @@
 		"libraryId": 103329523214125
 	},
 	{
-		"libraryId": 136344188987541,
 		"id": "database-cog",
 		"title": "DatabaseCog",
 		"assetId": 138054862017191,
 		"uri": "rbxassetid://138054862017191",
-		"contributors": "PrimeTestLab"
+		"contributors": "PrimeTestLab",
+		"libraryId": 136344188987541
 	},
 	{
-		"libraryId": 75465516015890,
 		"id": "database-cog-fill",
 		"title": "DatabaseCogFill",
 		"assetId": 83558975270111,
 		"uri": "rbxassetid://83558975270111",
-		"contributors": "PrimeTestLab"
+		"contributors": "PrimeTestLab",
+		"libraryId": 75465516015890
 	},
 	{
 		"id": "database-fill",
@@ -9800,36 +10232,36 @@
 		"libraryId": 77510200319397
 	},
 	{
-		"libraryId": 104159652136929,
 		"id": "earbuds",
 		"title": "Earbuds",
 		"assetId": 99353726063009,
 		"uri": "rbxassetid://99353726063009",
-		"contributors": "rrod497"
+		"contributors": "rrod497",
+		"libraryId": 104159652136929
 	},
 	{
-		"libraryId": 97938779489627,
 		"id": "earbuds-fill",
 		"title": "EarbudsFill",
 		"assetId": 94163208533385,
 		"uri": "rbxassetid://94163208533385",
-		"contributors": "rrod497"
+		"contributors": "rrod497",
+		"libraryId": 97938779489627
 	},
 	{
-		"libraryId": 79667729085712,
 		"id": "earbuds-off",
 		"title": "EarbudsOff",
 		"assetId": 119825640198121,
 		"uri": "rbxassetid://119825640198121",
-		"contributors": "rrod497"
+		"contributors": "rrod497",
+		"libraryId": 79667729085712
 	},
 	{
-		"libraryId": 124289297152398,
 		"id": "earbuds-off-fill",
 		"title": "EarbudsOffFill",
 		"assetId": 72626194156327,
 		"uri": "rbxassetid://72626194156327",
-		"contributors": "rrod497"
+		"contributors": "rrod497",
+		"libraryId": 124289297152398
 	},
 	{
 		"id": "earth",
@@ -15240,20 +15672,20 @@
 		"libraryId": 102746332515807
 	},
 	{
-		"libraryId": 127098259964245,
 		"id": "laser",
 		"title": "Laser",
 		"assetId": 74236538254359,
 		"uri": "rbxassetid://74236538254359",
-		"contributors": "ericfennis, karsa-mistmere, kotaindah55"
+		"contributors": "ericfennis, karsa-mistmere, kotaindah55",
+		"libraryId": 127098259964245
 	},
 	{
-		"libraryId": 85386774147986,
 		"id": "laser-fill",
 		"title": "LaserFill",
 		"assetId": 89377927412740,
 		"uri": "rbxassetid://89377927412740",
-		"contributors": "ericfennis, karsa-mistmere, kotaindah55"
+		"contributors": "ericfennis, karsa-mistmere, kotaindah55",
+		"libraryId": 85386774147986
 	},
 	{
 		"id": "lasso",
@@ -15672,6 +16104,310 @@
 		"libraryId": 74979642937990
 	},
 	{
+		"libraryId": 138378561101099,
+		"id": "letter-a",
+		"title": "LetterA",
+		"assetId": 108527966643857,
+		"uri": "rbxassetid://108527966643857",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 125214282864457,
+		"id": "letter-a-fill",
+		"title": "LetterAFill",
+		"assetId": 114102132770121,
+		"uri": "rbxassetid://114102132770121",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 81831949344154,
+		"id": "letter-b",
+		"title": "LetterB",
+		"assetId": 131269455180879,
+		"uri": "rbxassetid://131269455180879",
+		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere"
+	},
+	{
+		"libraryId": 133875060286177,
+		"id": "letter-b-fill",
+		"title": "LetterBFill",
+		"assetId": 93263316742545,
+		"uri": "rbxassetid://93263316742545",
+		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere"
+	},
+	{
+		"libraryId": 139795630204019,
+		"id": "letter-c",
+		"title": "LetterC",
+		"assetId": 133717217327868,
+		"uri": "rbxassetid://133717217327868",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 137505915504412,
+		"id": "letter-c-fill",
+		"title": "LetterCFill",
+		"assetId": 123552814783573,
+		"uri": "rbxassetid://123552814783573",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 85535785183092,
+		"id": "letter-d",
+		"title": "LetterD",
+		"assetId": 116751621769179,
+		"uri": "rbxassetid://116751621769179",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 105079110437485,
+		"id": "letter-d-fill",
+		"title": "LetterDFill",
+		"assetId": 81343672089925,
+		"uri": "rbxassetid://81343672089925",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 114610040806763,
+		"id": "letter-e",
+		"title": "LetterE",
+		"assetId": 106449390021217,
+		"uri": "rbxassetid://106449390021217",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 99577528914982,
+		"id": "letter-e-fill",
+		"title": "LetterEFill",
+		"assetId": 108266961476898,
+		"uri": "rbxassetid://108266961476898",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 140569170335006,
+		"id": "letter-f",
+		"title": "LetterF",
+		"assetId": 139165264281911,
+		"uri": "rbxassetid://139165264281911",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 116054654704741,
+		"id": "letter-f-fill",
+		"title": "LetterFFill",
+		"assetId": 117545801007141,
+		"uri": "rbxassetid://117545801007141",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 101093343514106,
+		"id": "letter-g",
+		"title": "LetterG",
+		"assetId": 82626730653205,
+		"uri": "rbxassetid://82626730653205",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 135600046272046,
+		"id": "letter-g-fill",
+		"title": "LetterGFill",
+		"assetId": 98020334995211,
+		"uri": "rbxassetid://98020334995211",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 105818978679437,
+		"id": "letter-h",
+		"title": "LetterH",
+		"assetId": 83017844100667,
+		"uri": "rbxassetid://83017844100667",
+		"contributors": "ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 109722707659314,
+		"id": "letter-h-fill",
+		"title": "LetterHFill",
+		"assetId": 127939295571496,
+		"uri": "rbxassetid://127939295571496",
+		"contributors": "ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 118577235974424,
+		"id": "letter-i",
+		"title": "LetterI",
+		"assetId": 82839356859147,
+		"uri": "rbxassetid://82839356859147",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 107477587964562,
+		"id": "letter-i-fill",
+		"title": "LetterIFill",
+		"assetId": 72392634617095,
+		"uri": "rbxassetid://72392634617095",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 137162858016495,
+		"id": "letter-j",
+		"title": "LetterJ",
+		"assetId": 106712536088848,
+		"uri": "rbxassetid://106712536088848",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 98895027527516,
+		"id": "letter-j-fill",
+		"title": "LetterJFill",
+		"assetId": 133111191402229,
+		"uri": "rbxassetid://133111191402229",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 111389198968303,
+		"id": "letter-k",
+		"title": "LetterK",
+		"assetId": 91567526179808,
+		"uri": "rbxassetid://91567526179808",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 129172964242960,
+		"id": "letter-k-fill",
+		"title": "LetterKFill",
+		"assetId": 107932580437854,
+		"uri": "rbxassetid://107932580437854",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 78500335595660,
+		"id": "letter-l",
+		"title": "LetterL",
+		"assetId": 81662637474696,
+		"uri": "rbxassetid://81662637474696",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 70544031500616,
+		"id": "letter-l-fill",
+		"title": "LetterLFill",
+		"assetId": 71529070752793,
+		"uri": "rbxassetid://71529070752793",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 85418537929259,
+		"id": "letter-m",
+		"title": "LetterM",
+		"assetId": 94952584505266,
+		"uri": "rbxassetid://94952584505266",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 95754606135435,
+		"id": "letter-m-fill",
+		"title": "LetterMFill",
+		"assetId": 105187551326394,
+		"uri": "rbxassetid://105187551326394",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 116018481897331,
+		"id": "letter-n",
+		"title": "LetterN",
+		"assetId": 112117431467522,
+		"uri": "rbxassetid://112117431467522",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 119932515395007,
+		"id": "letter-n-fill",
+		"title": "LetterNFill",
+		"assetId": 117659012573530,
+		"uri": "rbxassetid://117659012573530",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 107531724032530,
+		"id": "letter-o",
+		"title": "LetterO",
+		"assetId": 116150812848943,
+		"uri": "rbxassetid://116150812848943",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 71962492342616,
+		"id": "letter-o-fill",
+		"title": "LetterOFill",
+		"assetId": 106532314282779,
+		"uri": "rbxassetid://106532314282779",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 126710970073090,
+		"id": "letter-p",
+		"title": "LetterP",
+		"assetId": 92607665116150,
+		"uri": "rbxassetid://92607665116150",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 137571088643410,
+		"id": "letter-p-fill",
+		"title": "LetterPFill",
+		"assetId": 94096780144866,
+		"uri": "rbxassetid://94096780144866",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 130159629262403,
+		"id": "letter-q",
+		"title": "LetterQ",
+		"assetId": 72061562914153,
+		"uri": "rbxassetid://72061562914153",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 105997264741237,
+		"id": "letter-q-fill",
+		"title": "LetterQFill",
+		"assetId": 76150949146875,
+		"uri": "rbxassetid://76150949146875",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 101605160946947,
+		"id": "letter-r",
+		"title": "LetterR",
+		"assetId": 80524686457960,
+		"uri": "rbxassetid://80524686457960",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 83491143720534,
+		"id": "letter-r-fill",
+		"title": "LetterRFill",
+		"assetId": 86854998105797,
+		"uri": "rbxassetid://86854998105797",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 138999324045226,
+		"id": "letter-s",
+		"title": "LetterS",
+		"assetId": 81236890590911,
+		"uri": "rbxassetid://81236890590911",
+		"contributors": "ericfennis, johnletey, csandman, karsa-mistmere"
+	},
+	{
+		"libraryId": 100457196151138,
+		"id": "letter-s-fill",
+		"title": "LetterSFill",
+		"assetId": 77538933891471,
+		"uri": "rbxassetid://77538933891471",
+		"contributors": "ericfennis, johnletey, csandman, karsa-mistmere"
+	},
+	{
 		"id": "letter-spacing",
 		"title": "LetterSpacing",
 		"assetId": 118715110640678,
@@ -15686,6 +16422,118 @@
 		"uri": "rbxassetid://94618584412892",
 		"contributors": "madebyoz",
 		"libraryId": 76669076610068
+	},
+	{
+		"libraryId": 139349416936754,
+		"id": "letter-t",
+		"title": "LetterT",
+		"assetId": 79222691317569,
+		"uri": "rbxassetid://79222691317569",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 123402013082140,
+		"id": "letter-t-fill",
+		"title": "LetterTFill",
+		"assetId": 138412433130345,
+		"uri": "rbxassetid://138412433130345",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 106416493900729,
+		"id": "letter-u",
+		"title": "LetterU",
+		"assetId": 86213963844666,
+		"uri": "rbxassetid://86213963844666",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 136587392439379,
+		"id": "letter-u-fill",
+		"title": "LetterUFill",
+		"assetId": 139655026044942,
+		"uri": "rbxassetid://139655026044942",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 105594825167457,
+		"id": "letter-v",
+		"title": "LetterV",
+		"assetId": 92941321893272,
+		"uri": "rbxassetid://92941321893272",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 97298905215981,
+		"id": "letter-v-fill",
+		"title": "LetterVFill",
+		"assetId": 106470089366617,
+		"uri": "rbxassetid://106470089366617",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 83692877945529,
+		"id": "letter-w",
+		"title": "LetterW",
+		"assetId": 98848790121280,
+		"uri": "rbxassetid://98848790121280",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 136506563825010,
+		"id": "letter-w-fill",
+		"title": "LetterWFill",
+		"assetId": 79758936068606,
+		"uri": "rbxassetid://79758936068606",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 125668978349669,
+		"id": "letter-x",
+		"title": "LetterX",
+		"assetId": 121786514067444,
+		"uri": "rbxassetid://121786514067444",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 92584193512366,
+		"id": "letter-x-fill",
+		"title": "LetterXFill",
+		"assetId": 108150850411938,
+		"uri": "rbxassetid://108150850411938",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 139153444332771,
+		"id": "letter-y",
+		"title": "LetterY",
+		"assetId": 131111212581393,
+		"uri": "rbxassetid://131111212581393",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 83035889940357,
+		"id": "letter-y-fill",
+		"title": "LetterYFill",
+		"assetId": 130088250288783,
+		"uri": "rbxassetid://130088250288783",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 137751678750881,
+		"id": "letter-z",
+		"title": "LetterZ",
+		"assetId": 77581193614257,
+		"uri": "rbxassetid://77581193614257",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 74637979423691,
+		"id": "letter-z-fill",
+		"title": "LetterZFill",
+		"assetId": 127919685140755,
+		"uri": "rbxassetid://127919685140755",
+		"contributors": "karsa-mistmere"
 	},
 	{
 		"id": "letters",
@@ -19190,6 +20038,22 @@
 		"uri": "rbxassetid://122373225128697",
 		"contributors": "danielbayley",
 		"libraryId": 139151429920905
+	},
+	{
+		"libraryId": 126054786555074,
+		"id": "numbers",
+		"title": "Numbers",
+		"assetId": 73727524610575,
+		"uri": "rbxassetid://73727524610575",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 127666046080500,
+		"id": "numbers-fill",
+		"title": "NumbersFill",
+		"assetId": 70723752313515,
+		"uri": "rbxassetid://70723752313515",
+		"contributors": "karsa-mistmere"
 	},
 	{
 		"id": "nut",
@@ -24072,20 +24936,20 @@
 		"libraryId": 103521349821650
 	},
 	{
-		"libraryId": 119055668783086,
 		"id": "siren-off",
 		"title": "SirenOff",
 		"assetId": 94606921260994,
 		"uri": "rbxassetid://94606921260994",
-		"contributors": "xougui, karsa-mistmere"
+		"contributors": "xougui, karsa-mistmere",
+		"libraryId": 119055668783086
 	},
 	{
-		"libraryId": 129974732174403,
 		"id": "siren-off-fill",
 		"title": "SirenOffFill",
 		"assetId": 133703743678013,
 		"uri": "rbxassetid://133703743678013",
-		"contributors": "xougui, karsa-mistmere"
+		"contributors": "xougui, karsa-mistmere",
+		"libraryId": 129974732174403
 	},
 	{
 		"id": "sixteenth-notes",
@@ -25072,68 +25936,68 @@
 		"libraryId": 139982264585957
 	},
 	{
-		"libraryId": 79298061620570,
 		"id": "square-chevrons-down",
 		"title": "SquareChevronsDown",
 		"assetId": 113630026465846,
 		"uri": "rbxassetid://113630026465846",
-		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti"
+		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti",
+		"libraryId": 79298061620570
 	},
 	{
-		"libraryId": 83219460241912,
 		"id": "square-chevrons-down-fill",
 		"title": "SquareChevronsDownFill",
 		"assetId": 130056985887002,
 		"uri": "rbxassetid://130056985887002",
-		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti"
+		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti",
+		"libraryId": 83219460241912
 	},
 	{
-		"libraryId": 115354237256034,
 		"id": "square-chevrons-left",
 		"title": "SquareChevronsLeft",
 		"assetId": 110732054152990,
 		"uri": "rbxassetid://110732054152990",
-		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti"
+		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti",
+		"libraryId": 115354237256034
 	},
 	{
-		"libraryId": 82430213189284,
 		"id": "square-chevrons-left-fill",
 		"title": "SquareChevronsLeftFill",
 		"assetId": 88153225698510,
 		"uri": "rbxassetid://88153225698510",
-		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti"
+		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti",
+		"libraryId": 82430213189284
 	},
 	{
-		"libraryId": 80012299238453,
 		"id": "square-chevrons-right",
 		"title": "SquareChevronsRight",
 		"assetId": 121224083130121,
 		"uri": "rbxassetid://121224083130121",
-		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti"
+		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti",
+		"libraryId": 80012299238453
 	},
 	{
-		"libraryId": 135797374134990,
 		"id": "square-chevrons-right-fill",
 		"title": "SquareChevronsRightFill",
 		"assetId": 102215908357175,
 		"uri": "rbxassetid://102215908357175",
-		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti"
+		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti",
+		"libraryId": 135797374134990
 	},
 	{
-		"libraryId": 98292163457407,
 		"id": "square-chevrons-up",
 		"title": "SquareChevronsUp",
 		"assetId": 111654494113975,
 		"uri": "rbxassetid://111654494113975",
-		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti"
+		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti",
+		"libraryId": 98292163457407
 	},
 	{
-		"libraryId": 139605383071962,
 		"id": "square-chevrons-up-fill",
 		"title": "SquareChevronsUpFill",
 		"assetId": 91546120282188,
 		"uri": "rbxassetid://91546120282188",
-		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti"
+		"contributors": "karsa-mistmere, jguddas, AlexandrePhilibert, danielbayley, ericfennis, colebemis, ypotti",
+		"libraryId": 139605383071962
 	},
 	{
 		"id": "square-code",
@@ -25430,6 +26294,454 @@
 		"uri": "rbxassetid://101538448722225",
 		"contributors": "danielbayley",
 		"libraryId": 82288499382291
+	},
+	{
+		"libraryId": 72802464383664,
+		"id": "square-kanban-plus",
+		"title": "SquareKanbanPlus",
+		"assetId": 125861736697868,
+		"uri": "rbxassetid://125861736697868",
+		"contributors": "KesleyDavid, jguddas"
+	},
+	{
+		"libraryId": 71457719067758,
+		"id": "square-kanban-plus-fill",
+		"title": "SquareKanbanPlusFill",
+		"assetId": 78757486487299,
+		"uri": "rbxassetid://78757486487299",
+		"contributors": "KesleyDavid, jguddas"
+	},
+	{
+		"libraryId": 132776617388028,
+		"id": "square-letter-a",
+		"title": "SquareLetterA",
+		"assetId": 104785536871722,
+		"uri": "rbxassetid://104785536871722",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 133180855100966,
+		"id": "square-letter-a-fill",
+		"title": "SquareLetterAFill",
+		"assetId": 100104254441854,
+		"uri": "rbxassetid://100104254441854",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 95444226203183,
+		"id": "square-letter-b",
+		"title": "SquareLetterB",
+		"assetId": 76658433111408,
+		"uri": "rbxassetid://76658433111408",
+		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere"
+	},
+	{
+		"libraryId": 101837573855236,
+		"id": "square-letter-b-fill",
+		"title": "SquareLetterBFill",
+		"assetId": 133765208503789,
+		"uri": "rbxassetid://133765208503789",
+		"contributors": "colebemis, csandman, ericfennis, jguddas, karsa-mistmere"
+	},
+	{
+		"libraryId": 129395285896915,
+		"id": "square-letter-c",
+		"title": "SquareLetterC",
+		"assetId": 117423246224790,
+		"uri": "rbxassetid://117423246224790",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 123452721630558,
+		"id": "square-letter-c-fill",
+		"title": "SquareLetterCFill",
+		"assetId": 78547865429657,
+		"uri": "rbxassetid://78547865429657",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 128685058800906,
+		"id": "square-letter-d",
+		"title": "SquareLetterD",
+		"assetId": 98131779219603,
+		"uri": "rbxassetid://98131779219603",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 70609207773126,
+		"id": "square-letter-d-fill",
+		"title": "SquareLetterDFill",
+		"assetId": 100148034031931,
+		"uri": "rbxassetid://100148034031931",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 122631612486987,
+		"id": "square-letter-e",
+		"title": "SquareLetterE",
+		"assetId": 101413089710689,
+		"uri": "rbxassetid://101413089710689",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 120483924505472,
+		"id": "square-letter-e-fill",
+		"title": "SquareLetterEFill",
+		"assetId": 124091217641676,
+		"uri": "rbxassetid://124091217641676",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 113659121339851,
+		"id": "square-letter-f",
+		"title": "SquareLetterF",
+		"assetId": 104856108820381,
+		"uri": "rbxassetid://104856108820381",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 133619681846121,
+		"id": "square-letter-f-fill",
+		"title": "SquareLetterFFill",
+		"assetId": 74764673405201,
+		"uri": "rbxassetid://74764673405201",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 136412762995086,
+		"id": "square-letter-g",
+		"title": "SquareLetterG",
+		"assetId": 76000959347019,
+		"uri": "rbxassetid://76000959347019",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 110904574942810,
+		"id": "square-letter-g-fill",
+		"title": "SquareLetterGFill",
+		"assetId": 134603287587254,
+		"uri": "rbxassetid://134603287587254",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 132204713411756,
+		"id": "square-letter-h",
+		"title": "SquareLetterH",
+		"assetId": 129636301452709,
+		"uri": "rbxassetid://129636301452709",
+		"contributors": "ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 106982731426229,
+		"id": "square-letter-h-fill",
+		"title": "SquareLetterHFill",
+		"assetId": 115929243579883,
+		"uri": "rbxassetid://115929243579883",
+		"contributors": "ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 96249391002230,
+		"id": "square-letter-i",
+		"title": "SquareLetterI",
+		"assetId": 133994304194695,
+		"uri": "rbxassetid://133994304194695",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 81046365692535,
+		"id": "square-letter-i-fill",
+		"title": "SquareLetterIFill",
+		"assetId": 116665795599072,
+		"uri": "rbxassetid://116665795599072",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 122394030580504,
+		"id": "square-letter-j",
+		"title": "SquareLetterJ",
+		"assetId": 136624018224254,
+		"uri": "rbxassetid://136624018224254",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 138057417476496,
+		"id": "square-letter-j-fill",
+		"title": "SquareLetterJFill",
+		"assetId": 115086709413984,
+		"uri": "rbxassetid://115086709413984",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 98228194582830,
+		"id": "square-letter-k",
+		"title": "SquareLetterK",
+		"assetId": 98158962006829,
+		"uri": "rbxassetid://98158962006829",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 118684239257991,
+		"id": "square-letter-k-fill",
+		"title": "SquareLetterKFill",
+		"assetId": 117668754117765,
+		"uri": "rbxassetid://117668754117765",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 140570419636976,
+		"id": "square-letter-l",
+		"title": "SquareLetterL",
+		"assetId": 73632669307536,
+		"uri": "rbxassetid://73632669307536",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 124210704141478,
+		"id": "square-letter-l-fill",
+		"title": "SquareLetterLFill",
+		"assetId": 105922386803477,
+		"uri": "rbxassetid://105922386803477",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 82519420964646,
+		"id": "square-letter-m",
+		"title": "SquareLetterM",
+		"assetId": 81349035977080,
+		"uri": "rbxassetid://81349035977080",
+		"contributors": "danielbayley, jguddas, karsa-mistmere"
+	},
+	{
+		"libraryId": 121655767814385,
+		"id": "square-letter-m-fill",
+		"title": "SquareLetterMFill",
+		"assetId": 82330363566343,
+		"uri": "rbxassetid://82330363566343",
+		"contributors": "danielbayley, jguddas, karsa-mistmere"
+	},
+	{
+		"libraryId": 112214926207125,
+		"id": "square-letter-n",
+		"title": "SquareLetterN",
+		"assetId": 88128631305806,
+		"uri": "rbxassetid://88128631305806",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 104944331074667,
+		"id": "square-letter-n-fill",
+		"title": "SquareLetterNFill",
+		"assetId": 135035129585535,
+		"uri": "rbxassetid://135035129585535",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 76078900656772,
+		"id": "square-letter-o",
+		"title": "SquareLetterO",
+		"assetId": 88497049965830,
+		"uri": "rbxassetid://88497049965830",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 128771805193459,
+		"id": "square-letter-o-fill",
+		"title": "SquareLetterOFill",
+		"assetId": 72590443833258,
+		"uri": "rbxassetid://72590443833258",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 89485102097197,
+		"id": "square-letter-p",
+		"title": "SquareLetterP",
+		"assetId": 118028915114203,
+		"uri": "rbxassetid://118028915114203",
+		"contributors": "karsa-mistmere, jguddas, danielbayley"
+	},
+	{
+		"libraryId": 118822297183689,
+		"id": "square-letter-p-fill",
+		"title": "SquareLetterPFill",
+		"assetId": 117520865155905,
+		"uri": "rbxassetid://117520865155905",
+		"contributors": "karsa-mistmere, jguddas, danielbayley"
+	},
+	{
+		"libraryId": 103286275393433,
+		"id": "square-letter-p-off",
+		"title": "SquareLetterPOff",
+		"assetId": 72184543473474,
+		"uri": "rbxassetid://72184543473474",
+		"contributors": "karsa-mistmere, jguddas, danielbayley"
+	},
+	{
+		"libraryId": 130003390115099,
+		"id": "square-letter-p-off-fill",
+		"title": "SquareLetterPOffFill",
+		"assetId": 123346025581116,
+		"uri": "rbxassetid://123346025581116",
+		"contributors": "karsa-mistmere, jguddas, danielbayley"
+	},
+	{
+		"libraryId": 130020508476753,
+		"id": "square-letter-q",
+		"title": "SquareLetterQ",
+		"assetId": 130555500148818,
+		"uri": "rbxassetid://130555500148818",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 127708544440021,
+		"id": "square-letter-q-fill",
+		"title": "SquareLetterQFill",
+		"assetId": 108330899119201,
+		"uri": "rbxassetid://108330899119201",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 129774317805092,
+		"id": "square-letter-r",
+		"title": "SquareLetterR",
+		"assetId": 138309069314752,
+		"uri": "rbxassetid://138309069314752",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 120728333557113,
+		"id": "square-letter-r-fill",
+		"title": "SquareLetterRFill",
+		"assetId": 96439888490944,
+		"uri": "rbxassetid://96439888490944",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 111174116663904,
+		"id": "square-letter-s",
+		"title": "SquareLetterS",
+		"assetId": 72683671652688,
+		"uri": "rbxassetid://72683671652688",
+		"contributors": "ericfennis, johnletey, csandman, karsa-mistmere"
+	},
+	{
+		"libraryId": 130212836218913,
+		"id": "square-letter-s-fill",
+		"title": "SquareLetterSFill",
+		"assetId": 71138087062085,
+		"uri": "rbxassetid://71138087062085",
+		"contributors": "ericfennis, johnletey, csandman, karsa-mistmere"
+	},
+	{
+		"libraryId": 88631263969679,
+		"id": "square-letter-t",
+		"title": "SquareLetterT",
+		"assetId": 122497733578962,
+		"uri": "rbxassetid://122497733578962",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 97208535825846,
+		"id": "square-letter-t-fill",
+		"title": "SquareLetterTFill",
+		"assetId": 70629377084918,
+		"uri": "rbxassetid://70629377084918",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 112982758220210,
+		"id": "square-letter-u",
+		"title": "SquareLetterU",
+		"assetId": 102211873889104,
+		"uri": "rbxassetid://102211873889104",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 121221601844175,
+		"id": "square-letter-u-fill",
+		"title": "SquareLetterUFill",
+		"assetId": 101866626629684,
+		"uri": "rbxassetid://101866626629684",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 78948739904272,
+		"id": "square-letter-v",
+		"title": "SquareLetterV",
+		"assetId": 88258709493601,
+		"uri": "rbxassetid://88258709493601",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 133256261113941,
+		"id": "square-letter-v-fill",
+		"title": "SquareLetterVFill",
+		"assetId": 86271036508672,
+		"uri": "rbxassetid://86271036508672",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 86544356031587,
+		"id": "square-letter-w",
+		"title": "SquareLetterW",
+		"assetId": 78894264489426,
+		"uri": "rbxassetid://78894264489426",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 119366047393325,
+		"id": "square-letter-w-fill",
+		"title": "SquareLetterWFill",
+		"assetId": 95399170168025,
+		"uri": "rbxassetid://95399170168025",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 77128417145818,
+		"id": "square-letter-x",
+		"title": "SquareLetterX",
+		"assetId": 116717489827136,
+		"uri": "rbxassetid://116717489827136",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 96590057886005,
+		"id": "square-letter-x-fill",
+		"title": "SquareLetterXFill",
+		"assetId": 99077461492074,
+		"uri": "rbxassetid://99077461492074",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 132508543951462,
+		"id": "square-letter-y",
+		"title": "SquareLetterY",
+		"assetId": 80111304773974,
+		"uri": "rbxassetid://80111304773974",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 137585703047567,
+		"id": "square-letter-y-fill",
+		"title": "SquareLetterYFill",
+		"assetId": 130140306465417,
+		"uri": "rbxassetid://130140306465417",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 137397812856071,
+		"id": "square-letter-z",
+		"title": "SquareLetterZ",
+		"assetId": 134699193470698,
+		"uri": "rbxassetid://134699193470698",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 106862628323594,
+		"id": "square-letter-z-fill",
+		"title": "SquareLetterZFill",
+		"assetId": 74699640905701,
+		"uri": "rbxassetid://74699640905701",
+		"contributors": "karsa-mistmere"
 	},
 	{
 		"id": "square-library",
@@ -29080,20 +30392,20 @@
 		"libraryId": 71906856047003
 	},
 	{
-		"libraryId": 109748559332225,
 		"id": "user-round-shield",
 		"title": "UserRoundShield",
 		"assetId": 131708238353351,
 		"uri": "rbxassetid://131708238353351",
-		"contributors": "karsa-mistmere, MArtytraM99, DrashtiC07"
+		"contributors": "karsa-mistmere, MArtytraM99, DrashtiC07",
+		"libraryId": 109748559332225
 	},
 	{
-		"libraryId": 115502527821754,
 		"id": "user-round-shield-fill",
 		"title": "UserRoundShieldFill",
 		"assetId": 114081646592597,
 		"uri": "rbxassetid://114081646592597",
-		"contributors": "karsa-mistmere, MArtytraM99, DrashtiC07"
+		"contributors": "karsa-mistmere, MArtytraM99, DrashtiC07",
+		"libraryId": 115502527821754
 	},
 	{
 		"id": "user-round-star",
