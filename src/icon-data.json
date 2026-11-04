@@ -1928,6 +1928,22 @@
 		"libraryId": 96015215828381
 	},
 	{
+		"libraryId": 78808697856241,
+		"id": "badge-exclamation-point",
+		"title": "BadgeExclamationPoint",
+		"assetId": 103498452059593,
+		"uri": "rbxassetid://103498452059593",
+		"contributors": "karsa-mistmere, jguddas"
+	},
+	{
+		"libraryId": 126937525118852,
+		"id": "badge-exclamation-point-fill",
+		"title": "BadgeExclamationPointFill",
+		"assetId": 123990372699767,
+		"uri": "rbxassetid://123990372699767",
+		"contributors": "karsa-mistmere, jguddas"
+	},
+	{
 		"id": "badge-fill",
 		"title": "BadgeFill",
 		"assetId": 97944371730618,
@@ -2382,6 +2398,22 @@
 		"uri": "rbxassetid://115078619065417",
 		"contributors": "colebemis, ericfennis, csandman, karsa-mistmere, johnletey, jguddas",
 		"libraryId": 116998224803114
+	},
+	{
+		"libraryId": 99772804205762,
+		"id": "battery-exclamation-point",
+		"title": "BatteryExclamationPoint",
+		"assetId": 125926146465775,
+		"uri": "rbxassetid://125926146465775",
+		"contributors": "Kaladii, ericfennis, jguddas"
+	},
+	{
+		"libraryId": 89494258877220,
+		"id": "battery-exclamation-point-fill",
+		"title": "BatteryExclamationPointFill",
+		"assetId": 127312394545852,
+		"uri": "rbxassetid://127312394545852",
+		"contributors": "Kaladii, ericfennis, jguddas"
 	},
 	{
 		"id": "battery-fill",
@@ -3278,6 +3310,22 @@
 		"uri": "rbxassetid://134776260016876",
 		"contributors": "danielbayley",
 		"libraryId": 80878626646655
+	},
+	{
+		"libraryId": 126253840698550,
+		"id": "book-exclamation-point",
+		"title": "BookExclamationPoint",
+		"assetId": 105138973197557,
+		"uri": "rbxassetid://105138973197557",
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, lscheibel, domasmark"
+	},
+	{
+		"libraryId": 125586312420115,
+		"id": "book-exclamation-point-fill",
+		"title": "BookExclamationPointFill",
+		"assetId": 94425745909342,
+		"uri": "rbxassetid://94425745909342",
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, lscheibel, domasmark"
 	},
 	{
 		"id": "book-fill",
@@ -6544,6 +6592,22 @@
 		"libraryId": 101069440295705
 	},
 	{
+		"libraryId": 135179619544644,
+		"id": "circle-exclamation-point",
+		"title": "CircleExclamationPoint",
+		"assetId": 107821699656396,
+		"uri": "rbxassetid://107821699656396",
+		"contributors": "colebemis, ericfennis"
+	},
+	{
+		"libraryId": 133015550839488,
+		"id": "circle-exclamation-point-fill",
+		"title": "CircleExclamationPointFill",
+		"assetId": 77624727512743,
+		"uri": "rbxassetid://77624727512743",
+		"contributors": "colebemis, ericfennis"
+	},
+	{
 		"id": "circle-fading-arrow-up",
 		"title": "CircleFadingArrowUp",
 		"assetId": 103786102276933,
@@ -7952,6 +8016,22 @@
 		"libraryId": 102650864126150
 	},
 	{
+		"libraryId": 78750861428755,
+		"id": "clock-exclamation-point",
+		"title": "ClockExclamationPoint",
+		"assetId": 78779962624797,
+		"uri": "rbxassetid://78779962624797",
+		"contributors": "colebemis, jguddas, jamiemlaw"
+	},
+	{
+		"libraryId": 93676984941689,
+		"id": "clock-exclamation-point-fill",
+		"title": "ClockExclamationPointFill",
+		"assetId": 103250136749904,
+		"uri": "rbxassetid://103250136749904",
+		"contributors": "colebemis, jguddas, jamiemlaw"
+	},
+	{
 		"id": "clock-fading",
 		"title": "ClockFading",
 		"assetId": 84768050450735,
@@ -8110,6 +8190,22 @@
 		"uri": "rbxassetid://130619813229611",
 		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere",
 		"libraryId": 99365241399562
+	},
+	{
+		"libraryId": 125611126504855,
+		"id": "cloud-exclamation-point",
+		"title": "CloudExclamationPoint",
+		"assetId": 103186479192770,
+		"uri": "rbxassetid://103186479192770",
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, lscheibel, jguddas"
+	},
+	{
+		"libraryId": 112478334379008,
+		"id": "cloud-exclamation-point-fill",
+		"title": "CloudExclamationPointFill",
+		"assetId": 131756310787706,
+		"uri": "rbxassetid://131756310787706",
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, lscheibel, jguddas"
 	},
 	{
 		"id": "cloud-fill",
@@ -9560,36 +9656,36 @@
 		"libraryId": 129857291828044
 	},
 	{
-		"libraryId": 135259578367508,
 		"id": "diagram-flow-horizontal",
 		"title": "DiagramFlowHorizontal",
 		"assetId": 118060430935609,
 		"uri": "rbxassetid://118060430935609",
-		"contributors": "linus-sch, karsa-mistmerea"
+		"contributors": "linus-sch, karsa-mistmerea",
+		"libraryId": 135259578367508
 	},
 	{
-		"libraryId": 115264693641606,
 		"id": "diagram-flow-horizontal-fill",
 		"title": "DiagramFlowHorizontalFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "linus-sch, karsa-mistmerea"
+		"assetId": 119292704027363,
+		"uri": "rbxassetid://119292704027363",
+		"contributors": "linus-sch, karsa-mistmerea",
+		"libraryId": 115264693641606
 	},
 	{
-		"libraryId": 135093763629624,
 		"id": "diagram-flow-vertical",
 		"title": "DiagramFlowVertical",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "$extends:diagram-flow-horizontal"
+		"assetId": 77846407234186,
+		"uri": "rbxassetid://77846407234186",
+		"contributors": "$extends:diagram-flow-horizontal",
+		"libraryId": 135093763629624
 	},
 	{
-		"libraryId": 91885864579791,
 		"id": "diagram-flow-vertical-fill",
 		"title": "DiagramFlowVerticalFill",
 		"assetId": 116444848371940,
 		"uri": "rbxassetid://116444848371940",
-		"contributors": "$extends:diagram-flow-horizontal"
+		"contributors": "$extends:diagram-flow-horizontal",
+		"libraryId": 91885864579791
 	},
 	{
 		"id": "diameter",
@@ -13664,20 +13760,20 @@
 		"libraryId": 92469208851173
 	},
 	{
-		"libraryId": 88996030659025,
 		"id": "globe-ban",
 		"title": "GlobeBan",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "$extends:globe, PrimeTestLab"
+		"assetId": 107668744891768,
+		"uri": "rbxassetid://107668744891768",
+		"contributors": "$extends:globe, PrimeTestLab",
+		"libraryId": 88996030659025
 	},
 	{
-		"libraryId": 91864822104163,
 		"id": "globe-ban-fill",
 		"title": "GlobeBanFill",
 		"assetId": 116038280382399,
 		"uri": "rbxassetid://116038280382399",
-		"contributors": "$extends:globe, PrimeTestLab"
+		"contributors": "$extends:globe, PrimeTestLab",
+		"libraryId": 91864822104163
 	},
 	{
 		"id": "globe-check",
@@ -13752,20 +13848,20 @@
 		"libraryId": 101892696454378
 	},
 	{
-		"libraryId": 139807196018409,
 		"id": "globe-plus",
 		"title": "GlobePlus",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "$extends:globe, Turboman3000"
+		"assetId": 139794858529797,
+		"uri": "rbxassetid://139794858529797",
+		"contributors": "$extends:globe, Turboman3000",
+		"libraryId": 139807196018409
 	},
 	{
-		"libraryId": 116647855677201,
 		"id": "globe-plus-fill",
 		"title": "GlobePlusFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "$extends:globe, Turboman3000"
+		"assetId": 72094815200078,
+		"uri": "rbxassetid://72094815200078",
+		"contributors": "$extends:globe, Turboman3000",
+		"libraryId": 116647855677201
 	},
 	{
 		"id": "globe-x",
@@ -17680,6 +17776,22 @@
 		"libraryId": 112375795239794
 	},
 	{
+		"libraryId": 77936322685984,
+		"id": "mail-exclamation-point",
+		"title": "MailExclamationPoint",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "karsa-mistmere, jguddas"
+	},
+	{
+		"libraryId": 136952620711714,
+		"id": "mail-exclamation-point-fill",
+		"title": "MailExclamationPointFill",
+		"assetId": 106378418779021,
+		"uri": "rbxassetid://106378418779021",
+		"contributors": "karsa-mistmere, jguddas"
+	},
+	{
 		"id": "mail-fill",
 		"title": "MailFill",
 		"assetId": 122440917336741,
@@ -17846,6 +17958,22 @@
 		"uri": "rbxassetid://88400490901989",
 		"contributors": "karsa-mistmere, ericfennis, jguddas",
 		"libraryId": 109532230368112
+	},
+	{
+		"libraryId": 132905937418347,
+		"id": "mango",
+		"title": "Mango",
+		"assetId": 123298430623887,
+		"uri": "rbxassetid://123298430623887",
+		"contributors": "Prsenapati09, rrod497"
+	},
+	{
+		"libraryId": 118430164986071,
+		"id": "mango-fill",
+		"title": "MangoFill",
+		"assetId": 71117570892342,
+		"uri": "rbxassetid://71117570892342",
+		"contributors": "Prsenapati09, rrod497"
 	},
 	{
 		"id": "map",
@@ -18464,6 +18592,22 @@
 		"libraryId": 91663821423761
 	},
 	{
+		"libraryId": 99006771099978,
+		"id": "message-circle-exclamation-point",
+		"title": "MessageCircleExclamationPoint",
+		"assetId": 119807982459825,
+		"uri": "rbxassetid://119807982459825",
+		"contributors": "danielbayley, jguddas, karsa-mistmere"
+	},
+	{
+		"libraryId": 117101919251811,
+		"id": "message-circle-exclamation-point-fill",
+		"title": "MessageCircleExclamationPointFill",
+		"assetId": 117811093007904,
+		"uri": "rbxassetid://117811093007904",
+		"contributors": "danielbayley, jguddas, karsa-mistmere"
+	},
+	{
 		"id": "message-circle-fill",
 		"title": "MessageCircleFill",
 		"assetId": 129890252425422,
@@ -18702,6 +18846,22 @@
 		"uri": "rbxassetid://128531756269298",
 		"contributors": "danielbayley, karsa-mistmere",
 		"libraryId": 106066695920777
+	},
+	{
+		"libraryId": 84971582158018,
+		"id": "message-square-exclamation-point",
+		"title": "MessageSquareExclamationPoint",
+		"assetId": 107562608102358,
+		"uri": "rbxassetid://107562608102358",
+		"contributors": "danielbayley, karsa-mistmere"
+	},
+	{
+		"libraryId": 75432324662779,
+		"id": "message-square-exclamation-point-fill",
+		"title": "MessageSquareExclamationPointFill",
+		"assetId": 120312901928428,
+		"uri": "rbxassetid://120312901928428",
+		"contributors": "danielbayley, karsa-mistmere"
 	},
 	{
 		"id": "message-square-fill",
@@ -20382,6 +20542,22 @@
 		"uri": "rbxassetid://116393670187012",
 		"contributors": "colebemis, ericfennis, jguddas",
 		"libraryId": 123897678127059
+	},
+	{
+		"libraryId": 78908037887519,
+		"id": "octagon-exclamation-point",
+		"title": "OctagonExclamationPoint",
+		"assetId": 82390885218221,
+		"uri": "rbxassetid://82390885218221",
+		"contributors": "colebemis, ericfennis, jguddas"
+	},
+	{
+		"libraryId": 119757277883946,
+		"id": "octagon-exclamation-point-fill",
+		"title": "OctagonExclamationPointFill",
+		"assetId": 126183518584617,
+		"uri": "rbxassetid://126183518584617",
+		"contributors": "colebemis, ericfennis, jguddas"
 	},
 	{
 		"id": "octagon-fill",
@@ -24144,6 +24320,22 @@
 		"libraryId": 134885358497154
 	},
 	{
+		"libraryId": 113859715736798,
+		"id": "search-exclamation-point",
+		"title": "SearchExclamationPoint",
+		"assetId": 99300797783001,
+		"uri": "rbxassetid://99300797783001",
+		"contributors": "colebemis, ericfennis, jguddas, Veatec22"
+	},
+	{
+		"libraryId": 126761984210164,
+		"id": "search-exclamation-point-fill",
+		"title": "SearchExclamationPointFill",
+		"assetId": 127211938216194,
+		"uri": "rbxassetid://127211938216194",
+		"contributors": "colebemis, ericfennis, jguddas, Veatec22"
+	},
+	{
 		"id": "search-fill",
 		"title": "SearchFill",
 		"assetId": 81323740969894,
@@ -24606,6 +24798,22 @@
 		"uri": "rbxassetid://117907234369802",
 		"contributors": "danielbayley, karsa-mistmere",
 		"libraryId": 94245867964863
+	},
+	{
+		"libraryId": 93519495863640,
+		"id": "shield-exclamation-point",
+		"title": "ShieldExclamationPoint",
+		"assetId": 127039114916188,
+		"uri": "rbxassetid://127039114916188",
+		"contributors": "mittalyashu, ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 126666911962727,
+		"id": "shield-exclamation-point-fill",
+		"title": "ShieldExclamationPointFill",
+		"assetId": 117023213020021,
+		"uri": "rbxassetid://117023213020021",
+		"contributors": "mittalyashu, ericfennis, karsa-mistmere"
 	},
 	{
 		"id": "shield-fill",
@@ -29966,6 +30174,22 @@
 		"uri": "rbxassetid://74709832495129",
 		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, Yohh",
 		"libraryId": 97026832829900
+	},
+	{
+		"libraryId": 103109873720894,
+		"id": "triangle-exclamation-point",
+		"title": "TriangleExclamationPoint",
+		"assetId": 130772805423574,
+		"uri": "rbxassetid://130772805423574",
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 122715747405789,
+		"id": "triangle-exclamation-point-fill",
+		"title": "TriangleExclamationPointFill",
+		"assetId": 77925452456749,
+		"uri": "rbxassetid://77925452456749",
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere"
 	},
 	{
 		"id": "triangle-fill",
