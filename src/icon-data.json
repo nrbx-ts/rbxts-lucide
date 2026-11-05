@@ -1928,20 +1928,20 @@
 		"libraryId": 96015215828381
 	},
 	{
-		"libraryId": 78808697856241,
 		"id": "badge-exclamation-point",
 		"title": "BadgeExclamationPoint",
 		"assetId": 103498452059593,
 		"uri": "rbxassetid://103498452059593",
-		"contributors": "karsa-mistmere, jguddas"
+		"contributors": "karsa-mistmere, jguddas",
+		"libraryId": 78808697856241
 	},
 	{
-		"libraryId": 126937525118852,
 		"id": "badge-exclamation-point-fill",
 		"title": "BadgeExclamationPointFill",
 		"assetId": 123990372699767,
 		"uri": "rbxassetid://123990372699767",
-		"contributors": "karsa-mistmere, jguddas"
+		"contributors": "karsa-mistmere, jguddas",
+		"libraryId": 126937525118852
 	},
 	{
 		"id": "badge-fill",
@@ -2400,20 +2400,20 @@
 		"libraryId": 116998224803114
 	},
 	{
-		"libraryId": 99772804205762,
 		"id": "battery-exclamation-point",
 		"title": "BatteryExclamationPoint",
 		"assetId": 125926146465775,
 		"uri": "rbxassetid://125926146465775",
-		"contributors": "Kaladii, ericfennis, jguddas"
+		"contributors": "Kaladii, ericfennis, jguddas",
+		"libraryId": 99772804205762
 	},
 	{
-		"libraryId": 89494258877220,
 		"id": "battery-exclamation-point-fill",
 		"title": "BatteryExclamationPointFill",
 		"assetId": 127312394545852,
 		"uri": "rbxassetid://127312394545852",
-		"contributors": "Kaladii, ericfennis, jguddas"
+		"contributors": "Kaladii, ericfennis, jguddas",
+		"libraryId": 89494258877220
 	},
 	{
 		"id": "battery-fill",
@@ -3312,20 +3312,20 @@
 		"libraryId": 80878626646655
 	},
 	{
-		"libraryId": 126253840698550,
 		"id": "book-exclamation-point",
 		"title": "BookExclamationPoint",
 		"assetId": 105138973197557,
 		"uri": "rbxassetid://105138973197557",
-		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, lscheibel, domasmark"
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, lscheibel, domasmark",
+		"libraryId": 126253840698550
 	},
 	{
-		"libraryId": 125586312420115,
 		"id": "book-exclamation-point-fill",
 		"title": "BookExclamationPointFill",
 		"assetId": 94425745909342,
 		"uri": "rbxassetid://94425745909342",
-		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, lscheibel, domasmark"
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, lscheibel, domasmark",
+		"libraryId": 125586312420115
 	},
 	{
 		"id": "book-fill",
@@ -6592,20 +6592,20 @@
 		"libraryId": 101069440295705
 	},
 	{
-		"libraryId": 135179619544644,
 		"id": "circle-exclamation-point",
 		"title": "CircleExclamationPoint",
 		"assetId": 107821699656396,
 		"uri": "rbxassetid://107821699656396",
-		"contributors": "colebemis, ericfennis"
+		"contributors": "colebemis, ericfennis",
+		"libraryId": 135179619544644
 	},
 	{
-		"libraryId": 133015550839488,
 		"id": "circle-exclamation-point-fill",
 		"title": "CircleExclamationPointFill",
 		"assetId": 77624727512743,
 		"uri": "rbxassetid://77624727512743",
-		"contributors": "colebemis, ericfennis"
+		"contributors": "colebemis, ericfennis",
+		"libraryId": 133015550839488
 	},
 	{
 		"id": "circle-fading-arrow-up",
@@ -6622,6 +6622,22 @@
 		"uri": "rbxassetid://102286399359440",
 		"contributors": "jordan808, jguddas, colebemis, ericfennis, mosch",
 		"libraryId": 117410589188820
+	},
+	{
+		"libraryId": 71867264279650,
+		"id": "circle-fading-check",
+		"title": "CircleFadingCheck",
+		"assetId": 91659545444510,
+		"uri": "rbxassetid://91659545444510",
+		"contributors": "n2duc"
+	},
+	{
+		"libraryId": 139367038071034,
+		"id": "circle-fading-check-fill",
+		"title": "CircleFadingCheckFill",
+		"assetId": 103478897208135,
+		"uri": "rbxassetid://103478897208135",
+		"contributors": "n2duc"
 	},
 	{
 		"id": "circle-fading-play",
@@ -8016,20 +8032,20 @@
 		"libraryId": 102650864126150
 	},
 	{
-		"libraryId": 78750861428755,
 		"id": "clock-exclamation-point",
 		"title": "ClockExclamationPoint",
 		"assetId": 78779962624797,
 		"uri": "rbxassetid://78779962624797",
-		"contributors": "colebemis, jguddas, jamiemlaw"
+		"contributors": "colebemis, jguddas, jamiemlaw",
+		"libraryId": 78750861428755
 	},
 	{
-		"libraryId": 93676984941689,
 		"id": "clock-exclamation-point-fill",
 		"title": "ClockExclamationPointFill",
 		"assetId": 103250136749904,
 		"uri": "rbxassetid://103250136749904",
-		"contributors": "colebemis, jguddas, jamiemlaw"
+		"contributors": "colebemis, jguddas, jamiemlaw",
+		"libraryId": 93676984941689
 	},
 	{
 		"id": "clock-fading",
@@ -8192,20 +8208,20 @@
 		"libraryId": 99365241399562
 	},
 	{
-		"libraryId": 125611126504855,
 		"id": "cloud-exclamation-point",
 		"title": "CloudExclamationPoint",
 		"assetId": 103186479192770,
 		"uri": "rbxassetid://103186479192770",
-		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, lscheibel, jguddas"
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, lscheibel, jguddas",
+		"libraryId": 125611126504855
 	},
 	{
-		"libraryId": 112478334379008,
 		"id": "cloud-exclamation-point-fill",
 		"title": "CloudExclamationPointFill",
 		"assetId": 131756310787706,
 		"uri": "rbxassetid://131756310787706",
-		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, lscheibel, jguddas"
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere, lscheibel, jguddas",
+		"libraryId": 112478334379008
 	},
 	{
 		"id": "cloud-fill",
@@ -17776,20 +17792,20 @@
 		"libraryId": 112375795239794
 	},
 	{
-		"libraryId": 77936322685984,
 		"id": "mail-exclamation-point",
 		"title": "MailExclamationPoint",
 		"assetId": 0,
 		"uri": "",
-		"contributors": "karsa-mistmere, jguddas"
+		"contributors": "karsa-mistmere, jguddas",
+		"libraryId": 77936322685984
 	},
 	{
-		"libraryId": 136952620711714,
 		"id": "mail-exclamation-point-fill",
 		"title": "MailExclamationPointFill",
 		"assetId": 106378418779021,
 		"uri": "rbxassetid://106378418779021",
-		"contributors": "karsa-mistmere, jguddas"
+		"contributors": "karsa-mistmere, jguddas",
+		"libraryId": 136952620711714
 	},
 	{
 		"id": "mail-fill",
@@ -17960,20 +17976,20 @@
 		"libraryId": 109532230368112
 	},
 	{
-		"libraryId": 132905937418347,
 		"id": "mango",
 		"title": "Mango",
 		"assetId": 123298430623887,
 		"uri": "rbxassetid://123298430623887",
-		"contributors": "Prsenapati09, rrod497"
+		"contributors": "Prsenapati09, rrod497",
+		"libraryId": 132905937418347
 	},
 	{
-		"libraryId": 118430164986071,
 		"id": "mango-fill",
 		"title": "MangoFill",
 		"assetId": 71117570892342,
 		"uri": "rbxassetid://71117570892342",
-		"contributors": "Prsenapati09, rrod497"
+		"contributors": "Prsenapati09, rrod497",
+		"libraryId": 118430164986071
 	},
 	{
 		"id": "map",
@@ -18592,20 +18608,20 @@
 		"libraryId": 91663821423761
 	},
 	{
-		"libraryId": 99006771099978,
 		"id": "message-circle-exclamation-point",
 		"title": "MessageCircleExclamationPoint",
 		"assetId": 119807982459825,
 		"uri": "rbxassetid://119807982459825",
-		"contributors": "danielbayley, jguddas, karsa-mistmere"
+		"contributors": "danielbayley, jguddas, karsa-mistmere",
+		"libraryId": 99006771099978
 	},
 	{
-		"libraryId": 117101919251811,
 		"id": "message-circle-exclamation-point-fill",
 		"title": "MessageCircleExclamationPointFill",
 		"assetId": 117811093007904,
 		"uri": "rbxassetid://117811093007904",
-		"contributors": "danielbayley, jguddas, karsa-mistmere"
+		"contributors": "danielbayley, jguddas, karsa-mistmere",
+		"libraryId": 117101919251811
 	},
 	{
 		"id": "message-circle-fill",
@@ -18848,20 +18864,20 @@
 		"libraryId": 106066695920777
 	},
 	{
-		"libraryId": 84971582158018,
 		"id": "message-square-exclamation-point",
 		"title": "MessageSquareExclamationPoint",
 		"assetId": 107562608102358,
 		"uri": "rbxassetid://107562608102358",
-		"contributors": "danielbayley, karsa-mistmere"
+		"contributors": "danielbayley, karsa-mistmere",
+		"libraryId": 84971582158018
 	},
 	{
-		"libraryId": 75432324662779,
 		"id": "message-square-exclamation-point-fill",
 		"title": "MessageSquareExclamationPointFill",
 		"assetId": 120312901928428,
 		"uri": "rbxassetid://120312901928428",
-		"contributors": "danielbayley, karsa-mistmere"
+		"contributors": "danielbayley, karsa-mistmere",
+		"libraryId": 75432324662779
 	},
 	{
 		"id": "message-square-fill",
@@ -20544,20 +20560,20 @@
 		"libraryId": 123897678127059
 	},
 	{
-		"libraryId": 78908037887519,
 		"id": "octagon-exclamation-point",
 		"title": "OctagonExclamationPoint",
 		"assetId": 82390885218221,
 		"uri": "rbxassetid://82390885218221",
-		"contributors": "colebemis, ericfennis, jguddas"
+		"contributors": "colebemis, ericfennis, jguddas",
+		"libraryId": 78908037887519
 	},
 	{
-		"libraryId": 119757277883946,
 		"id": "octagon-exclamation-point-fill",
 		"title": "OctagonExclamationPointFill",
 		"assetId": 126183518584617,
 		"uri": "rbxassetid://126183518584617",
-		"contributors": "colebemis, ericfennis, jguddas"
+		"contributors": "colebemis, ericfennis, jguddas",
+		"libraryId": 119757277883946
 	},
 	{
 		"id": "octagon-fill",
@@ -20630,6 +20646,22 @@
 		"uri": "rbxassetid://139754333528108",
 		"contributors": "karsa-mistmere",
 		"libraryId": 109971589287787
+	},
+	{
+		"libraryId": 76224427117674,
+		"id": "opacity",
+		"title": "Opacity",
+		"assetId": 139392574470230,
+		"uri": "rbxassetid://139392574470230",
+		"contributors": "ilyavred, jamiemlaw"
+	},
+	{
+		"libraryId": 102364396032309,
+		"id": "opacity-fill",
+		"title": "OpacityFill",
+		"assetId": 75330112382782,
+		"uri": "rbxassetid://75330112382782",
+		"contributors": "ilyavred, jamiemlaw"
 	},
 	{
 		"id": "option",
@@ -20760,6 +20792,22 @@
 		"libraryId": 112176669120358
 	},
 	{
+		"libraryId": 110963201993396,
+		"id": "package-pen",
+		"title": "PackagePen",
+		"assetId": 95050770378449,
+		"uri": "rbxassetid://95050770378449",
+		"contributors": "$extends:package"
+	},
+	{
+		"libraryId": 131550229625039,
+		"id": "package-pen-fill",
+		"title": "PackagePenFill",
+		"assetId": 129809920216061,
+		"uri": "rbxassetid://129809920216061",
+		"contributors": "$extends:package"
+	},
+	{
 		"id": "package-plus",
 		"title": "PackagePlus",
 		"assetId": 122897627182543,
@@ -20774,6 +20822,22 @@
 		"uri": "rbxassetid://116683620802748",
 		"contributors": "Reund0, ericfennis, karsa-mistmere",
 		"libraryId": 112106759579160
+	},
+	{
+		"libraryId": 89835760782656,
+		"id": "package-question-mark",
+		"title": "PackageQuestionMark",
+		"assetId": 99150635728373,
+		"uri": "rbxassetid://99150635728373",
+		"contributors": "$extends:package"
+	},
+	{
+		"libraryId": 107533310896852,
+		"id": "package-question-mark-fill",
+		"title": "PackageQuestionMarkFill",
+		"assetId": 121331164581054,
+		"uri": "rbxassetid://121331164581054",
+		"contributors": "$extends:package"
 	},
 	{
 		"id": "package-search",
@@ -24320,20 +24384,20 @@
 		"libraryId": 134885358497154
 	},
 	{
-		"libraryId": 113859715736798,
 		"id": "search-exclamation-point",
 		"title": "SearchExclamationPoint",
 		"assetId": 99300797783001,
 		"uri": "rbxassetid://99300797783001",
-		"contributors": "colebemis, ericfennis, jguddas, Veatec22"
+		"contributors": "colebemis, ericfennis, jguddas, Veatec22",
+		"libraryId": 113859715736798
 	},
 	{
-		"libraryId": 126761984210164,
 		"id": "search-exclamation-point-fill",
 		"title": "SearchExclamationPointFill",
 		"assetId": 127211938216194,
 		"uri": "rbxassetid://127211938216194",
-		"contributors": "colebemis, ericfennis, jguddas, Veatec22"
+		"contributors": "colebemis, ericfennis, jguddas, Veatec22",
+		"libraryId": 126761984210164
 	},
 	{
 		"id": "search-fill",
@@ -24800,20 +24864,20 @@
 		"libraryId": 94245867964863
 	},
 	{
-		"libraryId": 93519495863640,
 		"id": "shield-exclamation-point",
 		"title": "ShieldExclamationPoint",
 		"assetId": 127039114916188,
 		"uri": "rbxassetid://127039114916188",
-		"contributors": "mittalyashu, ericfennis, karsa-mistmere"
+		"contributors": "mittalyashu, ericfennis, karsa-mistmere",
+		"libraryId": 93519495863640
 	},
 	{
-		"libraryId": 126666911962727,
 		"id": "shield-exclamation-point-fill",
 		"title": "ShieldExclamationPointFill",
 		"assetId": 117023213020021,
 		"uri": "rbxassetid://117023213020021",
-		"contributors": "mittalyashu, ericfennis, karsa-mistmere"
+		"contributors": "mittalyashu, ericfennis, karsa-mistmere",
+		"libraryId": 126666911962727
 	},
 	{
 		"id": "shield-fill",
@@ -30176,20 +30240,20 @@
 		"libraryId": 97026832829900
 	},
 	{
-		"libraryId": 103109873720894,
 		"id": "triangle-exclamation-point",
 		"title": "TriangleExclamationPoint",
 		"assetId": 130772805423574,
 		"uri": "rbxassetid://130772805423574",
-		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere"
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere",
+		"libraryId": 103109873720894
 	},
 	{
-		"libraryId": 122715747405789,
 		"id": "triangle-exclamation-point-fill",
 		"title": "TriangleExclamationPointFill",
 		"assetId": 77925452456749,
 		"uri": "rbxassetid://77925452456749",
-		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere"
+		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere",
+		"libraryId": 122715747405789
 	},
 	{
 		"id": "triangle-fill",
