@@ -14088,20 +14088,20 @@
 		"libraryId": 82405654510295
 	},
 	{
-		"libraryId": 106456740915383,
 		"id": "grid-3x3-off",
 		"title": "Grid3x3Off",
 		"assetId": 91133813684361,
 		"uri": "rbxassetid://91133813684361",
-		"contributors": "$extends:grid-3x3, gridalchemy"
+		"contributors": "$extends:grid-3x3, gridalchemy",
+		"libraryId": 106456740915383
 	},
 	{
-		"libraryId": 99459710706834,
 		"id": "grid-3x3-off-fill",
 		"title": "Grid3x3OffFill",
 		"assetId": 117404720916471,
 		"uri": "rbxassetid://117404720916471",
-		"contributors": "$extends:grid-3x3, gridalchemy"
+		"contributors": "$extends:grid-3x3, gridalchemy",
+		"libraryId": 99459710706834
 	},
 	{
 		"id": "grip",
@@ -19720,20 +19720,20 @@
 		"libraryId": 127171302382594
 	},
 	{
-		"libraryId": 109211184822749,
 		"id": "moped",
 		"title": "Moped",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "jamiemlaw, jguddas"
+		"assetId": 94387330286679,
+		"uri": "rbxassetid://94387330286679",
+		"contributors": "jamiemlaw, jguddas",
+		"libraryId": 109211184822749
 	},
 	{
-		"libraryId": 136604063371749,
 		"id": "moped-fill",
 		"title": "MopedFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "jamiemlaw, jguddas"
+		"assetId": 90087235433101,
+		"uri": "rbxassetid://90087235433101",
+		"contributors": "jamiemlaw, jguddas",
+		"libraryId": 136604063371749
 	},
 	{
 		"id": "mosque",
@@ -26688,20 +26688,20 @@
 		"libraryId": 86478861611717
 	},
 	{
-		"libraryId": 110018965347946,
 		"id": "square-dashed-search",
 		"title": "SquareDashedSearch",
 		"assetId": 93057553723452,
 		"uri": "rbxassetid://93057553723452",
-		"contributors": "$extends:square-dashed, domarku"
+		"contributors": "$extends:square-dashed, domarku",
+		"libraryId": 110018965347946
 	},
 	{
-		"libraryId": 90259110760045,
 		"id": "square-dashed-search-fill",
 		"title": "SquareDashedSearchFill",
 		"assetId": 70957585344388,
 		"uri": "rbxassetid://70957585344388",
-		"contributors": "$extends:square-dashed, domarku"
+		"contributors": "$extends:square-dashed, domarku",
+		"libraryId": 90259110760045
 	},
 	{
 		"id": "square-dashed-text",
@@ -30848,20 +30848,20 @@
 		"libraryId": 80698641759967
 	},
 	{
-		"libraryId": 92974955673448,
 		"id": "user-exclamation-point",
 		"title": "UserExclamationPoint",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "$extends:user"
+		"assetId": 88306694575277,
+		"uri": "rbxassetid://88306694575277",
+		"contributors": "$extends:user",
+		"libraryId": 92974955673448
 	},
 	{
-		"libraryId": 135955077468085,
 		"id": "user-exclamation-point-fill",
 		"title": "UserExclamationPointFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "$extends:user"
+		"assetId": 131755984260391,
+		"uri": "rbxassetid://131755984260391",
+		"contributors": "$extends:user",
+		"libraryId": 135955077468085
 	},
 	{
 		"id": "user-fill",
@@ -31024,20 +31024,20 @@
 		"libraryId": 95513991964766
 	},
 	{
-		"libraryId": 139200244321956,
 		"id": "user-round-exclamation-point",
 		"title": "UserRoundExclamationPoint",
 		"assetId": 122543335503605,
 		"uri": "rbxassetid://122543335503605",
-		"contributors": "$extends:user-round"
+		"contributors": "$extends:user-round",
+		"libraryId": 139200244321956
 	},
 	{
-		"libraryId": 139232857791352,
 		"id": "user-round-exclamation-point-fill",
 		"title": "UserRoundExclamationPointFill",
 		"assetId": 116639469483525,
 		"uri": "rbxassetid://116639469483525",
-		"contributors": "$extends:user-round"
+		"contributors": "$extends:user-round",
+		"libraryId": 139232857791352
 	},
 	{
 		"id": "user-round-fill",
