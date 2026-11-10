@@ -5736,6 +5736,22 @@
 		"libraryId": 140464999474703
 	},
 	{
+		"libraryId": 123747461065441,
+		"id": "cheese",
+		"title": "Cheese",
+		"assetId": 80022086712907,
+		"uri": "rbxassetid://80022086712907",
+		"contributors": "danielbayley, karsa-mistmere"
+	},
+	{
+		"libraryId": 76935698511113,
+		"id": "cheese-fill",
+		"title": "CheeseFill",
+		"assetId": 81611889780076,
+		"uri": "rbxassetid://81611889780076",
+		"contributors": "danielbayley, karsa-mistmere"
+	},
+	{
 		"id": "chef-hat",
 		"title": "ChefHat",
 		"assetId": 95205877514106,
@@ -6176,6 +6192,38 @@
 		"libraryId": 75090664009333
 	},
 	{
+		"libraryId": 121963129257422,
+		"id": "circle-arrow-down-left-exit",
+		"title": "CircleArrowDownLeftExit",
+		"assetId": 97217532507542,
+		"uri": "rbxassetid://97217532507542",
+		"contributors": "danielbayley"
+	},
+	{
+		"libraryId": 86130041834634,
+		"id": "circle-arrow-down-left-exit-fill",
+		"title": "CircleArrowDownLeftExitFill",
+		"assetId": 75073387730238,
+		"uri": "rbxassetid://75073387730238",
+		"contributors": "danielbayley"
+	},
+	{
+		"libraryId": 131492181485773,
+		"id": "circle-arrow-down-right-exit",
+		"title": "CircleArrowDownRightExit",
+		"assetId": 86626795684578,
+		"uri": "rbxassetid://86626795684578",
+		"contributors": "danielbayley"
+	},
+	{
+		"libraryId": 114841574335617,
+		"id": "circle-arrow-down-right-exit-fill",
+		"title": "CircleArrowDownRightExitFill",
+		"assetId": 116847725451228,
+		"uri": "rbxassetid://116847725451228",
+		"contributors": "danielbayley"
+	},
+	{
 		"id": "circle-arrow-left",
 		"title": "CircleArrowLeft",
 		"assetId": 109664278579127,
@@ -6286,6 +6334,38 @@
 		"uri": "rbxassetid://86050544560127",
 		"contributors": "colebemis, ericfennis",
 		"libraryId": 138504605730824
+	},
+	{
+		"libraryId": 73576188726131,
+		"id": "circle-arrow-up-left-exit",
+		"title": "CircleArrowUpLeftExit",
+		"assetId": 81275639619632,
+		"uri": "rbxassetid://81275639619632",
+		"contributors": "danielbayley"
+	},
+	{
+		"libraryId": 92319938621705,
+		"id": "circle-arrow-up-left-exit-fill",
+		"title": "CircleArrowUpLeftExitFill",
+		"assetId": 103703779179354,
+		"uri": "rbxassetid://103703779179354",
+		"contributors": "danielbayley"
+	},
+	{
+		"libraryId": 89057163266554,
+		"id": "circle-arrow-up-right-exit",
+		"title": "CircleArrowUpRightExit",
+		"assetId": 126224741305226,
+		"uri": "rbxassetid://126224741305226",
+		"contributors": "danielbayley"
+	},
+	{
+		"libraryId": 92535113633496,
+		"id": "circle-arrow-up-right-exit-fill",
+		"title": "CircleArrowUpRightExitFill",
+		"assetId": 93693315905242,
+		"uri": "rbxassetid://93693315905242",
+		"contributors": "danielbayley"
 	},
 	{
 		"id": "circle-check",
@@ -26104,6 +26184,38 @@
 		"libraryId": 97346893494759
 	},
 	{
+		"libraryId": 132932782565511,
+		"id": "square-arrow-down-enter",
+		"title": "SquareArrowDownEnter",
+		"assetId": 94155803829326,
+		"uri": "rbxassetid://94155803829326",
+		"contributors": "$extends:square-arrow-down, 6teloiv"
+	},
+	{
+		"libraryId": 83769480239697,
+		"id": "square-arrow-down-enter-fill",
+		"title": "SquareArrowDownEnterFill",
+		"assetId": 124242657273695,
+		"uri": "rbxassetid://124242657273695",
+		"contributors": "$extends:square-arrow-down, 6teloiv"
+	},
+	{
+		"libraryId": 77178239771451,
+		"id": "square-arrow-down-exit",
+		"title": "SquareArrowDownExit",
+		"assetId": 119772591588040,
+		"uri": "rbxassetid://119772591588040",
+		"contributors": "$extends:square-arrow-down, 6teloiv"
+	},
+	{
+		"libraryId": 79532861535345,
+		"id": "square-arrow-down-exit-fill",
+		"title": "SquareArrowDownExitFill",
+		"assetId": 100442305312564,
+		"uri": "rbxassetid://100442305312564",
+		"contributors": "$extends:square-arrow-down, 6teloiv"
+	},
+	{
 		"id": "square-arrow-down-fill",
 		"title": "SquareArrowDownFill",
 		"assetId": 130947549750856,
@@ -26118,6 +26230,38 @@
 		"uri": "rbxassetid://126560831745087",
 		"contributors": "danielbayley, jguddas",
 		"libraryId": 78080050128104
+	},
+	{
+		"libraryId": 92759586446150,
+		"id": "square-arrow-down-left-enter",
+		"title": "SquareArrowDownLeftEnter",
+		"assetId": 89608915182099,
+		"uri": "rbxassetid://89608915182099",
+		"contributors": "$extends:square-arrow-down-left-exit, 6teloiv"
+	},
+	{
+		"libraryId": 90043964970677,
+		"id": "square-arrow-down-left-enter-fill",
+		"title": "SquareArrowDownLeftEnterFill",
+		"assetId": 82012279988615,
+		"uri": "rbxassetid://82012279988615",
+		"contributors": "$extends:square-arrow-down-left-exit, 6teloiv"
+	},
+	{
+		"libraryId": 123159157557406,
+		"id": "square-arrow-down-left-exit",
+		"title": "SquareArrowDownLeftExit",
+		"assetId": 81242000134326,
+		"uri": "rbxassetid://81242000134326",
+		"contributors": "danielbayley"
+	},
+	{
+		"libraryId": 127199051999216,
+		"id": "square-arrow-down-left-exit-fill",
+		"title": "SquareArrowDownLeftExitFill",
+		"assetId": 107156099556939,
+		"uri": "rbxassetid://107156099556939",
+		"contributors": "danielbayley"
 	},
 	{
 		"id": "square-arrow-down-left-fill",
@@ -26136,6 +26280,38 @@
 		"libraryId": 71565085671743
 	},
 	{
+		"libraryId": 98000356658154,
+		"id": "square-arrow-down-right-enter",
+		"title": "SquareArrowDownRightEnter",
+		"assetId": 138557863654302,
+		"uri": "rbxassetid://138557863654302",
+		"contributors": "$extends:square-arrow-down-right-exit, 6teloiv"
+	},
+	{
+		"libraryId": 104786169763582,
+		"id": "square-arrow-down-right-enter-fill",
+		"title": "SquareArrowDownRightEnterFill",
+		"assetId": 76345578646100,
+		"uri": "rbxassetid://76345578646100",
+		"contributors": "$extends:square-arrow-down-right-exit, 6teloiv"
+	},
+	{
+		"libraryId": 73251481894152,
+		"id": "square-arrow-down-right-exit",
+		"title": "SquareArrowDownRightExit",
+		"assetId": 124525418811739,
+		"uri": "rbxassetid://124525418811739",
+		"contributors": "danielbayley"
+	},
+	{
+		"libraryId": 118770308910069,
+		"id": "square-arrow-down-right-exit-fill",
+		"title": "SquareArrowDownRightExitFill",
+		"assetId": 123174960773993,
+		"uri": "rbxassetid://123174960773993",
+		"contributors": "danielbayley"
+	},
+	{
 		"id": "square-arrow-down-right-fill",
 		"title": "SquareArrowDownRightFill",
 		"assetId": 74278308957478,
@@ -26150,6 +26326,38 @@
 		"uri": "rbxassetid://110371907070045",
 		"contributors": "danielbayley, ericfennis",
 		"libraryId": 86292327642009
+	},
+	{
+		"libraryId": 131890520907457,
+		"id": "square-arrow-left-enter",
+		"title": "SquareArrowLeftEnter",
+		"assetId": 70670349808990,
+		"uri": "rbxassetid://70670349808990",
+		"contributors": "$extends:square-arrow-left, 6teloiv"
+	},
+	{
+		"libraryId": 110633415893720,
+		"id": "square-arrow-left-enter-fill",
+		"title": "SquareArrowLeftEnterFill",
+		"assetId": 109650642431926,
+		"uri": "rbxassetid://109650642431926",
+		"contributors": "$extends:square-arrow-left, 6teloiv"
+	},
+	{
+		"libraryId": 139794352410577,
+		"id": "square-arrow-left-exit",
+		"title": "SquareArrowLeftExit",
+		"assetId": 99006674293389,
+		"uri": "rbxassetid://99006674293389",
+		"contributors": "$extends:square-arrow-left, 6teloiv"
+	},
+	{
+		"libraryId": 81449706841046,
+		"id": "square-arrow-left-exit-fill",
+		"title": "SquareArrowLeftExitFill",
+		"assetId": 81423682592137,
+		"uri": "rbxassetid://81423682592137",
+		"contributors": "$extends:square-arrow-left, 6teloiv"
 	},
 	{
 		"id": "square-arrow-left-fill",
@@ -26280,6 +26488,38 @@
 		"libraryId": 89146292629320
 	},
 	{
+		"libraryId": 110848962080122,
+		"id": "square-arrow-up-enter",
+		"title": "SquareArrowUpEnter",
+		"assetId": 130937894666397,
+		"uri": "rbxassetid://130937894666397",
+		"contributors": "$extends:square-arrow-up, 6teloiv"
+	},
+	{
+		"libraryId": 122120461220627,
+		"id": "square-arrow-up-enter-fill",
+		"title": "SquareArrowUpEnterFill",
+		"assetId": 80205285029859,
+		"uri": "rbxassetid://80205285029859",
+		"contributors": "$extends:square-arrow-up, 6teloiv"
+	},
+	{
+		"libraryId": 113861609234484,
+		"id": "square-arrow-up-exit",
+		"title": "SquareArrowUpExit",
+		"assetId": 98655655526096,
+		"uri": "rbxassetid://98655655526096",
+		"contributors": "$extends:square-arrow-up, 6teloiv"
+	},
+	{
+		"libraryId": 87642456740558,
+		"id": "square-arrow-up-exit-fill",
+		"title": "SquareArrowUpExitFill",
+		"assetId": 94036671312685,
+		"uri": "rbxassetid://94036671312685",
+		"contributors": "$extends:square-arrow-up, 6teloiv"
+	},
+	{
 		"id": "square-arrow-up-fill",
 		"title": "SquareArrowUpFill",
 		"assetId": 117841901141613,
@@ -26296,6 +26536,38 @@
 		"libraryId": 86754616224175
 	},
 	{
+		"libraryId": 79239454772846,
+		"id": "square-arrow-up-left-enter",
+		"title": "SquareArrowUpLeftEnter",
+		"assetId": 106066602457868,
+		"uri": "rbxassetid://106066602457868",
+		"contributors": "$extends:square-arrow-up-left-exit, 6teloiv"
+	},
+	{
+		"libraryId": 90146700368915,
+		"id": "square-arrow-up-left-enter-fill",
+		"title": "SquareArrowUpLeftEnterFill",
+		"assetId": 139526210895225,
+		"uri": "rbxassetid://139526210895225",
+		"contributors": "$extends:square-arrow-up-left-exit, 6teloiv"
+	},
+	{
+		"libraryId": 133064952274179,
+		"id": "square-arrow-up-left-exit",
+		"title": "SquareArrowUpLeftExit",
+		"assetId": 97308014156862,
+		"uri": "rbxassetid://97308014156862",
+		"contributors": "danielbayley"
+	},
+	{
+		"libraryId": 129135549091829,
+		"id": "square-arrow-up-left-exit-fill",
+		"title": "SquareArrowUpLeftExitFill",
+		"assetId": 75146464735746,
+		"uri": "rbxassetid://75146464735746",
+		"contributors": "danielbayley"
+	},
+	{
 		"id": "square-arrow-up-left-fill",
 		"title": "SquareArrowUpLeftFill",
 		"assetId": 99788492270488,
@@ -26310,6 +26582,38 @@
 		"uri": "rbxassetid://114036258338644",
 		"contributors": "danielbayley, jguddas",
 		"libraryId": 95499253527817
+	},
+	{
+		"libraryId": 134660587551188,
+		"id": "square-arrow-up-right-enter",
+		"title": "SquareArrowUpRightEnter",
+		"assetId": 108247837341208,
+		"uri": "rbxassetid://108247837341208",
+		"contributors": "$extends:square-arrow-up-right-exit, 6teloiv"
+	},
+	{
+		"libraryId": 101836597768631,
+		"id": "square-arrow-up-right-enter-fill",
+		"title": "SquareArrowUpRightEnterFill",
+		"assetId": 109005922789327,
+		"uri": "rbxassetid://109005922789327",
+		"contributors": "$extends:square-arrow-up-right-exit, 6teloiv"
+	},
+	{
+		"libraryId": 137905393085937,
+		"id": "square-arrow-up-right-exit",
+		"title": "SquareArrowUpRightExit",
+		"assetId": 108157790317266,
+		"uri": "rbxassetid://108157790317266",
+		"contributors": "danielbayley"
+	},
+	{
+		"libraryId": 94552025108436,
+		"id": "square-arrow-up-right-exit-fill",
+		"title": "SquareArrowUpRightExitFill",
+		"assetId": 84709830471381,
+		"uri": "rbxassetid://84709830471381",
+		"contributors": "danielbayley"
 	},
 	{
 		"id": "square-arrow-up-right-fill",
@@ -28470,6 +28774,102 @@
 		"uri": "rbxassetid://86320883425601",
 		"contributors": "ericfennis, johnletey, csandman",
 		"libraryId": 119934369004345
+	},
+	{
+		"libraryId": 135135533659465,
+		"id": "stroke-line-cap-butt",
+		"title": "StrokeLineCapButt",
+		"assetId": 90828644199957,
+		"uri": "rbxassetid://90828644199957",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 106248902709370,
+		"id": "stroke-line-cap-butt-fill",
+		"title": "StrokeLineCapButtFill",
+		"assetId": 136160051950812,
+		"uri": "rbxassetid://136160051950812",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 138804664066932,
+		"id": "stroke-line-cap-round",
+		"title": "StrokeLineCapRound",
+		"assetId": 77786256992970,
+		"uri": "rbxassetid://77786256992970",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 124515518380469,
+		"id": "stroke-line-cap-round-fill",
+		"title": "StrokeLineCapRoundFill",
+		"assetId": 104381678680396,
+		"uri": "rbxassetid://104381678680396",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 97271474180545,
+		"id": "stroke-line-cap-square",
+		"title": "StrokeLineCapSquare",
+		"assetId": 107733435882717,
+		"uri": "rbxassetid://107733435882717",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 115596482800057,
+		"id": "stroke-line-cap-square-fill",
+		"title": "StrokeLineCapSquareFill",
+		"assetId": 112954715304683,
+		"uri": "rbxassetid://112954715304683",
+		"contributors": "karsa-mistmere"
+	},
+	{
+		"libraryId": 125313621479449,
+		"id": "stroke-line-join-bevel",
+		"title": "StrokeLineJoinBevel",
+		"assetId": 124517120688803,
+		"uri": "rbxassetid://124517120688803",
+		"contributors": "rrod497, karsa-mistmere"
+	},
+	{
+		"libraryId": 130762776724599,
+		"id": "stroke-line-join-bevel-fill",
+		"title": "StrokeLineJoinBevelFill",
+		"assetId": 73339751197206,
+		"uri": "rbxassetid://73339751197206",
+		"contributors": "rrod497, karsa-mistmere"
+	},
+	{
+		"libraryId": 138961987983562,
+		"id": "stroke-line-join-miter",
+		"title": "StrokeLineJoinMiter",
+		"assetId": 83608380960264,
+		"uri": "rbxassetid://83608380960264",
+		"contributors": "rrod497, karsa-mistmere"
+	},
+	{
+		"libraryId": 84750556236952,
+		"id": "stroke-line-join-miter-fill",
+		"title": "StrokeLineJoinMiterFill",
+		"assetId": 95496096914756,
+		"uri": "rbxassetid://95496096914756",
+		"contributors": "rrod497, karsa-mistmere"
+	},
+	{
+		"libraryId": 114746693955985,
+		"id": "stroke-line-join-round",
+		"title": "StrokeLineJoinRound",
+		"assetId": 119330388548784,
+		"uri": "rbxassetid://119330388548784",
+		"contributors": "rrod497, karsa-mistmere"
+	},
+	{
+		"libraryId": 96166315128427,
+		"id": "stroke-line-join-round-fill",
+		"title": "StrokeLineJoinRoundFill",
+		"assetId": 78117956604336,
+		"uri": "rbxassetid://78117956604336",
+		"contributors": "rrod497, karsa-mistmere"
 	},
 	{
 		"id": "subscript",
