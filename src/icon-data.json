@@ -1600,20 +1600,20 @@
 		"libraryId": 138944206537467
 	},
 	{
-		"libraryId": 73043930223061,
 		"id": "asterism",
 		"title": "Asterism",
 		"assetId": 137545263441378,
 		"uri": "rbxassetid://137545263441378",
-		"contributors": "KesleyDavid, karsa-mistmere"
+		"contributors": "KesleyDavid, karsa-mistmere",
+		"libraryId": 73043930223061
 	},
 	{
-		"libraryId": 74209082835100,
 		"id": "asterism-fill",
 		"title": "AsterismFill",
 		"assetId": 125233497738109,
 		"uri": "rbxassetid://125233497738109",
-		"contributors": "KesleyDavid, karsa-mistmere"
+		"contributors": "KesleyDavid, karsa-mistmere",
+		"libraryId": 74209082835100
 	},
 	{
 		"id": "astroid",
@@ -10904,20 +10904,20 @@
 		"libraryId": 106976288764346
 	},
 	{
-		"libraryId": 119969170690072,
 		"id": "exclamation-mark",
 		"title": "ExclamationMark",
 		"assetId": 129571215558080,
 		"uri": "rbxassetid://129571215558080",
-		"contributors": "karsa-mistmere, danielbayley, lt25106"
+		"contributors": "karsa-mistmere, danielbayley, lt25106",
+		"libraryId": 119969170690072
 	},
 	{
-		"libraryId": 128846819103324,
 		"id": "exclamation-mark-fill",
 		"title": "ExclamationMarkFill",
 		"assetId": 129457423779168,
 		"uri": "rbxassetid://129457423779168",
-		"contributors": "karsa-mistmere, danielbayley, lt25106"
+		"contributors": "karsa-mistmere, danielbayley, lt25106",
+		"libraryId": 128846819103324
 	},
 	{
 		"id": "expand",
@@ -19880,20 +19880,20 @@
 		"libraryId": 86297644731615
 	},
 	{
-		"libraryId": 95720768065330,
 		"id": "mound-shovel",
 		"title": "MoundShovel",
 		"assetId": 87959785450014,
 		"uri": "rbxassetid://87959785450014",
-		"contributors": "jwlinqx, karsa-mistmere"
+		"contributors": "jwlinqx, karsa-mistmere",
+		"libraryId": 95720768065330
 	},
 	{
-		"libraryId": 121882119510393,
 		"id": "mound-shovel-fill",
 		"title": "MoundShovelFill",
 		"assetId": 135704504916738,
 		"uri": "rbxassetid://135704504916738",
-		"contributors": "jwlinqx, karsa-mistmere"
+		"contributors": "jwlinqx, karsa-mistmere",
+		"libraryId": 121882119510393
 	},
 	{
 		"id": "mountain",
@@ -22728,20 +22728,20 @@
 		"libraryId": 131894736006036
 	},
 	{
-		"libraryId": 95142896994569,
 		"id": "question-mark",
 		"title": "QuestionMark",
 		"assetId": 91769879368177,
 		"uri": "rbxassetid://91769879368177",
-		"contributors": "karsa-mistmere, jamiemlaw"
+		"contributors": "karsa-mistmere, jamiemlaw",
+		"libraryId": 95142896994569
 	},
 	{
-		"libraryId": 125934965842651,
 		"id": "question-mark-fill",
 		"title": "QuestionMarkFill",
 		"assetId": 124670638698739,
 		"uri": "rbxassetid://124670638698739",
-		"contributors": "karsa-mistmere, jamiemlaw"
+		"contributors": "karsa-mistmere, jamiemlaw",
+		"libraryId": 125934965842651
 	},
 	{
 		"id": "quote",
@@ -23792,20 +23792,20 @@
 		"libraryId": 132655218198050
 	},
 	{
-		"libraryId": 102543325328610,
 		"id": "route-arrow-right",
 		"title": "RouteArrowRight",
 		"assetId": 133587350391210,
 		"uri": "rbxassetid://133587350391210",
-		"contributors": "$extends:route, samuelalake"
+		"contributors": "$extends:route, samuelalake",
+		"libraryId": 102543325328610
 	},
 	{
-		"libraryId": 91848048790208,
 		"id": "route-arrow-right-fill",
 		"title": "RouteArrowRightFill",
 		"assetId": 114401402536784,
 		"uri": "rbxassetid://114401402536784",
-		"contributors": "$extends:route, samuelalake"
+		"contributors": "$extends:route, samuelalake",
+		"libraryId": 91848048790208
 	},
 	{
 		"id": "route-fill",
@@ -29832,20 +29832,20 @@
 		"libraryId": 108023304625628
 	},
 	{
-		"libraryId": 101848037622538,
 		"id": "text-pen",
 		"title": "TextPen",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "colebemis, ericfennis, karsa-mistmere, rrod497"
+		"assetId": 110626711596317,
+		"uri": "rbxassetid://110626711596317",
+		"contributors": "colebemis, ericfennis, karsa-mistmere, rrod497",
+		"libraryId": 101848037622538
 	},
 	{
-		"libraryId": 137313315329428,
 		"id": "text-pen-fill",
 		"title": "TextPenFill",
 		"assetId": 95380215532392,
 		"uri": "rbxassetid://95380215532392",
-		"contributors": "colebemis, ericfennis, karsa-mistmere, rrod497"
+		"contributors": "colebemis, ericfennis, karsa-mistmere, rrod497",
+		"libraryId": 137313315329428
 	},
 	{
 		"id": "text-quote",
