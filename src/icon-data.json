@@ -4952,6 +4952,22 @@
 		"libraryId": 114993518561370
 	},
 	{
+		"libraryId": 129033110200406,
+		"id": "cap",
+		"title": "Cap",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "Flaig82, karsa-mistmere"
+	},
+	{
+		"libraryId": 99203903099684,
+		"id": "cap-fill",
+		"title": "CapFill",
+		"assetId": 120259995965100,
+		"uri": "rbxassetid://120259995965100",
+		"contributors": "Flaig82, karsa-mistmere"
+	},
+	{
 		"id": "captions",
 		"title": "Captions",
 		"assetId": 104037503485915,
@@ -14088,6 +14104,22 @@
 		"libraryId": 113976264821240
 	},
 	{
+		"libraryId": 77621587904888,
+		"id": "graph-ring",
+		"title": "GraphRing",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "Carl-Lambert, karsa-mistmere"
+	},
+	{
+		"libraryId": 121822823518582,
+		"id": "graph-ring-fill",
+		"title": "GraphRingFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "Carl-Lambert, karsa-mistmere"
+	},
+	{
 		"id": "graph-star",
 		"title": "GraphStar",
 		"assetId": 89090512049630,
@@ -16326,6 +16358,22 @@
 		"uri": "rbxassetid://112147509506790",
 		"contributors": "zenoamaro, ericfennis, csandman, mittalyashu, danielbayley",
 		"libraryId": 115009431496635
+	},
+	{
+		"libraryId": 123682426428686,
+		"id": "layout-grid-plus",
+		"title": "LayoutGridPlus",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "AleksejDix"
+	},
+	{
+		"libraryId": 88133678433398,
+		"id": "layout-grid-plus-fill",
+		"title": "LayoutGridPlusFill",
+		"assetId": 82186459104049,
+		"uri": "rbxassetid://82186459104049",
+		"contributors": "AleksejDix"
 	},
 	{
 		"id": "layout-list",
