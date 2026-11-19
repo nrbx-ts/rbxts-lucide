@@ -10312,6 +10312,22 @@
 		"libraryId": 91885864579791
 	},
 	{
+		"libraryId": 120118036840337,
+		"id": "diagram-sankey",
+		"title": "DiagramSankey",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "nito, ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 85336652033304,
+		"id": "diagram-sankey-fill",
+		"title": "DiagramSankeyFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "nito, ericfennis, karsa-mistmere"
+	},
+	{
 		"id": "diameter",
 		"title": "Diameter",
 		"assetId": 95759100608899,
@@ -16264,20 +16280,20 @@
 		"libraryId": 123910128747259
 	},
 	{
-		"libraryId": 85709216724237,
 		"id": "jacket",
 		"title": "Jacket",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "Flaig82, danielbayley, karsa-mistmere"
+		"assetId": 109633201354332,
+		"uri": "rbxassetid://109633201354332",
+		"contributors": "Flaig82, danielbayley, karsa-mistmere",
+		"libraryId": 85709216724237
 	},
 	{
-		"libraryId": 80196612856706,
 		"id": "jacket-fill",
 		"title": "JacketFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "Flaig82, danielbayley, karsa-mistmere"
+		"assetId": 99230331051184,
+		"uri": "rbxassetid://99230331051184",
+		"contributors": "Flaig82, danielbayley, karsa-mistmere",
+		"libraryId": 80196612856706
 	},
 	{
 		"id": "japanese-yen",
@@ -21688,20 +21704,20 @@
 		"libraryId": 122622350171436
 	},
 	{
-		"libraryId": 76517780595711,
 		"id": "paint-gun",
 		"title": "PaintGun",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "ericfennis, abdul-karim-mia"
+		"assetId": 139847709841992,
+		"uri": "rbxassetid://139847709841992",
+		"contributors": "ericfennis, abdul-karim-mia",
+		"libraryId": 76517780595711
 	},
 	{
-		"libraryId": 103215943369300,
 		"id": "paint-gun-fill",
 		"title": "PaintGunFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "ericfennis, abdul-karim-mia"
+		"assetId": 111745601403129,
+		"uri": "rbxassetid://111745601403129",
+		"contributors": "ericfennis, abdul-karim-mia",
+		"libraryId": 103215943369300
 	},
 	{
 		"id": "paint-roller",
