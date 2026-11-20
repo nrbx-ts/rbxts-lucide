@@ -4016,6 +4016,22 @@
 		"libraryId": 115158348432371
 	},
 	{
+		"libraryId": 136248789501294,
+		"id": "box-dashed",
+		"title": "BoxDashed",
+		"assetId": 135711711209777,
+		"uri": "rbxassetid://135711711209777",
+		"contributors": "$extends:box"
+	},
+	{
+		"libraryId": 86033222277297,
+		"id": "box-dashed-fill",
+		"title": "BoxDashedFill",
+		"assetId": 84215433504765,
+		"uri": "rbxassetid://84215433504765",
+		"contributors": "$extends:box"
+	},
+	{
 		"id": "box-fill",
 		"title": "BoxFill",
 		"assetId": 114525397202035,
@@ -6598,6 +6614,22 @@
 		"uri": "rbxassetid://104553814430838",
 		"contributors": "colebemis",
 		"libraryId": 95605648576781
+	},
+	{
+		"libraryId": 79773475679173,
+		"id": "chocolate-bar",
+		"title": "ChocolateBar",
+		"assetId": 73810143407838,
+		"uri": "rbxassetid://73810143407838",
+		"contributors": "rrod497, karsa-mistmere"
+	},
+	{
+		"libraryId": 88898278001621,
+		"id": "chocolate-bar-fill",
+		"title": "ChocolateBarFill",
+		"assetId": 121322753095051,
+		"uri": "rbxassetid://121322753095051",
+		"contributors": "rrod497, karsa-mistmere"
 	},
 	{
 		"id": "church",
@@ -10312,20 +10344,20 @@
 		"libraryId": 91885864579791
 	},
 	{
-		"libraryId": 120118036840337,
 		"id": "diagram-sankey",
 		"title": "DiagramSankey",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "nito, ericfennis, karsa-mistmere"
+		"assetId": 139234747456640,
+		"uri": "rbxassetid://139234747456640",
+		"contributors": "nito, ericfennis, karsa-mistmere",
+		"libraryId": 120118036840337
 	},
 	{
-		"libraryId": 85336652033304,
 		"id": "diagram-sankey-fill",
 		"title": "DiagramSankeyFill",
-		"assetId": 0,
-		"uri": "",
-		"contributors": "nito, ericfennis, karsa-mistmere"
+		"assetId": 85794187000375,
+		"uri": "rbxassetid://85794187000375",
+		"contributors": "nito, ericfennis, karsa-mistmere",
+		"libraryId": 85336652033304
 	},
 	{
 		"id": "diameter",
@@ -13400,6 +13432,22 @@
 		"libraryId": 128449412879425
 	},
 	{
+		"libraryId": 94503798389508,
+		"id": "folder-network",
+		"title": "FolderNetwork",
+		"assetId": 99426317619635,
+		"uri": "rbxassetid://99426317619635",
+		"contributors": "$extends:folder"
+	},
+	{
+		"libraryId": 132811646636537,
+		"id": "folder-network-fill",
+		"title": "FolderNetworkFill",
+		"assetId": 100470802196806,
+		"uri": "rbxassetid://100470802196806",
+		"contributors": "$extends:folder"
+	},
+	{
 		"id": "folder-open",
 		"title": "FolderOpen",
 		"assetId": 138109958223965,
@@ -13470,6 +13518,22 @@
 		"uri": "rbxassetid://131885138566064",
 		"contributors": "colebemis, csandman, ericfennis, karsa-mistmere",
 		"libraryId": 90209339993994
+	},
+	{
+		"libraryId": 129668840083376,
+		"id": "folder-plus-corner",
+		"title": "FolderPlusCorner",
+		"assetId": 117726338236351,
+		"uri": "rbxassetid://117726338236351",
+		"contributors": "$extends:folder, nicolasakf, jguddas"
+	},
+	{
+		"libraryId": 118084468966298,
+		"id": "folder-plus-corner-fill",
+		"title": "FolderPlusCornerFill",
+		"assetId": 96791018564921,
+		"uri": "rbxassetid://96791018564921",
+		"contributors": "$extends:folder, nicolasakf, jguddas"
 	},
 	{
 		"id": "folder-plus-fill",
@@ -23848,6 +23912,22 @@
 		"libraryId": 86078483771634
 	},
 	{
+		"libraryId": 134421901566343,
+		"id": "rectangle-landscape-play",
+		"title": "RectangleLandscapePlay",
+		"assetId": 77507332287921,
+		"uri": "rbxassetid://77507332287921",
+		"contributors": "scottgriffinm"
+	},
+	{
+		"libraryId": 101148005004107,
+		"id": "rectangle-landscape-play-fill",
+		"title": "RectangleLandscapePlayFill",
+		"assetId": 97779160501251,
+		"uri": "rbxassetid://97779160501251",
+		"contributors": "scottgriffinm"
+	},
+	{
 		"id": "rectangle-vertical",
 		"title": "RectangleVertical",
 		"assetId": 105796409893792,
@@ -32254,6 +32334,22 @@
 		"uri": "rbxassetid://121069223483349",
 		"contributors": "karsa-mistmere",
 		"libraryId": 75010951511996
+	},
+	{
+		"libraryId": 84440886369454,
+		"id": "user-round-clock",
+		"title": "UserRoundClock",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "karsa-mistmere, jamiemlaw, jguddas"
+	},
+	{
+		"libraryId": 84715347035696,
+		"id": "user-round-clock-fill",
+		"title": "UserRoundClockFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "karsa-mistmere, jamiemlaw, jguddas"
 	},
 	{
 		"id": "user-round-cog",
