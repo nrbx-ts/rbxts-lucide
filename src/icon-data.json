@@ -8008,6 +8008,22 @@
 		"libraryId": 133865943840555
 	},
 	{
+		"libraryId": 100313599195545,
+		"id": "circle-speed-lines",
+		"title": "CircleSpeedLines",
+		"assetId": 110698744752856,
+		"uri": "rbxassetid://110698744752856",
+		"contributors": "ericfennis"
+	},
+	{
+		"libraryId": 112283622104202,
+		"id": "circle-speed-lines-fill",
+		"title": "CircleSpeedLinesFill",
+		"assetId": 80583368127521,
+		"uri": "rbxassetid://80583368127521",
+		"contributors": "ericfennis"
+	},
+	{
 		"id": "circle-star",
 		"title": "CircleStar",
 		"assetId": 79209961521252,
@@ -14696,6 +14712,22 @@
 		"libraryId": 113976264821240
 	},
 	{
+		"libraryId": 94862343733699,
+		"id": "graph-path",
+		"title": "GraphPath",
+		"assetId": 119296364506618,
+		"uri": "rbxassetid://119296364506618",
+		"contributors": "jwlinqx, ericfennis"
+	},
+	{
+		"libraryId": 139552515747317,
+		"id": "graph-path-fill",
+		"title": "GraphPathFill",
+		"assetId": 76278749310763,
+		"uri": "rbxassetid://76278749310763",
+		"contributors": "jwlinqx, ericfennis"
+	},
+	{
 		"id": "graph-ring",
 		"title": "GraphRing",
 		"assetId": 93673938851490,
@@ -15734,6 +15766,22 @@
 		"uri": "rbxassetid://138490574735387",
 		"contributors": "joffx, karsa-mistmere",
 		"libraryId": 119041009175139
+	},
+	{
+		"libraryId": 72979972883854,
+		"id": "hole",
+		"title": "Hole",
+		"assetId": 139785801785346,
+		"uri": "rbxassetid://139785801785346",
+		"contributors": "KesleyDavid, karsa-mistmere"
+	},
+	{
+		"libraryId": 92984856853600,
+		"id": "hole-fill",
+		"title": "HoleFill",
+		"assetId": 90963227982552,
+		"uri": "rbxassetid://90963227982552",
+		"contributors": "KesleyDavid, karsa-mistmere"
 	},
 	{
 		"id": "hop-off",
@@ -21614,6 +21662,22 @@
 		"uri": "rbxassetid://115387635330032",
 		"contributors": "karsa-mistmere, ericfennis, jguddas",
 		"libraryId": 102294943186349
+	},
+	{
+		"libraryId": 86781093652828,
+		"id": "package-arrow-bend-up-left",
+		"title": "PackageArrowBendUpLeft",
+		"assetId": 103390380609557,
+		"uri": "rbxassetid://103390380609557",
+		"contributors": "$extends:package, thanakritju"
+	},
+	{
+		"libraryId": 91201489585194,
+		"id": "package-arrow-bend-up-left-fill",
+		"title": "PackageArrowBendUpLeftFill",
+		"assetId": 133822803989210,
+		"uri": "rbxassetid://133822803989210",
+		"contributors": "$extends:package, thanakritju"
 	},
 	{
 		"id": "package-check",
