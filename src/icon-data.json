@@ -768,52 +768,52 @@
 		"libraryId": 113900406146984
 	},
 	{
-		"libraryId": 73032423131684,
 		"id": "app-window-mac-minus",
 		"title": "AppWindowMacMinus",
 		"assetId": 70897783356094,
 		"uri": "rbxassetid://70897783356094",
-		"contributors": "$extends:app-window-mac, ericfennis"
+		"contributors": "$extends:app-window-mac, ericfennis",
+		"libraryId": 73032423131684
 	},
 	{
-		"libraryId": 123248210693132,
 		"id": "app-window-mac-minus-fill",
 		"title": "AppWindowMacMinusFill",
 		"assetId": 116911935890893,
 		"uri": "rbxassetid://116911935890893",
-		"contributors": "$extends:app-window-mac, ericfennis"
+		"contributors": "$extends:app-window-mac, ericfennis",
+		"libraryId": 123248210693132
 	},
 	{
-		"libraryId": 84749988945303,
 		"id": "app-window-mac-plus",
 		"title": "AppWindowMacPlus",
 		"assetId": 136408173717118,
 		"uri": "rbxassetid://136408173717118",
-		"contributors": "$extends:app-window-mac, ericfennis"
+		"contributors": "$extends:app-window-mac, ericfennis",
+		"libraryId": 84749988945303
 	},
 	{
-		"libraryId": 91618821291858,
 		"id": "app-window-mac-plus-fill",
 		"title": "AppWindowMacPlusFill",
 		"assetId": 100109424196538,
 		"uri": "rbxassetid://100109424196538",
-		"contributors": "$extends:app-window-mac, ericfennis"
+		"contributors": "$extends:app-window-mac, ericfennis",
+		"libraryId": 91618821291858
 	},
 	{
-		"libraryId": 111513125900754,
 		"id": "app-window-minus",
 		"title": "AppWindowMinus",
 		"assetId": 119743419789493,
 		"uri": "rbxassetid://119743419789493",
-		"contributors": "$extends:app-window, ericfennis"
+		"contributors": "$extends:app-window, ericfennis",
+		"libraryId": 111513125900754
 	},
 	{
-		"libraryId": 136096453375897,
 		"id": "app-window-minus-fill",
 		"title": "AppWindowMinusFill",
 		"assetId": 121682856471315,
 		"uri": "rbxassetid://121682856471315",
-		"contributors": "$extends:app-window, ericfennis"
+		"contributors": "$extends:app-window, ericfennis",
+		"libraryId": 136096453375897
 	},
 	{
 		"id": "app-window-plus",
@@ -4070,6 +4070,22 @@
 		"uri": "rbxassetid://109974104327838",
 		"contributors": "jamiemlaw",
 		"libraryId": 113673409334252
+	},
+	{
+		"libraryId": 110136603002968,
+		"id": "bowl-chopsticks",
+		"title": "BowlChopsticks",
+		"assetId": 139100988348392,
+		"uri": "rbxassetid://139100988348392",
+		"contributors": "HACENE-IHAB, karsa-mistmere, kemie"
+	},
+	{
+		"libraryId": 121918989828911,
+		"id": "bowl-chopsticks-fill",
+		"title": "BowlChopsticksFill",
+		"assetId": 99599004126028,
+		"uri": "rbxassetid://99599004126028",
+		"contributors": "HACENE-IHAB, karsa-mistmere, kemie"
 	},
 	{
 		"id": "box",
@@ -9304,36 +9320,36 @@
 		"libraryId": 78761506796082
 	},
 	{
-		"libraryId": 80066923650652,
 		"id": "columns-2-plus-left",
 		"title": "Columns2PlusLeft",
 		"assetId": 89647923690202,
 		"uri": "rbxassetid://89647923690202",
-		"contributors": "JMOAWeber"
+		"contributors": "JMOAWeber",
+		"libraryId": 80066923650652
 	},
 	{
-		"libraryId": 115097425726434,
 		"id": "columns-2-plus-left-fill",
 		"title": "Columns2PlusLeftFill",
 		"assetId": 108010019527989,
 		"uri": "rbxassetid://108010019527989",
-		"contributors": "JMOAWeber"
+		"contributors": "JMOAWeber",
+		"libraryId": 115097425726434
 	},
 	{
-		"libraryId": 123967726625108,
 		"id": "columns-2-plus-right",
 		"title": "Columns2PlusRight",
 		"assetId": 95313816185182,
 		"uri": "rbxassetid://95313816185182",
-		"contributors": "JMOAWeber"
+		"contributors": "JMOAWeber",
+		"libraryId": 123967726625108
 	},
 	{
-		"libraryId": 132063317475922,
 		"id": "columns-2-plus-right-fill",
 		"title": "Columns2PlusRightFill",
 		"assetId": 112443414396219,
 		"uri": "rbxassetid://112443414396219",
-		"contributors": "JMOAWeber"
+		"contributors": "JMOAWeber",
+		"libraryId": 132063317475922
 	},
 	{
 		"id": "columns-3",
@@ -11384,6 +11400,22 @@
 		"libraryId": 137445616142929
 	},
 	{
+		"libraryId": 127938631710991,
+		"id": "elevator",
+		"title": "Elevator",
+		"assetId": 131368420321478,
+		"uri": "rbxassetid://131368420321478",
+		"contributors": "AJAyanbisi, ericfennis, karsa-mistmere"
+	},
+	{
+		"libraryId": 82002825371578,
+		"id": "elevator-fill",
+		"title": "ElevatorFill",
+		"assetId": 119622399700863,
+		"uri": "rbxassetid://119622399700863",
+		"contributors": "AJAyanbisi, ericfennis, karsa-mistmere"
+	},
+	{
 		"id": "ellipse",
 		"title": "Ellipse",
 		"assetId": 122579286971819,
@@ -12696,20 +12728,20 @@
 		"libraryId": 103778779585049
 	},
 	{
-		"libraryId": 136693122540944,
 		"id": "file-text-sparkles",
 		"title": "FileTextSparkles",
 		"assetId": 133908323209108,
 		"uri": "rbxassetid://133908323209108",
-		"contributors": "$extends:file-text, karsa-mistmere"
+		"contributors": "$extends:file-text, karsa-mistmere",
+		"libraryId": 136693122540944
 	},
 	{
-		"libraryId": 135792410752433,
 		"id": "file-text-sparkles-fill",
 		"title": "FileTextSparklesFill",
 		"assetId": 74478659343855,
 		"uri": "rbxassetid://74478659343855",
-		"contributors": "$extends:file-text, karsa-mistmere"
+		"contributors": "$extends:file-text, karsa-mistmere",
+		"libraryId": 135792410752433
 	},
 	{
 		"id": "file-type",
@@ -14656,6 +14688,22 @@
 		"libraryId": 73865717878265
 	},
 	{
+		"libraryId": 104992346713229,
+		"id": "globe-clock",
+		"title": "GlobeClock",
+		"assetId": 119612453219423,
+		"uri": "rbxassetid://119612453219423",
+		"contributors": "ericfennis, abdul-karim-mia"
+	},
+	{
+		"libraryId": 123020505172695,
+		"id": "globe-clock-fill",
+		"title": "GlobeClockFill",
+		"assetId": 131510477214194,
+		"uri": "rbxassetid://131510477214194",
+		"contributors": "ericfennis, abdul-karim-mia"
+	},
+	{
 		"id": "globe-code",
 		"title": "GlobeCode",
 		"assetId": 90845243398298,
@@ -16296,20 +16344,20 @@
 		"libraryId": 105847374623661
 	},
 	{
-		"libraryId": 89973188697159,
 		"id": "image-sparkles",
 		"title": "ImageSparkles",
 		"assetId": 85390038149779,
 		"uri": "rbxassetid://85390038149779",
-		"contributors": "$extends:image, jguddas"
+		"contributors": "$extends:image, jguddas",
+		"libraryId": 89973188697159
 	},
 	{
-		"libraryId": 120370373183482,
 		"id": "image-sparkles-fill",
 		"title": "ImageSparklesFill",
 		"assetId": 76676026547703,
 		"uri": "rbxassetid://76676026547703",
-		"contributors": "$extends:image, jguddas"
+		"contributors": "$extends:image, jguddas",
+		"libraryId": 120370373183482
 	},
 	{
 		"id": "image-up",
@@ -18464,20 +18512,20 @@
 		"libraryId": 84305362897323
 	},
 	{
-		"libraryId": 89186070182056,
 		"id": "list-x-corner",
 		"title": "ListXCorner",
 		"assetId": 86455755067290,
 		"uri": "rbxassetid://86455755067290",
-		"contributors": "AbeyHurtis"
+		"contributors": "AbeyHurtis",
+		"libraryId": 89186070182056
 	},
 	{
-		"libraryId": 133670039265541,
 		"id": "list-x-corner-fill",
 		"title": "ListXCornerFill",
 		"assetId": 119496159935226,
 		"uri": "rbxassetid://119496159935226",
-		"contributors": "AbeyHurtis"
+		"contributors": "AbeyHurtis",
+		"libraryId": 133670039265541
 	},
 	{
 		"id": "list-x-fill",
@@ -23208,20 +23256,20 @@
 		"libraryId": 133245390429721
 	},
 	{
-		"libraryId": 103554929563582,
 		"id": "plane-off",
 		"title": "PlaneOff",
 		"assetId": 138925502556301,
 		"uri": "rbxassetid://138925502556301",
-		"contributors": "karsa-mistmere, jguddas, ahtohbi4, csandman, ericfennis, dango0812"
+		"contributors": "karsa-mistmere, jguddas, ahtohbi4, csandman, ericfennis, dango0812",
+		"libraryId": 103554929563582
 	},
 	{
-		"libraryId": 121822059244315,
 		"id": "plane-off-fill",
 		"title": "PlaneOffFill",
 		"assetId": 71974494917726,
 		"uri": "rbxassetid://71974494917726",
-		"contributors": "karsa-mistmere, jguddas, ahtohbi4, csandman, ericfennis, dango0812"
+		"contributors": "karsa-mistmere, jguddas, ahtohbi4, csandman, ericfennis, dango0812",
+		"libraryId": 121822059244315
 	},
 	{
 		"id": "plane-takeoff",
@@ -24136,20 +24184,36 @@
 		"libraryId": 86078483771634
 	},
 	{
-		"libraryId": 105646135075001,
+		"libraryId": 132839741541886,
+		"id": "rectangle-horizontal-play",
+		"title": "RectangleHorizontalPlay",
+		"assetId": 76347663088406,
+		"uri": "rbxassetid://76347663088406",
+		"contributors": "scottgriffinm"
+	},
+	{
+		"libraryId": 125534262462604,
+		"id": "rectangle-horizontal-play-fill",
+		"title": "RectangleHorizontalPlayFill",
+		"assetId": 75623872788590,
+		"uri": "rbxassetid://75623872788590",
+		"contributors": "scottgriffinm"
+	},
+	{
 		"id": "rectangle-horizontal-plus",
 		"title": "RectangleHorizontalPlus",
 		"assetId": 129912659467631,
 		"uri": "rbxassetid://129912659467631",
-		"contributors": "ammar08429"
+		"contributors": "ammar08429",
+		"libraryId": 105646135075001
 	},
 	{
-		"libraryId": 115208717435153,
 		"id": "rectangle-horizontal-plus-fill",
 		"title": "RectangleHorizontalPlusFill",
 		"assetId": 90057621350370,
 		"uri": "rbxassetid://90057621350370",
-		"contributors": "ammar08429"
+		"contributors": "ammar08429",
+		"libraryId": 115208717435153
 	},
 	{
 		"id": "rectangle-landscape-play",
@@ -24856,36 +24920,36 @@
 		"libraryId": 73808099190969
 	},
 	{
-		"libraryId": 121231861764636,
 		"id": "rows-2-plus-bottom",
 		"title": "Rows2PlusBottom",
 		"assetId": 95438739090426,
 		"uri": "rbxassetid://95438739090426",
-		"contributors": "JMOAWeber"
+		"contributors": "JMOAWeber",
+		"libraryId": 121231861764636
 	},
 	{
-		"libraryId": 134810375839140,
 		"id": "rows-2-plus-bottom-fill",
 		"title": "Rows2PlusBottomFill",
 		"assetId": 86959764231889,
 		"uri": "rbxassetid://86959764231889",
-		"contributors": "JMOAWeber"
+		"contributors": "JMOAWeber",
+		"libraryId": 134810375839140
 	},
 	{
-		"libraryId": 134762483268644,
 		"id": "rows-2-plus-top",
 		"title": "Rows2PlusTop",
 		"assetId": 92849684116650,
 		"uri": "rbxassetid://92849684116650",
-		"contributors": "JMOAWeber"
+		"contributors": "JMOAWeber",
+		"libraryId": 134762483268644
 	},
 	{
-		"libraryId": 110848400554679,
 		"id": "rows-2-plus-top-fill",
 		"title": "Rows2PlusTopFill",
 		"assetId": 112895378024183,
 		"uri": "rbxassetid://112895378024183",
-		"contributors": "JMOAWeber"
+		"contributors": "JMOAWeber",
+		"libraryId": 110848400554679
 	},
 	{
 		"id": "rows-3",
@@ -25512,20 +25576,20 @@
 		"libraryId": 131362072735084
 	},
 	{
-		"libraryId": 84515344140238,
 		"id": "screwdriver",
 		"title": "Screwdriver",
 		"assetId": 128464082994490,
 		"uri": "rbxassetid://128464082994490",
-		"contributors": "josh-f, ericfennis, karsa-mistmere, abdul-karim-mia"
+		"contributors": "josh-f, ericfennis, karsa-mistmere, abdul-karim-mia",
+		"libraryId": 84515344140238
 	},
 	{
-		"libraryId": 90509608623971,
 		"id": "screwdriver-fill",
 		"title": "ScrewdriverFill",
 		"assetId": 122514602883328,
 		"uri": "rbxassetid://122514602883328",
-		"contributors": "josh-f, ericfennis, karsa-mistmere, abdul-karim-mia"
+		"contributors": "josh-f, ericfennis, karsa-mistmere, abdul-karim-mia",
+		"libraryId": 90509608623971
 	},
 	{
 		"id": "scroll",
@@ -29720,6 +29784,22 @@
 		"libraryId": 87802557347147
 	},
 	{
+		"libraryId": 116313031820787,
+		"id": "steering-wheel",
+		"title": "SteeringWheel",
+		"assetId": 136388960766355,
+		"uri": "rbxassetid://136388960766355",
+		"contributors": "danielbayley, karsa-mistmere, abdul-karim-mia"
+	},
+	{
+		"libraryId": 110214640521099,
+		"id": "steering-wheel-fill",
+		"title": "SteeringWheelFill",
+		"assetId": 133182671599773,
+		"uri": "rbxassetid://133182671599773",
+		"contributors": "danielbayley, karsa-mistmere, abdul-karim-mia"
+	},
+	{
 		"id": "step-back",
 		"title": "StepBack",
 		"assetId": 80441898337728,
@@ -31672,20 +31752,20 @@
 		"libraryId": 139395419363455
 	},
 	{
-		"libraryId": 140581354260350,
 		"id": "train-high-speed",
 		"title": "TrainHighSpeed",
 		"assetId": 128777170067903,
 		"uri": "rbxassetid://128777170067903",
-		"contributors": "SlDo, rrod497, ericfennis"
+		"contributors": "SlDo, rrod497, ericfennis",
+		"libraryId": 140581354260350
 	},
 	{
-		"libraryId": 100570703718966,
 		"id": "train-high-speed-fill",
 		"title": "TrainHighSpeedFill",
 		"assetId": 138692751810906,
 		"uri": "rbxassetid://138692751810906",
-		"contributors": "SlDo, rrod497, ericfennis"
+		"contributors": "SlDo, rrod497, ericfennis",
+		"libraryId": 100570703718966
 	},
 	{
 		"id": "train-track",
@@ -31768,20 +31848,20 @@
 		"libraryId": 109765046717241
 	},
 	{
-		"libraryId": 85819165472778,
 		"id": "trash-leaf",
 		"title": "TrashLeaf",
 		"assetId": 132750346097263,
 		"uri": "rbxassetid://132750346097263",
-		"contributors": "ericfennis, karsa-mistmere"
+		"contributors": "ericfennis, karsa-mistmere",
+		"libraryId": 85819165472778
 	},
 	{
-		"libraryId": 131321283616627,
 		"id": "trash-leaf-fill",
 		"title": "TrashLeafFill",
 		"assetId": 89824693252463,
 		"uri": "rbxassetid://89824693252463",
-		"contributors": "ericfennis, karsa-mistmere"
+		"contributors": "ericfennis, karsa-mistmere",
+		"libraryId": 131321283616627
 	},
 	{
 		"id": "trash-off",
