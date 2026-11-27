@@ -4072,20 +4072,20 @@
 		"libraryId": 113673409334252
 	},
 	{
-		"libraryId": 110136603002968,
 		"id": "bowl-chopsticks",
 		"title": "BowlChopsticks",
 		"assetId": 139100988348392,
 		"uri": "rbxassetid://139100988348392",
-		"contributors": "HACENE-IHAB, karsa-mistmere, kemie"
+		"contributors": "HACENE-IHAB, karsa-mistmere, kemie",
+		"libraryId": 110136603002968
 	},
 	{
-		"libraryId": 121918989828911,
 		"id": "bowl-chopsticks-fill",
 		"title": "BowlChopsticksFill",
 		"assetId": 99599004126028,
 		"uri": "rbxassetid://99599004126028",
-		"contributors": "HACENE-IHAB, karsa-mistmere, kemie"
+		"contributors": "HACENE-IHAB, karsa-mistmere, kemie",
+		"libraryId": 121918989828911
 	},
 	{
 		"id": "box",
@@ -4166,6 +4166,22 @@
 		"uri": "rbxassetid://120584959504640",
 		"contributors": "danielbayley, karsa-mistmere",
 		"libraryId": 80903095782674
+	},
+	{
+		"libraryId": 98494590877461,
+		"id": "braces-sigma",
+		"title": "BracesSigma",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "LinXruan, $extends:braces"
+	},
+	{
+		"libraryId": 134547692229273,
+		"id": "braces-sigma-fill",
+		"title": "BracesSigmaFill",
+		"assetId": 0,
+		"uri": "",
+		"contributors": "LinXruan, $extends:braces"
 	},
 	{
 		"id": "brackets",
@@ -11400,20 +11416,20 @@
 		"libraryId": 137445616142929
 	},
 	{
-		"libraryId": 127938631710991,
 		"id": "elevator",
 		"title": "Elevator",
 		"assetId": 131368420321478,
 		"uri": "rbxassetid://131368420321478",
-		"contributors": "AJAyanbisi, ericfennis, karsa-mistmere"
+		"contributors": "AJAyanbisi, ericfennis, karsa-mistmere",
+		"libraryId": 127938631710991
 	},
 	{
-		"libraryId": 82002825371578,
 		"id": "elevator-fill",
 		"title": "ElevatorFill",
 		"assetId": 119622399700863,
 		"uri": "rbxassetid://119622399700863",
-		"contributors": "AJAyanbisi, ericfennis, karsa-mistmere"
+		"contributors": "AJAyanbisi, ericfennis, karsa-mistmere",
+		"libraryId": 82002825371578
 	},
 	{
 		"id": "ellipse",
@@ -14688,20 +14704,20 @@
 		"libraryId": 73865717878265
 	},
 	{
-		"libraryId": 104992346713229,
 		"id": "globe-clock",
 		"title": "GlobeClock",
 		"assetId": 119612453219423,
 		"uri": "rbxassetid://119612453219423",
-		"contributors": "ericfennis, abdul-karim-mia"
+		"contributors": "ericfennis, abdul-karim-mia",
+		"libraryId": 104992346713229
 	},
 	{
-		"libraryId": 123020505172695,
 		"id": "globe-clock-fill",
 		"title": "GlobeClockFill",
 		"assetId": 131510477214194,
 		"uri": "rbxassetid://131510477214194",
-		"contributors": "ericfennis, abdul-karim-mia"
+		"contributors": "ericfennis, abdul-karim-mia",
+		"libraryId": 123020505172695
 	},
 	{
 		"id": "globe-code",
@@ -24184,20 +24200,20 @@
 		"libraryId": 86078483771634
 	},
 	{
-		"libraryId": 132839741541886,
 		"id": "rectangle-horizontal-play",
 		"title": "RectangleHorizontalPlay",
 		"assetId": 76347663088406,
 		"uri": "rbxassetid://76347663088406",
-		"contributors": "scottgriffinm"
+		"contributors": "scottgriffinm",
+		"libraryId": 132839741541886
 	},
 	{
-		"libraryId": 125534262462604,
 		"id": "rectangle-horizontal-play-fill",
 		"title": "RectangleHorizontalPlayFill",
 		"assetId": 75623872788590,
 		"uri": "rbxassetid://75623872788590",
-		"contributors": "scottgriffinm"
+		"contributors": "scottgriffinm",
+		"libraryId": 125534262462604
 	},
 	{
 		"id": "rectangle-horizontal-plus",
@@ -29784,20 +29800,20 @@
 		"libraryId": 87802557347147
 	},
 	{
-		"libraryId": 116313031820787,
 		"id": "steering-wheel",
 		"title": "SteeringWheel",
 		"assetId": 136388960766355,
 		"uri": "rbxassetid://136388960766355",
-		"contributors": "danielbayley, karsa-mistmere, abdul-karim-mia"
+		"contributors": "danielbayley, karsa-mistmere, abdul-karim-mia",
+		"libraryId": 116313031820787
 	},
 	{
-		"libraryId": 110214640521099,
 		"id": "steering-wheel-fill",
 		"title": "SteeringWheelFill",
 		"assetId": 133182671599773,
 		"uri": "rbxassetid://133182671599773",
-		"contributors": "danielbayley, karsa-mistmere, abdul-karim-mia"
+		"contributors": "danielbayley, karsa-mistmere, abdul-karim-mia",
+		"libraryId": 110214640521099
 	},
 	{
 		"id": "step-back",
